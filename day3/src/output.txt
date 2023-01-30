@@ -1,0 +1,8194 @@
+Santa: 1, 0 New
+Robo: 0, 1 New
+Santa: 1, 1 New
+Robo: 0, 0 New
+Santa: 1, 2 New
+Robo: -1, 0 New
+Santa: 2, 2 New
+Robo: -1, -1 New
+Santa: 1, 2
+Robo: -2, -1 New
+Santa: 0, 2 New
+Robo: -2, -2 New
+Santa: -1, 2 New
+Robo: -2, -3 New
+Santa: -1, 3 New
+Robo: -1, -3 New
+Santa: 0, 3 New
+Robo: -1, -4 New
+Santa: 0, 4 New
+Robo: -1, -3
+Santa: 0, 5 New
+Robo: -2, -3
+Santa: 0, 4
+Robo: -3, -3 New
+Santa: 1, 4 New
+Robo: -3, -2 New
+Santa: 1, 5 New
+Robo: -2, -2
+Santa: 0, 5
+Robo: -2, -1
+Santa: -1, 5 New
+Robo: -3, -1 New
+Santa: -1, 6 New
+Robo: -3, -2
+Santa: -1, 5
+Robo: -2, -2
+Santa: 0, 5
+Robo: -1, -2 New
+Santa: 0, 6 New
+Robo: -2, -2
+Santa: -1, 6
+Robo: -2, -1
+Santa: 0, 6
+Robo: -1, -1
+Santa: -1, 6
+Robo: -1, -2
+Santa: -1, 5
+Robo: -2, -2
+Santa: -2, 5 New
+Robo: -2, -3
+Santa: -2, 6 New
+Robo: -3, -3
+Santa: -2, 7 New
+Robo: -3, -2
+Santa: -1, 7 New
+Robo: -4, -2 New
+Santa: 0, 7 New
+Robo: -3, -2
+Santa: 1, 7 New
+Robo: -4, -2
+Santa: 2, 7 New
+Robo: -4, -3 New
+Santa: 1, 7
+Robo: -3, -3
+Santa: 0, 7
+Robo: -2, -3
+Santa: 0, 8 New
+Robo: -2, -2
+Santa: -1, 8 New
+Robo: -2, -1
+Santa: -1, 9 New
+Robo: -2, 0 New
+Santa: -2, 9 New
+Robo: -1, 0
+Santa: -3, 9 New
+Robo: 0, 0
+Santa: -2, 9
+Robo: 0, -1 New
+Santa: -2, 8 New
+Robo: 1, -1 New
+Santa: -2, 7
+Robo: 1, -2 New
+Santa: -1, 7
+Robo: 1, -3 New
+Santa: -2, 7
+Robo: 0, -3 New
+Santa: -2, 8
+Robo: 1, -3
+Santa: -2, 7
+Robo: 0, -3
+Santa: -1, 7
+Robo: 0, -2 New
+Santa: 0, 7
+Robo: 0, -3
+Santa: -1, 7
+Robo: 0, -4 New
+Santa: -1, 8
+Robo: -1, -4
+Santa: 0, 8
+Robo: -1, -5 New
+Santa: 1, 8 New
+Robo: 0, -5 New
+Santa: 0, 8
+Robo: 1, -5 New
+Santa: 0, 9 New
+Robo: 1, -6 New
+Santa: -1, 9
+Robo: 0, -6 New
+Santa: -2, 9
+Robo: -1, -6 New
+Santa: -2, 8
+Robo: -1, -5
+Santa: -2, 7
+Robo: -1, -6
+Santa: -2, 8
+Robo: 0, -6
+Santa: -3, 8 New
+Robo: 0, -7 New
+Santa: -2, 8
+Robo: 0, -8 New
+Santa: -2, 9
+Robo: 1, -8 New
+Santa: -1, 9
+Robo: 2, -8 New
+Santa: -1, 8
+Robo: 2, -9 New
+Santa: 0, 8
+Robo: 2, -10 New
+Santa: 0, 9
+Robo: 2, -9
+Santa: 0, 10 New
+Robo: 1, -9 New
+Santa: 0, 11 New
+Robo: 1, -8
+Santa: -1, 11 New
+Robo: 2, -8
+Santa: 0, 11
+Robo: 2, -9
+Santa: -1, 11
+Robo: 2, -8
+Santa: -1, 12 New
+Robo: 2, -9
+Santa: -2, 12 New
+Robo: 3, -9 New
+Santa: -2, 13 New
+Robo: 2, -9
+Santa: -2, 12
+Robo: 2, -10
+Santa: -2, 13
+Robo: 2, -9
+Santa: -3, 13 New
+Robo: 2, -8
+Santa: -2, 13
+Robo: 1, -8
+Santa: -3, 13
+Robo: 2, -8
+Santa: -3, 14 New
+Robo: 3, -8 New
+Santa: -2, 14 New
+Robo: 2, -8
+Santa: -2, 15 New
+Robo: 1, -8
+Santa: -1, 15 New
+Robo: 2, -8
+Santa: 0, 15 New
+Robo: 1, -8
+Santa: 1, 15 New
+Robo: 0, -8
+Santa: 1, 14 New
+Robo: 0, -9 New
+Santa: 2, 14 New
+Robo: -1, -9 New
+Santa: 3, 14 New
+Robo: -1, -10 New
+Santa: 2, 14
+Robo: -2, -10 New
+Santa: 1, 14
+Robo: -1, -10
+Santa: 0, 14 New
+Robo: 0, -10 New
+Santa: -1, 14 New
+Robo: 1, -10 New
+Santa: -1, 13 New
+Robo: 2, -10
+Santa: -2, 13
+Robo: 1, -10
+Santa: -1, 13
+Robo: 1, -9
+Santa: -1, 14
+Robo: 1, -8
+Santa: -1, 15
+Robo: 1, -9
+Santa: 0, 15
+Robo: 2, -9
+Santa: 0, 16 New
+Robo: 3, -9
+Santa: 0, 17 New
+Robo: 2, -9
+Santa: 0, 16
+Robo: 1, -9
+Santa: -1, 16 New
+Robo: 1, -10
+Santa: -1, 15
+Robo: 1, -9
+Santa: -1, 16
+Robo: 0, -9
+Santa: -1, 15
+Robo: -1, -9
+Santa: -1, 16
+Robo: -2, -9 New
+Santa: -1, 17 New
+Robo: -1, -9
+Santa: -1, 18 New
+Robo: -1, -8 New
+Santa: -1, 17
+Robo: -1, -7 New
+Santa: -1, 18
+Robo: -1, -6
+Santa: -1, 19 New
+Robo: -1, -5
+Santa: -1, 18
+Robo: -2, -5 New
+Santa: 0, 18 New
+Robo: -3, -5 New
+Santa: 0, 19 New
+Robo: -3, -6 New
+Santa: 1, 19 New
+Robo: -4, -6 New
+Santa: 0, 19
+Robo: -3, -6
+Santa: -1, 19
+Robo: -3, -5
+Santa: -1, 18
+Robo: -3, -4 New
+Santa: 0, 18
+Robo: -3, -5
+Santa: -1, 18
+Robo: -4, -5 New
+Santa: 0, 18
+Robo: -4, -4 New
+Santa: -1, 18
+Robo: -3, -4
+Santa: -1, 19
+Robo: -3, -3
+Santa: -1, 18
+Robo: -3, -2
+Santa: -2, 18 New
+Robo: -2, -2
+Santa: -2, 17 New
+Robo: -3, -2
+Santa: -2, 16 New
+Robo: -3, -1
+Santa: -1, 16
+Robo: -3, -2
+Santa: 0, 16
+Robo: -3, -1
+Santa: 0, 17
+Robo: -4, -1 New
+Santa: 0, 16
+Robo: -4, -2
+Santa: 0, 17
+Robo: -4, -3
+Santa: 1, 17 New
+Robo: -5, -3 New
+Santa: 1, 18 New
+Robo: -6, -3 New
+Santa: 2, 18 New
+Robo: -6, -2 New
+Santa: 2, 17 New
+Robo: -7, -2 New
+Santa: 3, 17 New
+Robo: -8, -2 New
+Santa: 3, 18 New
+Robo: -7, -2
+Santa: 2, 18
+Robo: -7, -3 New
+Santa: 2, 19 New
+Robo: -6, -3
+Santa: 1, 19
+Robo: -5, -3
+Santa: 0, 19
+Robo: -4, -3
+Santa: -1, 19
+Robo: -5, -3
+Santa: -2, 19 New
+Robo: -6, -3
+Santa: -1, 19
+Robo: -6, -2
+Santa: -1, 18
+Robo: -6, -3
+Santa: -1, 19
+Robo: -5, -3
+Santa: -1, 20 New
+Robo: -5, -4 New
+Santa: -1, 19
+Robo: -5, -5 New
+Santa: -1, 18
+Robo: -5, -6 New
+Santa: 0, 18
+Robo: -6, -6 New
+Santa: 1, 18
+Robo: -7, -6 New
+Santa: 1, 19
+Robo: -8, -6 New
+Santa: 1, 18
+Robo: -8, -7 New
+Santa: 1, 19
+Robo: -8, -8 New
+Santa: 1, 20 New
+Robo: -8, -9 New
+Santa: 2, 20 New
+Robo: -8, -10 New
+Santa: 1, 20
+Robo: -9, -10 New
+Santa: 1, 21 New
+Robo: -10, -10 New
+Santa: 1, 22 New
+Robo: -10, -9 New
+Santa: 1, 21
+Robo: -10, -8 New
+Santa: 0, 21 New
+Robo: -9, -8 New
+Santa: 0, 22 New
+Robo: -10, -8
+Santa: 0, 21
+Robo: -10, -9
+Santa: 1, 21
+Robo: -11, -9 New
+Santa: 1, 20
+Robo: -12, -9 New
+Santa: 1, 19
+Robo: -12, -8 New
+Santa: 1, 18
+Robo: -13, -8 New
+Santa: 0, 18
+Robo: -13, -9 New
+Santa: -1, 18
+Robo: -14, -9 New
+Santa: -1, 19
+Robo: -14, -8 New
+Santa: 0, 19
+Robo: -13, -8
+Santa: 0, 20 New
+Robo: -13, -7 New
+Santa: 0, 21
+Robo: -13, -8
+Santa: 0, 22
+Robo: -12, -8
+Santa: 0, 21
+Robo: -13, -8
+Santa: 1, 21
+Robo: -14, -8
+Santa: 1, 22
+Robo: -14, -9
+Santa: 1, 21
+Robo: -15, -9 New
+Santa: 0, 21
+Robo: -15, -8 New
+Santa: -1, 21 New
+Robo: -14, -8
+Santa: -1, 20
+Robo: -15, -8
+Santa: -1, 19
+Robo: -14, -8
+Santa: -2, 19
+Robo: -13, -8
+Santa: -3, 19 New
+Robo: -13, -9
+Santa: -3, 20 New
+Robo: -13, -8
+Santa: -2, 20 New
+Robo: -14, -8
+Santa: -2, 19
+Robo: -15, -8
+Santa: -1, 19
+Robo: -15, -7 New
+Santa: -1, 20
+Robo: -14, -7 New
+Santa: -1, 21
+Robo: -14, -6 New
+Santa: 0, 21
+Robo: -14, -7
+Santa: 0, 22
+Robo: -13, -7
+Santa: 0, 23 New
+Robo: -14, -7
+Santa: -1, 23 New
+Robo: -15, -7
+Santa: -2, 23 New
+Robo: -15, -8
+Santa: -1, 23
+Robo: -16, -8 New
+Santa: -1, 22 New
+Robo: -17, -8 New
+Santa: -2, 22 New
+Robo: -16, -8
+Santa: -2, 21 New
+Robo: -15, -8
+Santa: -3, 21 New
+Robo: -15, -7
+Santa: -3, 20
+Robo: -14, -7
+Santa: -3, 21
+Robo: -13, -7
+Santa: -2, 21
+Robo: -14, -7
+Santa: -2, 20
+Robo: -14, -6
+Santa: -2, 21
+Robo: -15, -6 New
+Santa: -2, 22
+Robo: -14, -6
+Santa: -2, 21
+Robo: -15, -6
+Santa: -2, 20
+Robo: -15, -7
+Santa: -2, 19
+Robo: -15, -8
+Santa: -3, 19
+Robo: -14, -8
+Santa: -2, 19
+Robo: -13, -8
+Santa: -1, 19
+Robo: -12, -8
+Santa: -1, 20
+Robo: -12, -9
+Santa: -1, 21
+Robo: -12, -8
+Santa: 0, 21
+Robo: -12, -9
+Santa: -1, 21
+Robo: -12, -10 New
+Santa: -2, 21
+Robo: -12, -9
+Santa: -3, 21
+Robo: -12, -10
+Santa: -3, 20
+Robo: -11, -10 New
+Santa: -3, 21
+Robo: -10, -10
+Santa: -3, 22 New
+Robo: -10, -11 New
+Santa: -3, 21
+Robo: -10, -10
+Santa: -2, 21
+Robo: -10, -11
+Santa: -2, 20
+Robo: -10, -10
+Santa: -2, 21
+Robo: -10, -11
+Santa: -3, 21
+Robo: -11, -11 New
+Santa: -3, 22
+Robo: -12, -11 New
+Santa: -3, 23 New
+Robo: -12, -10
+Santa: -4, 23 New
+Robo: -11, -10
+Santa: -4, 22 New
+Robo: -10, -10
+Santa: -4, 21 New
+Robo: -10, -11
+Santa: -4, 22
+Robo: -10, -12 New
+Santa: -3, 22
+Robo: -9, -12 New
+Santa: -4, 22
+Robo: -8, -12 New
+Santa: -3, 22
+Robo: -7, -12 New
+Santa: -3, 21
+Robo: -7, -11 New
+Santa: -2, 21
+Robo: -7, -10 New
+Santa: -1, 21
+Robo: -7, -9 New
+Santa: -1, 22
+Robo: -7, -10
+Santa: -2, 22
+Robo: -6, -10 New
+Santa: -2, 23
+Robo: -7, -10
+Santa: -2, 22
+Robo: -8, -10
+Santa: -3, 22
+Robo: -7, -10
+Santa: -3, 23
+Robo: -7, -11
+Santa: -3, 22
+Robo: -6, -11 New
+Santa: -3, 21
+Robo: -6, -10
+Santa: -4, 21
+Robo: -7, -10
+Santa: -4, 20 New
+Robo: -6, -10
+Santa: -4, 19 New
+Robo: -7, -10
+Santa: -5, 19 New
+Robo: -6, -10
+Santa: -6, 19 New
+Robo: -6, -11
+Santa: -5, 19
+Robo: -6, -10
+Santa: -5, 18 New
+Robo: -6, -11
+Santa: -5, 17 New
+Robo: -7, -11
+Santa: -5, 16 New
+Robo: -8, -11 New
+Santa: -5, 15 New
+Robo: -8, -12
+Santa: -5, 14 New
+Robo: -8, -11
+Santa: -5, 13 New
+Robo: -9, -11 New
+Santa: -5, 12 New
+Robo: -9, -12
+Santa: -6, 12 New
+Robo: -9, -13 New
+Santa: -6, 13 New
+Robo: -9, -12
+Santa: -6, 14 New
+Robo: -8, -12
+Santa: -6, 13
+Robo: -7, -12
+Santa: -7, 13 New
+Robo: -8, -12
+Santa: -7, 14 New
+Robo: -9, -12
+Santa: -6, 14
+Robo: -8, -12
+Santa: -7, 14
+Robo: -8, -13 New
+Santa: -7, 15 New
+Robo: -8, -12
+Santa: -6, 15 New
+Robo: -8, -11
+Santa: -6, 14
+Robo: -8, -10
+Santa: -5, 14
+Robo: -7, -10
+Santa: -5, 15
+Robo: -7, -11
+Santa: -6, 15
+Robo: -7, -10
+Santa: -7, 15
+Robo: -6, -10
+Santa: -8, 15 New
+Robo: -6, -11
+Santa: -9, 15 New
+Robo: -5, -11 New
+Santa: -8, 15
+Robo: -5, -12 New
+Santa: -8, 16 New
+Robo: -6, -12 New
+Santa: -7, 16 New
+Robo: -5, -12
+Santa: -7, 15
+Robo: -6, -12
+Santa: -6, 15
+Robo: -5, -12
+Santa: -6, 14
+Robo: -5, -11
+Santa: -6, 15
+Robo: -5, -10 New
+Santa: -5, 15
+Robo: -6, -10
+Santa: -5, 16
+Robo: -5, -10
+Santa: -4, 16 New
+Robo: -5, -11
+Santa: -4, 15 New
+Robo: -5, -12
+Santa: -4, 14 New
+Robo: -4, -12 New
+Santa: -4, 15
+Robo: -4, -13 New
+Santa: -5, 15
+Robo: -4, -12
+Santa: -4, 15
+Robo: -5, -12
+Santa: -5, 15
+Robo: -4, -12
+Santa: -4, 15
+Robo: -4, -11 New
+Santa: -5, 15
+Robo: -3, -11 New
+Santa: -5, 16
+Robo: -2, -11 New
+Santa: -5, 15
+Robo: -2, -12 New
+Santa: -4, 15
+Robo: -3, -12 New
+Santa: -4, 14
+Robo: -4, -12
+Santa: -5, 14
+Robo: -3, -12
+Santa: -4, 14
+Robo: -3, -11
+Santa: -4, 15
+Robo: -2, -11
+Santa: -4, 14
+Robo: -2, -10
+Santa: -4, 15
+Robo: -2, -9
+Santa: -3, 15 New
+Robo: -3, -9 New
+Santa: -3, 16 New
+Robo: -4, -9 New
+Santa: -4, 16
+Robo: -4, -8 New
+Santa: -4, 17 New
+Robo: -4, -9
+Santa: -3, 17 New
+Robo: -4, -10 New
+Santa: -4, 17
+Robo: -4, -9
+Santa: -5, 17
+Robo: -5, -9 New
+Santa: -4, 17
+Robo: -5, -10
+Santa: -3, 17
+Robo: -5, -9
+Santa: -3, 18 New
+Robo: -5, -10
+Santa: -3, 17
+Robo: -5, -11
+Santa: -3, 18
+Robo: -5, -12
+Santa: -3, 19
+Robo: -4, -12
+Santa: -3, 18
+Robo: -4, -11
+Santa: -4, 18 New
+Robo: -3, -11
+Santa: -4, 19
+Robo: -3, -10 New
+Santa: -5, 19
+Robo: -2, -10
+Santa: -5, 18
+Robo: -2, -9
+Santa: -5, 17
+Robo: -1, -9
+Santa: -5, 16
+Robo: 0, -9
+Santa: -5, 15
+Robo: -1, -9
+Santa: -5, 14
+Robo: -1, -8
+Santa: -4, 14
+Robo: -1, -9
+Santa: -4, 13 New
+Robo: 0, -9
+Santa: -4, 14
+Robo: 0, -8
+Santa: -4, 13
+Robo: -1, -8
+Santa: -3, 13
+Robo: -1, -9
+Santa: -2, 13
+Robo: 0, -9
+Santa: -2, 14
+Robo: -1, -9
+Santa: -1, 14
+Robo: 0, -9
+Santa: -2, 14
+Robo: 1, -9
+Santa: -2, 13
+Robo: 2, -9
+Santa: -2, 12
+Robo: 2, -8
+Santa: -3, 12 New
+Robo: 1, -8
+Santa: -3, 11 New
+Robo: 1, -9
+Santa: -3, 10 New
+Robo: 1, -10
+Santa: -4, 10 New
+Robo: 1, -11 New
+Santa: -4, 9 New
+Robo: 1, -12 New
+Santa: -3, 9
+Robo: 0, -12 New
+Santa: -3, 8
+Robo: 0, -11 New
+Santa: -4, 8 New
+Robo: 0, -10
+Santa: -3, 8
+Robo: 0, -9
+Santa: -3, 7 New
+Robo: -1, -9
+Santa: -2, 7
+Robo: 0, -9
+Santa: -2, 8
+Robo: 1, -9
+Santa: -3, 8
+Robo: 1, -10
+Santa: -2, 8
+Robo: 2, -10
+Santa: -3, 8
+Robo: 3, -10 New
+Santa: -3, 9
+Robo: 2, -10
+Santa: -3, 8
+Robo: 3, -10
+Santa: -3, 7
+Robo: 2, -10
+Santa: -3, 6 New
+Robo: 3, -10
+Santa: -3, 5 New
+Robo: 3, -11 New
+Santa: -3, 6
+Robo: 4, -11 New
+Santa: -2, 6
+Robo: 4, -12 New
+Santa: -2, 5
+Robo: 4, -13 New
+Santa: -3, 5
+Robo: 5, -13 New
+Santa: -3, 4 New
+Robo: 6, -13 New
+Santa: -3, 3 New
+Robo: 5, -13
+Santa: -3, 2 New
+Robo: 5, -12 New
+Santa: -2, 2 New
+Robo: 6, -12 New
+Santa: -2, 3 New
+Robo: 7, -12 New
+Santa: -1, 3
+Robo: 7, -13 New
+Santa: -2, 3
+Robo: 6, -13
+Santa: -1, 3
+Robo: 6, -12
+Santa: -2, 3
+Robo: 7, -12
+Santa: -2, 4 New
+Robo: 6, -12
+Santa: -1, 4 New
+Robo: 7, -12
+Santa: 0, 4
+Robo: 7, -11 New
+Santa: 0, 3
+Robo: 6, -11 New
+Santa: -1, 3
+Robo: 5, -11 New
+Santa: -1, 4
+Robo: 4, -11
+Santa: -1, 5
+Robo: 4, -12
+Santa: 0, 5
+Robo: 4, -13
+Santa: 0, 4
+Robo: 4, -12
+Santa: 1, 4
+Robo: 5, -12
+Santa: 0, 4
+Robo: 4, -12
+Santa: 1, 4
+Robo: 3, -12 New
+Santa: 1, 3 New
+Robo: 3, -11
+Santa: 2, 3 New
+Robo: 3, -10
+Santa: 2, 2
+Robo: 3, -9
+Santa: 2, 3
+Robo: 3, -8
+Santa: 2, 2
+Robo: 2, -8
+Santa: 3, 2 New
+Robo: 2, -7 New
+Santa: 3, 3 New
+Robo: 2, -8
+Santa: 3, 2
+Robo: 3, -8
+Santa: 2, 2
+Robo: 4, -8 New
+Santa: 3, 2
+Robo: 3, -8
+Santa: 4, 2 New
+Robo: 4, -8
+Santa: 4, 3 New
+Robo: 5, -8 New
+Santa: 4, 2
+Robo: 5, -7 New
+Santa: 3, 2
+Robo: 5, -8
+Santa: 2, 2
+Robo: 6, -8 New
+Santa: 2, 1 New
+Robo: 5, -8
+Santa: 3, 1 New
+Robo: 6, -8
+Santa: 3, 2
+Robo: 5, -8
+Santa: 2, 2
+Robo: 5, -7
+Santa: 2, 1
+Robo: 6, -7 New
+Santa: 2, 2
+Robo: 6, -6 New
+Santa: 2, 3
+Robo: 5, -6 New
+Santa: 3, 3
+Robo: 5, -5 New
+Santa: 3, 2
+Robo: 5, -4 New
+Santa: 4, 2
+Robo: 4, -4 New
+Santa: 5, 2 New
+Robo: 4, -5 New
+Santa: 4, 2
+Robo: 3, -5 New
+Santa: 4, 1 New
+Robo: 4, -5
+Santa: 4, 0 New
+Robo: 4, -6 New
+Santa: 4, 1
+Robo: 5, -6
+Santa: 4, 0
+Robo: 5, -7
+Santa: 3, 0 New
+Robo: 4, -7 New
+Santa: 4, 0
+Robo: 5, -7
+Santa: 5, 0 New
+Robo: 4, -7
+Santa: 4, 0
+Robo: 4, -6
+Santa: 4, -1 New
+Robo: 4, -5
+Santa: 3, -1 New
+Robo: 5, -5
+Santa: 3, -2 New
+Robo: 4, -5
+Santa: 3, -3 New
+Robo: 4, -6
+Santa: 4, -3 New
+Robo: 5, -6
+Santa: 5, -3 New
+Robo: 5, -5
+Santa: 5, -2 New
+Robo: 4, -5
+Santa: 6, -2 New
+Robo: 4, -4
+Santa: 7, -2 New
+Robo: 3, -4 New
+Santa: 6, -2
+Robo: 3, -3
+Santa: 7, -2
+Robo: 3, -4
+Santa: 7, -3 New
+Robo: 4, -4
+Santa: 8, -3 New
+Robo: 4, -3
+Santa: 7, -3
+Robo: 3, -3
+Santa: 7, -4 New
+Robo: 3, -2
+Santa: 7, -3
+Robo: 3, -3
+Santa: 7, -4
+Robo: 2, -3 New
+Santa: 8, -4 New
+Robo: 3, -3
+Santa: 9, -4 New
+Robo: 2, -3
+Santa: 9, -5 New
+Robo: 3, -3
+Santa: 9, -6 New
+Robo: 4, -3
+Santa: 8, -6 New
+Robo: 4, -2 New
+Santa: 7, -6 New
+Robo: 4, -3
+Santa: 6, -6
+Robo: 3, -3
+Santa: 7, -6
+Robo: 4, -3
+Santa: 8, -6
+Robo: 4, -2
+Santa: 8, -5 New
+Robo: 3, -2
+Santa: 9, -5
+Robo: 4, -2
+Santa: 9, -4
+Robo: 3, -2
+Santa: 9, -3 New
+Robo: 3, -3
+Santa: 10, -3 New
+Robo: 2, -3
+Santa: 11, -3 New
+Robo: 2, -4 New
+Santa: 11, -4 New
+Robo: 2, -3
+Santa: 11, -3
+Robo: 2, -2 New
+Santa: 11, -4
+Robo: 3, -2
+Santa: 11, -5 New
+Robo: 3, -3
+Santa: 11, -6 New
+Robo: 4, -3
+Santa: 11, -5
+Robo: 5, -3
+Santa: 10, -5 New
+Robo: 4, -3
+Santa: 11, -5
+Robo: 4, -2
+Santa: 11, -4
+Robo: 5, -2
+Santa: 11, -3
+Robo: 4, -2
+Santa: 10, -3
+Robo: 4, -3
+Santa: 10, -2 New
+Robo: 3, -3
+Santa: 10, -3
+Robo: 2, -3
+Santa: 10, -2
+Robo: 2, -4
+Santa: 9, -2 New
+Robo: 1, -4 New
+Santa: 10, -2
+Robo: 1, -5
+Santa: 10, -3
+Robo: 1, -6
+Santa: 9, -3
+Robo: 1, -5
+Santa: 8, -3
+Robo: 0, -5
+Santa: 9, -3
+Robo: 0, -4
+Santa: 10, -3
+Robo: 0, -3
+Santa: 10, -4 New
+Robo: -1, -3
+Santa: 10, -5
+Robo: -1, -4
+Santa: 9, -5
+Robo: -1, -3
+Santa: 10, -5
+Robo: -1, -4
+Santa: 10, -6 New
+Robo: -1, -5
+Santa: 11, -6
+Robo: -1, -6
+Santa: 12, -6 New
+Robo: -1, -7
+Santa: 12, -7 New
+Robo: -1, -6
+Santa: 11, -7 New
+Robo: -1, -7
+Santa: 11, -6
+Robo: 0, -7
+Santa: 10, -6
+Robo: 1, -7 New
+Santa: 11, -6
+Robo: 1, -6
+Santa: 11, -7
+Robo: 1, -7
+Santa: 10, -7 New
+Robo: 1, -6
+Santa: 10, -6
+Robo: 1, -5
+Santa: 10, -7
+Robo: 1, -6
+Santa: 11, -7
+Robo: 0, -6
+Santa: 11, -6
+Robo: 0, -7
+Santa: 11, -7
+Robo: -1, -7
+Santa: 11, -8 New
+Robo: -1, -6
+Santa: 10, -8 New
+Robo: 0, -6
+Santa: 9, -8 New
+Robo: 0, -7
+Santa: 9, -7 New
+Robo: 0, -8
+Santa: 9, -8
+Robo: 0, -9
+Santa: 10, -8
+Robo: -1, -9
+Santa: 9, -8
+Robo: -1, -8
+Santa: 10, -8
+Robo: -1, -7
+Santa: 10, -7
+Robo: 0, -7
+Santa: 9, -7
+Robo: 0, -8
+Santa: 8, -7 New
+Robo: -1, -8
+Santa: 8, -8 New
+Robo: -1, -9
+Santa: 8, -7
+Robo: 0, -9
+Santa: 8, -8
+Robo: -1, -9
+Santa: 8, -9 New
+Robo: -1, -10
+Santa: 7, -9 New
+Robo: -1, -11 New
+Santa: 8, -9
+Robo: -1, -10
+Santa: 7, -9
+Robo: 0, -10
+Santa: 7, -8 New
+Robo: 0, -11
+Santa: 6, -8
+Robo: -1, -11
+Santa: 7, -8
+Robo: -1, -12 New
+Santa: 6, -8
+Robo: -1, -13 New
+Santa: 6, -7
+Robo: -1, -14 New
+Santa: 6, -6
+Robo: 0, -14 New
+Santa: 6, -5 New
+Robo: 1, -14 New
+Santa: 6, -4 New
+Robo: 2, -14 New
+Santa: 6, -5
+Robo: 1, -14
+Santa: 5, -5
+Robo: 1, -13 New
+Santa: 5, -6
+Robo: 1, -14
+Santa: 5, -7
+Robo: 0, -14
+Santa: 4, -7
+Robo: -1, -14
+Santa: 4, -8
+Robo: 0, -14
+Santa: 4, -7
+Robo: 0, -13 New
+Santa: 5, -7
+Robo: 0, -12
+Santa: 4, -7
+Robo: -1, -12
+Santa: 3, -7 New
+Robo: -2, -12
+Santa: 4, -7
+Robo: -2, -13 New
+Santa: 4, -8
+Robo: -1, -13
+Santa: 5, -8
+Robo: -1, -12
+Santa: 4, -8
+Robo: 0, -12
+Santa: 4, -7
+Robo: 1, -12
+Santa: 5, -7
+Robo: 2, -12 New
+Santa: 5, -8
+Robo: 1, -12
+Santa: 5, -9 New
+Robo: 2, -12
+Santa: 5, -8
+Robo: 2, -11 New
+Santa: 4, -8
+Robo: 2, -12
+Santa: 4, -7
+Robo: 1, -12
+Santa: 4, -8
+Robo: 0, -12
+Santa: 5, -8
+Robo: 1, -12
+Santa: 6, -8
+Robo: 1, -13
+Santa: 6, -9 New
+Robo: 2, -13 New
+Santa: 6, -8
+Robo: 2, -12
+Santa: 6, -9
+Robo: 1, -12
+Santa: 5, -9
+Robo: 2, -12
+Santa: 6, -9
+Robo: 3, -12
+Santa: 6, -8
+Robo: 3, -11
+Santa: 6, -9
+Robo: 4, -11
+Santa: 5, -9
+Robo: 3, -11
+Santa: 4, -9 New
+Robo: 3, -12
+Santa: 3, -9
+Robo: 3, -13 New
+Santa: 2, -9
+Robo: 3, -12
+Santa: 2, -10
+Robo: 2, -12
+Santa: 3, -10
+Robo: 2, -11
+Santa: 3, -9
+Robo: 3, -11
+Santa: 2, -9
+Robo: 3, -12
+Santa: 1, -9
+Robo: 3, -11
+Santa: 1, -10
+Robo: 2, -11
+Santa: 0, -10
+Robo: 2, -12
+Santa: 0, -9
+Robo: 3, -12
+Santa: -1, -9
+Robo: 4, -12
+Santa: -2, -9
+Robo: 4, -11
+Santa: -3, -9
+Robo: 5, -11
+Santa: -4, -9
+Robo: 5, -12
+Santa: -5, -9
+Robo: 5, -11
+Santa: -5, -8 New
+Robo: 5, -12
+Santa: -4, -8
+Robo: 6, -12
+Santa: -3, -8 New
+Robo: 5, -12
+Santa: -3, -9
+Robo: 5, -11
+Santa: -3, -8
+Robo: 5, -12
+Santa: -4, -8
+Robo: 4, -12
+Santa: -4, -9
+Robo: 4, -11
+Santa: -3, -9
+Robo: 3, -11
+Santa: -3, -8
+Robo: 2, -11
+Santa: -2, -8 New
+Robo: 1, -11
+Santa: -3, -8
+Robo: 1, -12
+Santa: -3, -7 New
+Robo: 2, -12
+Santa: -2, -7 New
+Robo: 1, -12
+Santa: -2, -6 New
+Robo: 0, -12
+Santa: -1, -6
+Robo: 0, -13
+Santa: 0, -6
+Robo: 0, -14
+Santa: 0, -5
+Robo: -1, -14
+Santa: 1, -5
+Robo: -2, -14 New
+Santa: 1, -4
+Robo: -3, -14 New
+Santa: 1, -5
+Robo: -2, -14
+Santa: 1, -4
+Robo: -2, -15 New
+Santa: 1, -3
+Robo: -1, -15 New
+Santa: 1, -2
+Robo: 0, -15 New
+Santa: 1, -1
+Robo: 0, -16 New
+Santa: 1, -2
+Robo: 0, -15
+Santa: 2, -2
+Robo: 0, -14
+Santa: 2, -1 New
+Robo: -1, -14
+Santa: 1, -1
+Robo: -1, -15
+Santa: 1, -2
+Robo: -1, -14
+Santa: 2, -2
+Robo: -1, -15
+Santa: 2, -3
+Robo: -2, -15
+Santa: 2, -2
+Robo: -2, -16 New
+Santa: 2, -3
+Robo: -2, -17 New
+Santa: 1, -3
+Robo: -1, -17 New
+Santa: 2, -3
+Robo: -1, -16 New
+Santa: 2, -2
+Robo: -2, -16
+Santa: 2, -1
+Robo: -1, -16
+Santa: 2, -2
+Robo: -1, -15
+Santa: 3, -2
+Robo: -1, -14
+Santa: 4, -2
+Robo: -1, -13
+Santa: 3, -2
+Robo: -1, -14
+Santa: 3, -1
+Robo: 0, -14
+Santa: 2, -1
+Robo: 0, -15
+Santa: 1, -1
+Robo: 0, -16
+Santa: 2, -1
+Robo: 1, -16 New
+Santa: 3, -1
+Robo: 1, -17 New
+Santa: 2, -1
+Robo: 0, -17 New
+Santa: 1, -1
+Robo: 1, -17
+Santa: 0, -1
+Robo: 1, -16
+Santa: 0, -2
+Robo: 0, -16
+Santa: -1, -2
+Robo: 1, -16
+Santa: -2, -2
+Robo: 1, -15 New
+Santa: -3, -2
+Robo: 1, -16
+Santa: -3, -3
+Robo: 1, -15
+Santa: -3, -4
+Robo: 1, -14
+Santa: -3, -3
+Robo: 1, -13
+Santa: -2, -3
+Robo: 1, -14
+Santa: -3, -3
+Robo: 1, -13
+Santa: -3, -2
+Robo: 0, -13
+Santa: -3, -3
+Robo: 0, -12
+Santa: -3, -4
+Robo: 0, -13
+Santa: -3, -5
+Robo: -1, -13
+Santa: -3, -6
+Robo: -2, -13
+Santa: -2, -6
+Robo: -3, -13 New
+Santa: -2, -7
+Robo: -4, -13
+Santa: -2, -8
+Robo: -4, -14 New
+Santa: -3, -8
+Robo: -4, -13
+Santa: -3, -9
+Robo: -4, -14
+Santa: -4, -9
+Robo: -3, -14
+Santa: -4, -10
+Robo: -3, -15 New
+Santa: -5, -10
+Robo: -3, -16 New
+Santa: -5, -9
+Robo: -4, -16 New
+Santa: -4, -9
+Robo: -3, -16
+Santa: -4, -10
+Robo: -3, -17 New
+Santa: -4, -11
+Robo: -3, -18 New
+Santa: -4, -12
+Robo: -4, -18 New
+Santa: -5, -12
+Robo: -3, -18
+Santa: -5, -11
+Robo: -3, -19 New
+Santa: -5, -10
+Robo: -3, -20 New
+Santa: -4, -10
+Robo: -3, -21 New
+Santa: -4, -11
+Robo: -2, -21 New
+Santa: -3, -11
+Robo: -1, -21 New
+Santa: -3, -12
+Robo: -1, -22 New
+Santa: -3, -13
+Robo: -1, -21
+Santa: -3, -12
+Robo: -2, -21
+Santa: -3, -11
+Robo: -3, -21
+Santa: -3, -10
+Robo: -4, -21 New
+Santa: -2, -10
+Robo: -5, -21 New
+Santa: -1, -10
+Robo: -5, -22 New
+Santa: -2, -10
+Robo: -5, -23 New
+Santa: -1, -10
+Robo: -4, -23 New
+Santa: -2, -10
+Robo: -4, -22 New
+Santa: -2, -11
+Robo: -3, -22 New
+Santa: -3, -11
+Robo: -3, -21
+Santa: -4, -11
+Robo: -4, -21
+Santa: -5, -11
+Robo: -3, -21
+Santa: -4, -11
+Robo: -4, -21
+Santa: -5, -11
+Robo: -5, -21
+Santa: -5, -12
+Robo: -4, -21
+Santa: -5, -11
+Robo: -3, -21
+Santa: -5, -12
+Robo: -4, -21
+Santa: -4, -12
+Robo: -4, -20 New
+Santa: -3, -12
+Robo: -4, -19 New
+Santa: -3, -13
+Robo: -3, -19
+Santa: -2, -13
+Robo: -3, -18
+Santa: -3, -13
+Robo: -2, -18 New
+Santa: -3, -14
+Robo: -2, -17
+Santa: -4, -14
+Robo: -2, -16
+Santa: -3, -14
+Robo: -1, -16
+Santa: -4, -14
+Robo: -2, -16
+Santa: -3, -14
+Robo: -2, -15
+Santa: -4, -14
+Robo: -2, -16
+Santa: -3, -14
+Robo: -2, -15
+Santa: -2, -14
+Robo: -2, -14
+Santa: -2, -13
+Robo: -2, -13
+Santa: -1, -13
+Robo: -2, -12
+Santa: -1, -12
+Robo: -3, -12
+Santa: -1, -13
+Robo: -2, -12
+Santa: 0, -13
+Robo: -1, -12
+Santa: 1, -13
+Robo: -2, -12
+Santa: 2, -13
+Robo: -2, -11
+Santa: 2, -14
+Robo: -2, -10
+Santa: 2, -15 New
+Robo: -1, -10
+Santa: 1, -15
+Robo: -2, -10
+Santa: 0, -15
+Robo: -3, -10
+Santa: 0, -16
+Robo: -3, -11
+Santa: 0, -15
+Robo: -4, -11
+Santa: 0, -16
+Robo: -4, -12
+Santa: -1, -16
+Robo: -3, -12
+Santa: -1, -17
+Robo: -3, -13
+Santa: 0, -17
+Robo: -3, -14
+Santa: -1, -17
+Robo: -2, -14
+Santa: -1, -18 New
+Robo: -2, -13
+Santa: -2, -18
+Robo: -2, -14
+Santa: -2, -17
+Robo: -1, -14
+Santa: -2, -18
+Robo: 0, -14
+Santa: -3, -18
+Robo: 1, -14
+Santa: -2, -18
+Robo: 2, -14
+Santa: -2, -19 New
+Robo: 2, -13
+Santa: -3, -19
+Robo: 3, -13
+Santa: -4, -19
+Robo: 3, -12
+Santa: -4, -20
+Robo: 3, -13
+Santa: -4, -21
+Robo: 4, -13
+Santa: -4, -22
+Robo: 4, -14 New
+Santa: -4, -21
+Robo: 3, -14 New
+Santa: -4, -20
+Robo: 2, -14
+Santa: -5, -20 New
+Robo: 2, -13
+Santa: -6, -20 New
+Robo: 2, -12
+Santa: -6, -19 New
+Robo: 2, -13
+Santa: -5, -19 New
+Robo: 2, -12
+Santa: -4, -19
+Robo: 3, -12
+Santa: -3, -19
+Robo: 3, -13
+Santa: -4, -19
+Robo: 3, -12
+Santa: -5, -19
+Robo: 3, -11
+Santa: -5, -20
+Robo: 3, -10
+Santa: -5, -19
+Robo: 2, -10
+Santa: -5, -18 New
+Robo: 1, -10
+Santa: -5, -17 New
+Robo: 2, -10
+Santa: -4, -17 New
+Robo: 3, -10
+Santa: -5, -17
+Robo: 3, -11
+Santa: -4, -17
+Robo: 3, -12
+Santa: -4, -18
+Robo: 4, -12
+Santa: -4, -17
+Robo: 3, -12
+Santa: -5, -17
+Robo: 4, -12
+Santa: -6, -17 New
+Robo: 5, -12
+Santa: -6, -16 New
+Robo: 6, -12
+Santa: -5, -16 New
+Robo: 6, -13
+Santa: -4, -16
+Robo: 6, -12
+Santa: -5, -16
+Robo: 5, -12
+Santa: -4, -16
+Robo: 6, -12
+Santa: -5, -16
+Robo: 6, -11
+Santa: -6, -16
+Robo: 7, -11
+Santa: -6, -17
+Robo: 6, -11
+Santa: -5, -17
+Robo: 6, -12
+Santa: -5, -18
+Robo: 6, -11
+Santa: -5, -17
+Robo: 7, -11
+Santa: -5, -16
+Robo: 8, -11 New
+Santa: -5, -17
+Robo: 8, -12 New
+Santa: -5, -18
+Robo: 8, -11
+Santa: -5, -19
+Robo: 7, -11
+Santa: -6, -19
+Robo: 7, -10 New
+Santa: -7, -19 New
+Robo: 7, -9
+Santa: -7, -18 New
+Robo: 6, -9
+Santa: -7, -19
+Robo: 6, -10 New
+Santa: -8, -19 New
+Robo: 7, -10
+Santa: -8, -18 New
+Robo: 7, -11
+Santa: -8, -19
+Robo: 7, -12
+Santa: -9, -19 New
+Robo: 7, -11
+Santa: -9, -18 New
+Robo: 7, -12
+Santa: -9, -17 New
+Robo: 7, -13
+Santa: -9, -18
+Robo: 7, -12
+Santa: -8, -18
+Robo: 8, -12
+Santa: -8, -19
+Robo: 7, -12
+Santa: -8, -18
+Robo: 8, -12
+Santa: -8, -17 New
+Robo: 8, -11
+Santa: -9, -17
+Robo: 8, -12
+Santa: -9, -16 New
+Robo: 7, -12
+Santa: -8, -16 New
+Robo: 7, -13
+Santa: -9, -16
+Robo: 7, -12
+Santa: -10, -16 New
+Robo: 7, -11
+Santa: -10, -17 New
+Robo: 7, -12
+Santa: -9, -17
+Robo: 7, -13
+Santa: -10, -17
+Robo: 6, -13
+Santa: -10, -18 New
+Robo: 6, -14 New
+Santa: -9, -18
+Robo: 6, -15 New
+Santa: -9, -19
+Robo: 7, -15 New
+Santa: -9, -18
+Robo: 8, -15 New
+Santa: -9, -19
+Robo: 8, -16 New
+Santa: -9, -20 New
+Robo: 9, -16 New
+Santa: -8, -20 New
+Robo: 10, -16 New
+Santa: -8, -19
+Robo: 10, -15 New
+Santa: -7, -19
+Robo: 10, -16
+Santa: -8, -19
+Robo: 11, -16 New
+Santa: -8, -18
+Robo: 11, -17 New
+Santa: -7, -18
+Robo: 11, -18 New
+Santa: -7, -17 New
+Robo: 10, -18 New
+Santa: -7, -16 New
+Robo: 11, -18
+Santa: -6, -16
+Robo: 11, -19 New
+Santa: -5, -16
+Robo: 11, -18
+Santa: -5, -15 New
+Robo: 11, -19
+Santa: -4, -15 New
+Robo: 12, -19 New
+Santa: -3, -15
+Robo: 13, -19 New
+Santa: -3, -16
+Robo: 13, -18 New
+Santa: -4, -16
+Robo: 13, -19
+Santa: -3, -16
+Robo: 13, -20 New
+Santa: -4, -16
+Robo: 13, -19
+Santa: -3, -16
+Robo: 13, -20
+Santa: -4, -16
+Robo: 13, -21 New
+Santa: -5, -16
+Robo: 12, -21 New
+Santa: -4, -16
+Robo: 13, -21
+Santa: -4, -15
+Robo: 13, -22 New
+Santa: -5, -15
+Robo: 13, -21
+Santa: -5, -14 New
+Robo: 12, -21
+Santa: -5, -15
+Robo: 13, -21
+Santa: -6, -15 New
+Robo: 13, -20
+Santa: -7, -15 New
+Robo: 14, -20 New
+Santa: -6, -15
+Robo: 14, -19 New
+Santa: -7, -15
+Robo: 13, -19
+Santa: -7, -16
+Robo: 13, -20
+Santa: -7, -15
+Robo: 14, -20
+Santa: -6, -15
+Robo: 14, -21 New
+Santa: -7, -15
+Robo: 13, -21
+Santa: -7, -16
+Robo: 14, -21
+Santa: -7, -15
+Robo: 14, -22 New
+Santa: -8, -15 New
+Robo: 15, -22 New
+Santa: -7, -15
+Robo: 14, -22
+Santa: -7, -14 New
+Robo: 15, -22
+Santa: -7, -15
+Robo: 15, -23 New
+Santa: -8, -15
+Robo: 15, -24 New
+Santa: -9, -15 New
+Robo: 15, -23
+Santa: -8, -15
+Robo: 16, -23 New
+Santa: -8, -14 New
+Robo: 16, -22 New
+Santa: -9, -14 New
+Robo: 16, -23
+Santa: -9, -15
+Robo: 16, -24 New
+Santa: -9, -16
+Robo: 16, -25 New
+Santa: -9, -17
+Robo: 16, -26 New
+Santa: -9, -18
+Robo: 16, -27 New
+Santa: -8, -18
+Robo: 17, -27 New
+Santa: -7, -18
+Robo: 17, -28 New
+Santa: -8, -18
+Robo: 17, -29 New
+Santa: -9, -18
+Robo: 18, -29 New
+Santa: -9, -19
+Robo: 18, -28 New
+Santa: -10, -19 New
+Robo: 19, -28 New
+Santa: -9, -19
+Robo: 19, -27 New
+Santa: -9, -20
+Robo: 19, -28
+Santa: -10, -20 New
+Robo: 19, -29 New
+Santa: -10, -19
+Robo: 19, -28
+Santa: -10, -20
+Robo: 18, -28
+Santa: -11, -20 New
+Robo: 18, -27 New
+Santa: -11, -21 New
+Robo: 18, -28
+Santa: -11, -22 New
+Robo: 18, -27
+Santa: -12, -22 New
+Robo: 17, -27
+Santa: -12, -21 New
+Robo: 18, -27
+Santa: -13, -21 New
+Robo: 19, -27
+Santa: -13, -22 New
+Robo: 19, -28
+Santa: -14, -22 New
+Robo: 20, -28 New
+Santa: -15, -22 New
+Robo: 19, -28
+Santa: -14, -22
+Robo: 20, -28
+Santa: -14, -23 New
+Robo: 21, -28 New
+Santa: -14, -24 New
+Robo: 21, -29 New
+Santa: -14, -23
+Robo: 22, -29 New
+Santa: -15, -23 New
+Robo: 23, -29 New
+Santa: -14, -23
+Robo: 23, -28 New
+Santa: -14, -22
+Robo: 23, -29
+Santa: -14, -21 New
+Robo: 24, -29 New
+Santa: -13, -21
+Robo: 24, -30 New
+Santa: -13, -20 New
+Robo: 24, -31 New
+Santa: -13, -19 New
+Robo: 25, -31 New
+Santa: -14, -19 New
+Robo: 24, -31
+Santa: -15, -19 New
+Robo: 25, -31
+Santa: -14, -19
+Robo: 25, -30 New
+Santa: -14, -18 New
+Robo: 24, -30
+Santa: -14, -17 New
+Robo: 24, -31
+Santa: -15, -17 New
+Robo: 23, -31 New
+Santa: -15, -16 New
+Robo: 22, -31 New
+Santa: -14, -16 New
+Robo: 23, -31
+Santa: -13, -16 New
+Robo: 24, -31
+Santa: -13, -15 New
+Robo: 23, -31
+Santa: -13, -14 New
+Robo: 24, -31
+Santa: -13, -15
+Robo: 24, -30
+Santa: -12, -15 New
+Robo: 23, -30 New
+Santa: -13, -15
+Robo: 23, -29
+Santa: -12, -15
+Robo: 23, -30
+Santa: -13, -15
+Robo: 23, -29
+Santa: -13, -16
+Robo: 22, -29
+Santa: -13, -15
+Robo: 23, -29
+Santa: -12, -15
+Robo: 23, -28
+Santa: -12, -14 New
+Robo: 22, -28 New
+Santa: -13, -14
+Robo: 21, -28
+Santa: -14, -14 New
+Robo: 22, -28
+Santa: -15, -14 New
+Robo: 22, -27 New
+Santa: -16, -14 New
+Robo: 22, -26 New
+Santa: -16, -15 New
+Robo: 22, -25 New
+Santa: -16, -16 New
+Robo: 21, -25 New
+Santa: -15, -16
+Robo: 22, -25
+Santa: -15, -15 New
+Robo: 22, -26
+Santa: -16, -15
+Robo: 22, -25
+Santa: -17, -15 New
+Robo: 21, -25
+Santa: -17, -16 New
+Robo: 21, -26 New
+Santa: -17, -15
+Robo: 20, -26 New
+Santa: -16, -15
+Robo: 19, -26 New
+Santa: -16, -14
+Robo: 19, -25 New
+Santa: -16, -15
+Robo: 19, -26
+Santa: -15, -15
+Robo: 18, -26 New
+Santa: -15, -16
+Robo: 18, -25 New
+Santa: -15, -17
+Robo: 18, -24 New
+Santa: -15, -18 New
+Robo: 19, -24 New
+Santa: -15, -17
+Robo: 20, -24 New
+Santa: -14, -17
+Robo: 20, -23 New
+Santa: -13, -17 New
+Robo: 20, -22 New
+Santa: -13, -18 New
+Robo: 20, -23
+Santa: -13, -17
+Robo: 21, -23 New
+Santa: -13, -16
+Robo: 21, -24 New
+Santa: -14, -16
+Robo: 21, -25
+Santa: -14, -15 New
+Robo: 21, -26
+Santa: -15, -15
+Robo: 20, -26
+Santa: -15, -16
+Robo: 20, -27 New
+Santa: -15, -17
+Robo: 20, -26
+Santa: -14, -17
+Robo: 19, -26
+Santa: -13, -17
+Robo: 20, -26
+Santa: -13, -16
+Robo: 20, -27
+Santa: -13, -15
+Robo: 20, -26
+Santa: -12, -15
+Robo: 19, -26
+Santa: -11, -15 New
+Robo: 19, -27
+Santa: -10, -15 New
+Robo: 19, -28
+Santa: -10, -16
+Robo: 20, -28
+Santa: -11, -16 New
+Robo: 20, -27
+Santa: -10, -16
+Robo: 21, -27 New
+Santa: -10, -17
+Robo: 21, -28
+Santa: -11, -17 New
+Robo: 21, -29
+Santa: -11, -18 New
+Robo: 21, -30 New
+Santa: -12, -18 New
+Robo: 20, -30 New
+Santa: -13, -18
+Robo: 19, -30 New
+Santa: -13, -17
+Robo: 18, -30 New
+Santa: -12, -17 New
+Robo: 18, -31 New
+Santa: -12, -18
+Robo: 18, -32 New
+Santa: -12, -17
+Robo: 18, -33 New
+Santa: -13, -17
+Robo: 18, -34 New
+Santa: -12, -17
+Robo: 18, -33
+Santa: -13, -17
+Robo: 18, -34
+Santa: -14, -17
+Robo: 18, -33
+Santa: -13, -17
+Robo: 18, -32
+Santa: -14, -17
+Robo: 18, -31
+Santa: -15, -17
+Robo: 18, -32
+Santa: -16, -17 New
+Robo: 19, -32 New
+Santa: -17, -17 New
+Robo: 20, -32 New
+Santa: -17, -18 New
+Robo: 20, -31 New
+Santa: -17, -17
+Robo: 20, -30
+Santa: -17, -16
+Robo: 19, -30
+Santa: -18, -16 New
+Robo: 19, -31 New
+Santa: -18, -17 New
+Robo: 18, -31
+Santa: -18, -16
+Robo: 18, -30
+Santa: -18, -17
+Robo: 18, -31
+Santa: -19, -17 New
+Robo: 18, -32
+Santa: -18, -17
+Robo: 19, -32
+Santa: -19, -17
+Robo: 18, -32
+Santa: -19, -18 New
+Robo: 18, -31
+Santa: -18, -18 New
+Robo: 17, -31 New
+Santa: -17, -18
+Robo: 18, -31
+Santa: -16, -18 New
+Robo: 17, -31
+Santa: -16, -19 New
+Robo: 17, -30 New
+Santa: -15, -19
+Robo: 17, -29
+Santa: -15, -20 New
+Robo: 18, -29
+Santa: -16, -20 New
+Robo: 18, -28
+Santa: -15, -20
+Robo: 18, -27
+Santa: -14, -20 New
+Robo: 17, -27
+Santa: -14, -21
+Robo: 17, -28
+Santa: -14, -20
+Robo: 16, -28 New
+Santa: -13, -20
+Robo: 15, -28 New
+Santa: -13, -19
+Robo: 14, -28 New
+Santa: -13, -20
+Robo: 15, -28
+Santa: -12, -20 New
+Robo: 14, -28
+Santa: -13, -20
+Robo: 14, -27 New
+Santa: -13, -21
+Robo: 14, -28
+Santa: -14, -21
+Robo: 15, -28
+Santa: -13, -21
+Robo: 15, -29 New
+Santa: -13, -20
+Robo: 14, -29 New
+Santa: -14, -20
+Robo: 14, -30 New
+Santa: -15, -20
+Robo: 15, -30 New
+Santa: -15, -21 New
+Robo: 16, -30 New
+Santa: -16, -21 New
+Robo: 16, -31 New
+Santa: -17, -21 New
+Robo: 17, -31
+Santa: -18, -21 New
+Robo: 18, -31
+Santa: -19, -21 New
+Robo: 18, -32
+Santa: -19, -22 New
+Robo: 19, -32
+Santa: -19, -21
+Robo: 20, -32
+Santa: -18, -21
+Robo: 20, -33 New
+Santa: -18, -20 New
+Robo: 19, -33 New
+Santa: -18, -19 New
+Robo: 18, -33
+Santa: -18, -20
+Robo: 19, -33
+Santa: -18, -19
+Robo: 20, -33
+Santa: -19, -19 New
+Robo: 21, -33 New
+Santa: -18, -19
+Robo: 22, -33 New
+Santa: -19, -19
+Robo: 22, -32 New
+Santa: -18, -19
+Robo: 21, -32 New
+Santa: -18, -20
+Robo: 21, -31 New
+Santa: -18, -21
+Robo: 20, -31
+Santa: -17, -21
+Robo: 21, -31
+Santa: -16, -21
+Robo: 21, -30
+Santa: -16, -20
+Robo: 20, -30
+Santa: -16, -19
+Robo: 21, -30
+Santa: -16, -20
+Robo: 20, -30
+Santa: -16, -21
+Robo: 21, -30
+Santa: -16, -22 New
+Robo: 21, -31
+Santa: -16, -23 New
+Robo: 20, -31
+Santa: -15, -23
+Robo: 20, -30
+Santa: -16, -23
+Robo: 19, -30
+Santa: -15, -23
+Robo: 18, -30
+Santa: -15, -24 New
+Robo: 18, -29
+Santa: -15, -23
+Robo: 19, -29
+Santa: -15, -22
+Robo: 20, -29 New
+Santa: -14, -22
+Robo: 20, -30
+Santa: -15, -22
+Robo: 20, -29
+Santa: -15, -23
+Robo: 21, -29
+Santa: -15, -22
+Robo: 22, -29
+Santa: -15, -23
+Robo: 23, -29
+Santa: -14, -23
+Robo: 24, -29
+Santa: -14, -24
+Robo: 24, -30
+Santa: -13, -24 New
+Robo: 24, -31
+Santa: -12, -24 New
+Robo: 25, -31
+Santa: -12, -25 New
+Robo: 25, -30
+Santa: -12, -24
+Robo: 25, -29 New
+Santa: -13, -24
+Robo: 25, -28 New
+Santa: -14, -24
+Robo: 25, -29
+Santa: -14, -25 New
+Robo: 25, -30
+Santa: -14, -24
+Robo: 24, -30
+Santa: -13, -24
+Robo: 24, -29
+Santa: -12, -24
+Robo: 24, -28 New
+Santa: -13, -24
+Robo: 24, -29
+Santa: -13, -23 New
+Robo: 23, -29
+Santa: -13, -24
+Robo: 23, -28
+Santa: -13, -25 New
+Robo: 24, -28
+Santa: -13, -26 New
+Robo: 25, -28
+Santa: -13, -25
+Robo: 26, -28 New
+Santa: -13, -26
+Robo: 26, -29 New
+Santa: -12, -26 New
+Robo: 26, -30 New
+Santa: -12, -27 New
+Robo: 26, -31 New
+Santa: -13, -27 New
+Robo: 27, -31 New
+Santa: -13, -28 New
+Robo: 26, -31
+Santa: -13, -27
+Robo: 27, -31
+Santa: -13, -28
+Robo: 28, -31 New
+Santa: -13, -27
+Robo: 28, -30 New
+Santa: -12, -27
+Robo: 29, -30 New
+Santa: -12, -26
+Robo: 28, -30
+Santa: -12, -27
+Robo: 28, -31
+Santa: -12, -26
+Robo: 28, -30
+Santa: -12, -27
+Robo: 29, -30
+Santa: -12, -28 New
+Robo: 29, -29 New
+Santa: -12, -27
+Robo: 29, -28 New
+Santa: -12, -26
+Robo: 29, -27 New
+Santa: -12, -27
+Robo: 29, -26 New
+Santa: -12, -28
+Robo: 29, -27
+Santa: -11, -28 New
+Robo: 28, -27 New
+Santa: -11, -27 New
+Robo: 27, -27 New
+Santa: -10, -27 New
+Robo: 26, -27 New
+Santa: -9, -27 New
+Robo: 26, -26 New
+Santa: -8, -27 New
+Robo: 26, -27
+Santa: -8, -28 New
+Robo: 25, -27 New
+Santa: -8, -27
+Robo: 26, -27
+Santa: -7, -27 New
+Robo: 26, -26
+Santa: -7, -28 New
+Robo: 26, -27
+Santa: -7, -29 New
+Robo: 26, -28
+Santa: -7, -28
+Robo: 26, -27
+Santa: -7, -27
+Robo: 27, -27
+Santa: -7, -26 New
+Robo: 26, -27
+Santa: -7, -27
+Robo: 26, -28
+Santa: -6, -27 New
+Robo: 26, -27
+Santa: -6, -28 New
+Robo: 25, -27
+Santa: -7, -28
+Robo: 25, -26 New
+Santa: -6, -28
+Robo: 24, -26 New
+Santa: -6, -27
+Robo: 24, -25 New
+Santa: -5, -27 New
+Robo: 24, -24 New
+Santa: -6, -27
+Robo: 25, -24 New
+Santa: -6, -26 New
+Robo: 25, -23 New
+Santa: -5, -26 New
+Robo: 25, -22 New
+Santa: -6, -26
+Robo: 24, -22 New
+Santa: -6, -27
+Robo: 23, -22 New
+Santa: -6, -26
+Robo: 24, -22
+Santa: -5, -26
+Robo: 25, -22
+Santa: -5, -25 New
+Robo: 26, -22 New
+Santa: -6, -25 New
+Robo: 25, -22
+Santa: -6, -24 New
+Robo: 25, -21 New
+Santa: -5, -24 New
+Robo: 25, -22
+Santa: -5, -23
+Robo: 25, -23
+Santa: -4, -23
+Robo: 26, -23 New
+Santa: -4, -22
+Robo: 27, -23 New
+Santa: -4, -23
+Robo: 27, -24 New
+Santa: -4, -24 New
+Robo: 27, -25 New
+Santa: -3, -24 New
+Robo: 27, -24
+Santa: -3, -23 New
+Robo: 27, -25
+Santa: -2, -23 New
+Robo: 26, -25 New
+Santa: -2, -24 New
+Robo: 27, -25
+Santa: -1, -24 New
+Robo: 27, -26 New
+Santa: -1, -25 New
+Robo: 28, -26 New
+Santa: -2, -25 New
+Robo: 27, -26
+Santa: -3, -25 New
+Robo: 27, -27
+Santa: -3, -26 New
+Robo: 26, -27
+Santa: -3, -25
+Robo: 27, -27
+Santa: -3, -26
+Robo: 28, -27
+Santa: -3, -25
+Robo: 28, -26
+Santa: -3, -24
+Robo: 27, -26
+Santa: -3, -25
+Robo: 28, -26
+Santa: -3, -26
+Robo: 28, -25 New
+Santa: -3, -27 New
+Robo: 28, -26
+Santa: -3, -28 New
+Robo: 27, -26
+Santa: -3, -27
+Robo: 28, -26
+Santa: -4, -27 New
+Robo: 27, -26
+Santa: -4, -26 New
+Robo: 28, -26
+Santa: -4, -25 New
+Robo: 27, -26
+Santa: -3, -25
+Robo: 27, -25
+Santa: -2, -25
+Robo: 26, -25
+Santa: -3, -25
+Robo: 25, -25 New
+Santa: -4, -25
+Robo: 24, -25
+Santa: -4, -26
+Robo: 24, -24
+Santa: -5, -26
+Robo: 23, -24 New
+Santa: -5, -27
+Robo: 23, -25 New
+Santa: -5, -26
+Robo: 23, -26 New
+Santa: -4, -26
+Robo: 23, -25
+Santa: -5, -26
+Robo: 24, -25
+Santa: -5, -27
+Robo: 23, -25
+Santa: -5, -28 New
+Robo: 24, -25
+Santa: -5, -27
+Robo: 25, -25
+Santa: -5, -26
+Robo: 26, -25
+Santa: -4, -26
+Robo: 25, -25
+Santa: -3, -26
+Robo: 25, -26
+Santa: -3, -25
+Robo: 25, -27
+Santa: -4, -25
+Robo: 25, -26
+Santa: -4, -26
+Robo: 25, -27
+Santa: -4, -25
+Robo: 25, -26
+Santa: -3, -25
+Robo: 25, -27
+Santa: -3, -26
+Robo: 24, -27 New
+Santa: -4, -26
+Robo: 24, -28
+Santa: -4, -25
+Robo: 24, -29
+Santa: -3, -25
+Robo: 24, -30
+Santa: -3, -26
+Robo: 24, -29
+Santa: -3, -27
+Robo: 24, -30
+Santa: -3, -28
+Robo: 23, -30
+Santa: -4, -28 New
+Robo: 22, -30 New
+Santa: -5, -28
+Robo: 23, -30
+Santa: -5, -27
+Robo: 23, -31
+Santa: -6, -27
+Robo: 23, -32 New
+Santa: -6, -26
+Robo: 23, -31
+Santa: -6, -27
+Robo: 23, -30
+Santa: -6, -28
+Robo: 24, -30
+Santa: -6, -29 New
+Robo: 23, -30
+Santa: -7, -29
+Robo: 23, -31
+Santa: -6, -29
+Robo: 23, -30
+Santa: -6, -28
+Robo: 22, -30
+Santa: -5, -28
+Robo: 22, -29
+Santa: -5, -29 New
+Robo: 22, -30
+Santa: -5, -28
+Robo: 22, -29
+Santa: -4, -28
+Robo: 22, -28
+Santa: -3, -28
+Robo: 22, -27
+Santa: -3, -29 New
+Robo: 22, -26
+Santa: -3, -30 New
+Robo: 22, -27
+Santa: -3, -29
+Robo: 23, -27 New
+Santa: -2, -29 New
+Robo: 23, -28
+Santa: -2, -28 New
+Robo: 23, -29
+Santa: -2, -29
+Robo: 23, -28
+Santa: -2, -28
+Robo: 22, -28
+Santa: -2, -29
+Robo: 22, -29
+Santa: -1, -29 New
+Robo: 21, -29
+Santa: -2, -29
+Robo: 21, -30
+Santa: -2, -28
+Robo: 21, -31
+Santa: -2, -27 New
+Robo: 21, -30
+Santa: -2, -28
+Robo: 22, -30
+Santa: -3, -28
+Robo: 22, -31
+Santa: -3, -29
+Robo: 21, -31
+Santa: -3, -28
+Robo: 21, -32
+Santa: -3, -29
+Robo: 21, -33
+Santa: -4, -29 New
+Robo: 21, -34 New
+Santa: -4, -30 New
+Robo: 21, -33
+Santa: -4, -29
+Robo: 20, -33
+Santa: -5, -29
+Robo: 20, -34 New
+Santa: -4, -29
+Robo: 20, -35 New
+Santa: -4, -28
+Robo: 20, -36 New
+Santa: -4, -27
+Robo: 20, -35
+Santa: -4, -26
+Robo: 20, -34
+Santa: -4, -27
+Robo: 19, -34 New
+Santa: -4, -26
+Robo: 18, -34
+Santa: -4, -25
+Robo: 19, -34
+Santa: -4, -26
+Robo: 20, -34
+Santa: -4, -25
+Robo: 21, -34
+Santa: -4, -26
+Robo: 22, -34 New
+Santa: -4, -25
+Robo: 22, -35 New
+Santa: -4, -26
+Robo: 22, -34
+Santa: -4, -27
+Robo: 22, -33
+Santa: -4, -26
+Robo: 21, -33
+Santa: -4, -27
+Robo: 20, -33
+Santa: -4, -26
+Robo: 20, -34
+Santa: -4, -27
+Robo: 20, -35
+Santa: -4, -28
+Robo: 19, -35 New
+Santa: -5, -28
+Robo: 18, -35 New
+Santa: -4, -28
+Robo: 18, -34
+Santa: -5, -28
+Robo: 18, -33
+Santa: -5, -27
+Robo: 18, -32
+Santa: -6, -27
+Robo: 18, -31
+Santa: -6, -26
+Robo: 17, -31
+Santa: -5, -26
+Robo: 17, -30
+Santa: -6, -26
+Robo: 18, -30
+Santa: -7, -26
+Robo: 18, -31
+Santa: -7, -27
+Robo: 17, -31
+Santa: -7, -26
+Robo: 17, -30
+Santa: -8, -26 New
+Robo: 16, -30
+Santa: -8, -25 New
+Robo: 17, -30
+Santa: -7, -25 New
+Robo: 18, -30
+Santa: -8, -25
+Robo: 18, -31
+Santa: -8, -24 New
+Robo: 18, -32
+Santa: -8, -25
+Robo: 18, -33
+Santa: -8, -26
+Robo: 19, -33
+Santa: -8, -25
+Robo: 18, -33
+Santa: -7, -25
+Robo: 19, -33
+Santa: -7, -24 New
+Robo: 19, -32
+Santa: -6, -24
+Robo: 19, -33
+Santa: -6, -23 New
+Robo: 19, -32
+Santa: -6, -24
+Robo: 19, -31
+Santa: -7, -24
+Robo: 18, -31
+Santa: -7, -25
+Robo: 18, -30
+Santa: -7, -24
+Robo: 18, -29
+Santa: -8, -24
+Robo: 17, -29
+Santa: -9, -24 New
+Robo: 18, -29
+Santa: -10, -24 New
+Robo: 18, -28
+Santa: -11, -24 New
+Robo: 18, -29
+Santa: -11, -23 New
+Robo: 18, -30
+Santa: -11, -22
+Robo: 18, -29
+Santa: -11, -23
+Robo: 17, -29
+Santa: -11, -24
+Robo: 17, -28
+Santa: -12, -24
+Robo: 18, -28
+Santa: -12, -25
+Robo: 19, -28
+Santa: -13, -25
+Robo: 18, -28
+Santa: -13, -26
+Robo: 17, -28
+Santa: -12, -26
+Robo: 17, -27
+Santa: -12, -27
+Robo: 18, -27
+Santa: -12, -28
+Robo: 17, -27
+Santa: -12, -27
+Robo: 18, -27
+Santa: -13, -27
+Robo: 18, -26
+Santa: -12, -27
+Robo: 18, -27
+Santa: -12, -28
+Robo: 18, -26
+Santa: -12, -27
+Robo: 17, -26 New
+Santa: -12, -28
+Robo: 17, -27
+Santa: -12, -29 New
+Robo: 16, -27
+Santa: -12, -28
+Robo: 16, -28
+Santa: -11, -28
+Robo: 17, -28
+Santa: -11, -29 New
+Robo: 18, -28
+Santa: -11, -28
+Robo: 17, -28
+Santa: -10, -28 New
+Robo: 16, -28
+Santa: -10, -29 New
+Robo: 16, -27
+Santa: -9, -29 New
+Robo: 15, -27 New
+Santa: -9, -28 New
+Robo: 15, -26 New
+Santa: -9, -27
+Robo: 14, -26 New
+Santa: -9, -28
+Robo: 14, -25 New
+Santa: -8, -28
+Robo: 15, -25 New
+Santa: -8, -29 New
+Robo: 15, -26
+Santa: -9, -29
+Robo: 14, -26
+Santa: -10, -29
+Robo: 13, -26 New
+Santa: -11, -29
+Robo: 13, -25 New
+Santa: -12, -29
+Robo: 14, -25
+Santa: -12, -28
+Robo: 14, -26
+Santa: -12, -27
+Robo: 14, -27
+Santa: -11, -27
+Robo: 14, -26
+Santa: -11, -28
+Robo: 14, -27
+Santa: -11, -27
+Robo: 13, -27 New
+Santa: -10, -27
+Robo: 13, -28 New
+Santa: -9, -27
+Robo: 13, -29 New
+Santa: -10, -27
+Robo: 13, -28
+Santa: -9, -27
+Robo: 13, -29
+Santa: -9, -28
+Robo: 12, -29 New
+Santa: -10, -28
+Robo: 12, -28 New
+Santa: -10, -29
+Robo: 12, -29
+Santa: -9, -29
+Robo: 12, -30 New
+Santa: -9, -30 New
+Robo: 11, -30 New
+Santa: -9, -31 New
+Robo: 10, -30 New
+Santa: -8, -31 New
+Robo: 9, -30 New
+Santa: -7, -31 New
+Robo: 10, -30
+Santa: -7, -32 New
+Robo: 11, -30
+Santa: -6, -32 New
+Robo: 10, -30
+Santa: -6, -33 New
+Robo: 9, -30
+Santa: -6, -32
+Robo: 8, -30 New
+Santa: -6, -31 New
+Robo: 8, -29 New
+Santa: -5, -31 New
+Robo: 9, -29 New
+Santa: -6, -31
+Robo: 8, -29
+Santa: -6, -32
+Robo: 8, -28 New
+Santa: -6, -33
+Robo: 7, -28 New
+Santa: -7, -33 New
+Robo: 7, -27 New
+Santa: -6, -33
+Robo: 6, -27 New
+Santa: -6, -34 New
+Robo: 5, -27 New
+Santa: -6, -33
+Robo: 4, -27 New
+Santa: -6, -34
+Robo: 4, -28 New
+Santa: -7, -34 New
+Robo: 4, -29 New
+Santa: -8, -34 New
+Robo: 3, -29 New
+Santa: -8, -35 New
+Robo: 3, -30 New
+Santa: -8, -34
+Robo: 4, -30 New
+Santa: -8, -33 New
+Robo: 3, -30
+Santa: -9, -33 New
+Robo: 4, -30
+Santa: -10, -33 New
+Robo: 4, -29
+Santa: -10, -32 New
+Robo: 5, -29 New
+Santa: -10, -31 New
+Robo: 4, -29
+Santa: -10, -30 New
+Robo: 5, -29
+Santa: -9, -30
+Robo: 5, -28 New
+Santa: -10, -30
+Robo: 5, -29
+Santa: -10, -31
+Robo: 6, -29 New
+Santa: -9, -31
+Robo: 5, -29
+Santa: -9, -32 New
+Robo: 4, -29
+Santa: -10, -32
+Robo: 4, -30
+Santa: -10, -33
+Robo: 4, -31 New
+Santa: -11, -33 New
+Robo: 4, -30
+Santa: -11, -32 New
+Robo: 4, -31
+Santa: -11, -31 New
+Robo: 5, -31 New
+Santa: -11, -30 New
+Robo: 5, -30 New
+Santa: -12, -30 New
+Robo: 5, -29
+Santa: -12, -31 New
+Robo: 6, -29
+Santa: -12, -30
+Robo: 6, -30 New
+Santa: -13, -30 New
+Robo: 6, -31 New
+Santa: -14, -30 New
+Robo: 7, -31 New
+Santa: -14, -31 New
+Robo: 8, -31 New
+Santa: -15, -31 New
+Robo: 8, -32 New
+Santa: -15, -30 New
+Robo: 8, -33 New
+Santa: -15, -29 New
+Robo: 7, -33 New
+Santa: -16, -29 New
+Robo: 7, -32 New
+Santa: -17, -29 New
+Robo: 8, -32
+Santa: -18, -29 New
+Robo: 7, -32
+Santa: -18, -30 New
+Robo: 6, -32 New
+Santa: -19, -30 New
+Robo: 6, -31
+Santa: -19, -31 New
+Robo: 7, -31
+Santa: -19, -32 New
+Robo: 6, -31
+Santa: -20, -32 New
+Robo: 7, -31
+Santa: -19, -32
+Robo: 7, -30 New
+Santa: -18, -32 New
+Robo: 7, -31
+Santa: -17, -32 New
+Robo: 8, -31
+Santa: -17, -33 New
+Robo: 9, -31 New
+Santa: -16, -33 New
+Robo: 9, -32 New
+Santa: -17, -33
+Robo: 9, -31
+Santa: -18, -33 New
+Robo: 8, -31
+Santa: -18, -32
+Robo: 7, -31
+Santa: -18, -31 New
+Robo: 8, -31
+Santa: -17, -31 New
+Robo: 9, -31
+Santa: -17, -32
+Robo: 10, -31 New
+Santa: -17, -31
+Robo: 10, -30
+Santa: -17, -30 New
+Robo: 10, -31
+Santa: -16, -30 New
+Robo: 9, -31
+Santa: -16, -29
+Robo: 10, -31
+Santa: -16, -28 New
+Robo: 10, -30
+Santa: -15, -28 New
+Robo: 11, -30
+Santa: -15, -29
+Robo: 10, -30
+Santa: -16, -29
+Robo: 11, -30
+Santa: -16, -28
+Robo: 11, -31 New
+Santa: -15, -28
+Robo: 10, -31
+Santa: -15, -29
+Robo: 11, -31
+Santa: -15, -30
+Robo: 11, -32 New
+Santa: -15, -31
+Robo: 11, -31
+Santa: -15, -32 New
+Robo: 11, -32
+Santa: -16, -32 New
+Robo: 10, -32 New
+Santa: -17, -32
+Robo: 11, -32
+Santa: -17, -33
+Robo: 11, -33 New
+Santa: -17, -34 New
+Robo: 10, -33 New
+Santa: -18, -34 New
+Robo: 11, -33
+Santa: -18, -33
+Robo: 12, -33 New
+Santa: -17, -33
+Robo: 13, -33 New
+Santa: -17, -34
+Robo: 12, -33
+Santa: -17, -35 New
+Robo: 11, -33
+Santa: -17, -36 New
+Robo: 11, -32
+Santa: -18, -36 New
+Robo: 11, -31
+Santa: -19, -36 New
+Robo: 11, -30
+Santa: -18, -36
+Robo: 11, -29 New
+Santa: -19, -36
+Robo: 11, -28 New
+Santa: -18, -36
+Robo: 11, -29
+Santa: -18, -35 New
+Robo: 11, -28
+Santa: -18, -36
+Robo: 10, -28 New
+Santa: -18, -35
+Robo: 10, -27 New
+Santa: -19, -35 New
+Robo: 10, -28
+Santa: -20, -35 New
+Robo: 11, -28
+Santa: -20, -36 New
+Robo: 10, -28
+Santa: -19, -36
+Robo: 11, -28
+Santa: -19, -35
+Robo: 11, -27 New
+Santa: -18, -35
+Robo: 11, -26 New
+Santa: -18, -36
+Robo: 11, -25 New
+Santa: -17, -36
+Robo: 11, -26
+Santa: -18, -36
+Robo: 10, -26 New
+Santa: -19, -36
+Robo: 9, -26 New
+Santa: -19, -35
+Robo: 8, -26 New
+Santa: -18, -35
+Robo: 8, -27 New
+Santa: -18, -34
+Robo: 9, -27 New
+Santa: -19, -34 New
+Robo: 8, -27
+Santa: -20, -34 New
+Robo: 8, -28
+Santa: -19, -34
+Robo: 9, -28 New
+Santa: -18, -34
+Robo: 10, -28
+Santa: -19, -34
+Robo: 9, -28
+Santa: -19, -35
+Robo: 9, -27
+Santa: -20, -35
+Robo: 9, -26
+Santa: -20, -36
+Robo: 9, -27
+Santa: -19, -36
+Robo: 9, -28
+Santa: -18, -36
+Robo: 10, -28
+Santa: -19, -36
+Robo: 11, -28
+Santa: -18, -36
+Robo: 11, -27
+Santa: -19, -36
+Robo: 10, -27
+Santa: -20, -36
+Robo: 10, -26
+Santa: -21, -36 New
+Robo: 10, -25 New
+Santa: -21, -35 New
+Robo: 11, -25
+Santa: -21, -36
+Robo: 10, -25
+Santa: -20, -36
+Robo: 11, -25
+Santa: -20, -37 New
+Robo: 10, -25
+Santa: -19, -37 New
+Robo: 10, -26
+Santa: -19, -38 New
+Robo: 9, -26
+Santa: -20, -38 New
+Robo: 9, -25 New
+Santa: -21, -38 New
+Robo: 8, -25 New
+Santa: -20, -38
+Robo: 7, -25 New
+Santa: -21, -38
+Robo: 7, -24 New
+Santa: -20, -38
+Robo: 7, -25
+Santa: -20, -37
+Robo: 7, -24
+Santa: -20, -36
+Robo: 7, -25
+Santa: -20, -37
+Robo: 7, -24
+Santa: -19, -37
+Robo: 7, -25
+Santa: -19, -38
+Robo: 7, -26 New
+Santa: -19, -39 New
+Robo: 8, -26
+Santa: -18, -39 New
+Robo: 8, -27
+Santa: -17, -39 New
+Robo: 8, -28
+Santa: -17, -38 New
+Robo: 9, -28
+Santa: -18, -38 New
+Robo: 8, -28
+Santa: -18, -39
+Robo: 7, -28
+Santa: -17, -39
+Robo: 7, -29 New
+Santa: -17, -40 New
+Robo: 7, -28
+Santa: -18, -40 New
+Robo: 6, -28 New
+Santa: -17, -40
+Robo: 5, -28
+Santa: -18, -40
+Robo: 5, -29
+Santa: -18, -41 New
+Robo: 5, -30
+Santa: -17, -41 New
+Robo: 5, -29
+Santa: -16, -41 New
+Robo: 6, -29
+Santa: -15, -41 New
+Robo: 6, -28
+Santa: -16, -41
+Robo: 5, -28
+Santa: -17, -41
+Robo: 5, -27
+Santa: -18, -41
+Robo: 5, -26 New
+Santa: -19, -41 New
+Robo: 4, -26 New
+Santa: -19, -42 New
+Robo: 5, -26
+Santa: -19, -41
+Robo: 6, -26 New
+Santa: -19, -42
+Robo: 5, -26
+Santa: -18, -42 New
+Robo: 6, -26
+Santa: -18, -43 New
+Robo: 7, -26
+Santa: -17, -43 New
+Robo: 7, -27
+Santa: -17, -44 New
+Robo: 7, -26
+Santa: -17, -43
+Robo: 8, -26
+Santa: -18, -43
+Robo: 7, -26
+Santa: -19, -43 New
+Robo: 6, -26
+Santa: -19, -42
+Robo: 6, -25 New
+Santa: -19, -41
+Robo: 6, -26
+Santa: -18, -41
+Robo: 7, -26
+Santa: -19, -41
+Robo: 6, -26
+Santa: -19, -40 New
+Robo: 7, -26
+Santa: -20, -40 New
+Robo: 7, -27
+Santa: -19, -40
+Robo: 6, -27
+Santa: -19, -41
+Robo: 6, -26
+Santa: -19, -40
+Robo: 7, -26
+Santa: -20, -40
+Robo: 7, -27
+Santa: -21, -40 New
+Robo: 6, -27
+Santa: -21, -41 New
+Robo: 6, -26
+Santa: -21, -40
+Robo: 6, -27
+Santa: -21, -39 New
+Robo: 6, -26
+Santa: -21, -40
+Robo: 7, -26
+Santa: -20, -40
+Robo: 7, -27
+Santa: -21, -40
+Robo: 8, -27
+Santa: -22, -40 New
+Robo: 9, -27
+Santa: -23, -40 New
+Robo: 8, -27
+Santa: -22, -40
+Robo: 8, -26
+Santa: -21, -40
+Robo: 7, -26
+Santa: -21, -41
+Robo: 8, -26
+Santa: -22, -41 New
+Robo: 8, -25
+Santa: -23, -41 New
+Robo: 8, -26
+Santa: -23, -42 New
+Robo: 9, -26
+Santa: -22, -42 New
+Robo: 8, -26
+Santa: -22, -41
+Robo: 8, -27
+Santa: -23, -41
+Robo: 9, -27
+Santa: -23, -42
+Robo: 8, -27
+Santa: -23, -43 New
+Robo: 8, -28
+Santa: -23, -44 New
+Robo: 7, -28
+Santa: -22, -44 New
+Robo: 7, -27
+Santa: -21, -44 New
+Robo: 8, -27
+Santa: -22, -44
+Robo: 8, -28
+Santa: -21, -44
+Robo: 9, -28
+Santa: -21, -45 New
+Robo: 8, -28
+Santa: -21, -44
+Robo: 9, -28
+Santa: -22, -44
+Robo: 8, -28
+Santa: -22, -45 New
+Robo: 9, -28
+Santa: -22, -44
+Robo: 8, -28
+Santa: -21, -44
+Robo: 8, -27
+Santa: -21, -45
+Robo: 9, -27
+Santa: -22, -45
+Robo: 9, -26
+Santa: -21, -45
+Robo: 8, -26
+Santa: -21, -44
+Robo: 8, -25
+Santa: -22, -44
+Robo: 8, -26
+Santa: -21, -44
+Robo: 8, -25
+Santa: -20, -44 New
+Robo: 7, -25
+Santa: -20, -43 New
+Robo: 7, -24
+Santa: -20, -44
+Robo: 7, -23 New
+Santa: -21, -44
+Robo: 6, -23 New
+Santa: -20, -44
+Robo: 5, -23 New
+Santa: -19, -44 New
+Robo: 6, -23
+Santa: -19, -43
+Robo: 7, -23
+Santa: -19, -44
+Robo: 7, -22 New
+Santa: -20, -44
+Robo: 7, -21 New
+Santa: -20, -45 New
+Robo: 7, -20 New
+Santa: -20, -46 New
+Robo: 7, -21
+Santa: -21, -46 New
+Robo: 8, -21 New
+Santa: -22, -46 New
+Robo: 8, -20 New
+Santa: -21, -46
+Robo: 8, -21
+Santa: -21, -47 New
+Robo: 8, -20
+Santa: -20, -47 New
+Robo: 8, -21
+Santa: -20, -46
+Robo: 8, -22 New
+Santa: -20, -47
+Robo: 8, -23 New
+Santa: -20, -46
+Robo: 7, -23
+Santa: -19, -46 New
+Robo: 8, -23
+Santa: -19, -45 New
+Robo: 9, -23 New
+Santa: -20, -45
+Robo: 9, -22 New
+Santa: -21, -45
+Robo: 9, -21 New
+Santa: -22, -45
+Robo: 10, -21 New
+Santa: -22, -44
+Robo: 9, -21
+Santa: -23, -44
+Robo: 9, -22
+Santa: -23, -43
+Robo: 9, -23
+Santa: -24, -43 New
+Robo: 9, -22
+Santa: -24, -44 New
+Robo: 10, -22 New
+Santa: -25, -44 New
+Robo: 11, -22 New
+Santa: -25, -43 New
+Robo: 11, -23 New
+Santa: -26, -43 New
+Robo: 11, -24 New
+Santa: -25, -43
+Robo: 12, -24 New
+Santa: -25, -42 New
+Robo: 13, -24 New
+Santa: -24, -42 New
+Robo: 13, -23 New
+Santa: -24, -43
+Robo: 13, -22
+Santa: -24, -44
+Robo: 13, -23
+Santa: -23, -44
+Robo: 14, -23 New
+Santa: -24, -44
+Robo: 14, -24 New
+Santa: -24, -45 New
+Robo: 15, -24
+Santa: -25, -45 New
+Robo: 15, -25
+Santa: -25, -44
+Robo: 15, -24
+Santa: -26, -44 New
+Robo: 14, -24
+Santa: -26, -43
+Robo: 14, -25
+Santa: -26, -42 New
+Robo: 13, -25
+Santa: -25, -42
+Robo: 13, -24
+Santa: -25, -43
+Robo: 12, -24
+Santa: -26, -43
+Robo: 13, -24
+Santa: -26, -42
+Robo: 14, -24
+Santa: -27, -42 New
+Robo: 14, -23
+Santa: -26, -42
+Robo: 15, -23
+Santa: -27, -42
+Robo: 15, -24
+Santa: -26, -42
+Robo: 16, -24
+Santa: -26, -43
+Robo: 15, -24
+Santa: -27, -43 New
+Robo: 14, -24
+Santa: -27, -44 New
+Robo: 14, -23
+Santa: -27, -43
+Robo: 14, -24
+Santa: -27, -44
+Robo: 13, -24
+Santa: -26, -44
+Robo: 13, -23
+Santa: -26, -43
+Robo: 13, -24
+Santa: -25, -43
+Robo: 14, -24
+Santa: -24, -43
+Robo: 13, -24
+Santa: -23, -43
+Robo: 12, -24
+Santa: -22, -43 New
+Robo: 11, -24
+Santa: -23, -43
+Robo: 11, -25
+Santa: -23, -42
+Robo: 10, -25
+Santa: -24, -42
+Robo: 9, -25
+Santa: -24, -43
+Robo: 9, -24 New
+Santa: -25, -43
+Robo: 9, -23
+Santa: -25, -42
+Robo: 10, -23 New
+Santa: -26, -42
+Robo: 10, -24 New
+Santa: -26, -41 New
+Robo: 11, -24
+Santa: -26, -42
+Robo: 11, -23
+Santa: -26, -41
+Robo: 11, -24
+Santa: -26, -42
+Robo: 10, -24
+Santa: -26, -43
+Robo: 10, -23
+Santa: -27, -43
+Robo: 11, -23
+Santa: -26, -43
+Robo: 11, -24
+Santa: -26, -44
+Robo: 11, -23
+Santa: -27, -44
+Robo: 11, -22
+Santa: -27, -45 New
+Robo: 10, -22
+Santa: -26, -45 New
+Robo: 10, -21
+Santa: -26, -46 New
+Robo: 11, -21 New
+Santa: -25, -46 New
+Robo: 11, -22
+Santa: -25, -45
+Robo: 11, -23
+Santa: -24, -45
+Robo: 11, -24
+Santa: -25, -45
+Robo: 11, -23
+Santa: -25, -44
+Robo: 11, -24
+Santa: -25, -45
+Robo: 12, -24
+Santa: -26, -45
+Robo: 13, -24
+Santa: -26, -44
+Robo: 13, -25
+Santa: -27, -44
+Robo: 12, -25 New
+Santa: -26, -44
+Robo: 12, -26 New
+Santa: -26, -43
+Robo: 11, -26
+Santa: -25, -43
+Robo: 11, -27
+Santa: -25, -42
+Robo: 12, -27 New
+Santa: -24, -42
+Robo: 12, -28
+Santa: -23, -42
+Robo: 12, -29
+Santa: -23, -43
+Robo: 12, -30
+Santa: -24, -43
+Robo: 12, -29
+Santa: -23, -43
+Robo: 11, -29
+Santa: -22, -43
+Robo: 10, -29 New
+Santa: -22, -42
+Robo: 10, -28
+Santa: -21, -42 New
+Robo: 10, -27
+Santa: -21, -43 New
+Robo: 10, -28
+Santa: -21, -42
+Robo: 11, -28
+Santa: -20, -42 New
+Robo: 11, -29
+Santa: -20, -41 New
+Robo: 12, -29
+Santa: -20, -40
+Robo: 11, -29
+Santa: -20, -39 New
+Robo: 11, -28
+Santa: -21, -39
+Robo: 12, -28
+Santa: -22, -39 New
+Robo: 13, -28
+Santa: -21, -39
+Robo: 12, -28
+Santa: -22, -39
+Robo: 13, -28
+Santa: -22, -38 New
+Robo: 13, -27
+Santa: -22, -37 New
+Robo: 14, -27
+Santa: -23, -37 New
+Robo: 14, -26
+Santa: -23, -38 New
+Robo: 14, -25
+Santa: -23, -39 New
+Robo: 15, -25
+Santa: -24, -39 New
+Robo: 14, -25
+Santa: -25, -39 New
+Robo: 15, -25
+Santa: -26, -39 New
+Robo: 14, -25
+Santa: -26, -38 New
+Robo: 14, -26
+Santa: -26, -37 New
+Robo: 14, -27
+Santa: -26, -38
+Robo: 15, -27
+Santa: -26, -39
+Robo: 16, -27
+Santa: -25, -39
+Robo: 15, -27
+Santa: -25, -38 New
+Robo: 16, -27
+Santa: -24, -38 New
+Robo: 17, -27
+Santa: -25, -38
+Robo: 17, -28
+Santa: -25, -37 New
+Robo: 18, -28
+Santa: -25, -38
+Robo: 17, -28
+Santa: -25, -39
+Robo: 18, -28
+Santa: -26, -39
+Robo: 19, -28
+Santa: -27, -39 New
+Robo: 19, -29
+Santa: -27, -38 New
+Robo: 19, -30
+Santa: -28, -38 New
+Robo: 20, -30
+Santa: -28, -39 New
+Robo: 20, -29
+Santa: -28, -38
+Robo: 21, -29
+Santa: -27, -38
+Robo: 21, -30
+Santa: -28, -38
+Robo: 20, -30
+Santa: -27, -38
+Robo: 20, -31
+Santa: -26, -38
+Robo: 20, -32
+Santa: -27, -38
+Robo: 20, -33
+Santa: -28, -38
+Robo: 20, -34
+Santa: -29, -38 New
+Robo: 20, -33
+Santa: -29, -37 New
+Robo: 19, -33
+Santa: -28, -37 New
+Robo: 18, -33
+Santa: -27, -37 New
+Robo: 18, -34
+Santa: -27, -36 New
+Robo: 18, -33
+Santa: -28, -36 New
+Robo: 19, -33
+Santa: -27, -36
+Robo: 19, -34
+Santa: -28, -36
+Robo: 19, -33
+Santa: -28, -37
+Robo: 18, -33
+Santa: -28, -38
+Robo: 19, -33
+Santa: -28, -39
+Robo: 18, -33
+Santa: -27, -39
+Robo: 17, -33 New
+Santa: -27, -40 New
+Robo: 16, -33 New
+Santa: -27, -41 New
+Robo: 17, -33
+Santa: -27, -40
+Robo: 16, -33
+Santa: -28, -40 New
+Robo: 17, -33
+Santa: -28, -41 New
+Robo: 18, -33
+Santa: -28, -42 New
+Robo: 18, -34
+Santa: -28, -41
+Robo: 18, -33
+Santa: -29, -41 New
+Robo: 19, -33
+Santa: -28, -41
+Robo: 19, -32
+Santa: -28, -40
+Robo: 19, -31
+Santa: -29, -40 New
+Robo: 20, -31
+Santa: -29, -39 New
+Robo: 20, -30
+Santa: -28, -39
+Robo: 20, -29
+Santa: -28, -40
+Robo: 21, -29
+Santa: -28, -41
+Robo: 22, -29
+Santa: -27, -41
+Robo: 23, -29
+Santa: -27, -40
+Robo: 23, -30
+Santa: -27, -39
+Robo: 23, -31
+Santa: -26, -39
+Robo: 22, -31
+Santa: -26, -40 New
+Robo: 22, -30
+Santa: -26, -39
+Robo: 21, -30
+Santa: -25, -39
+Robo: 20, -30
+Santa: -25, -40 New
+Robo: 21, -30
+Santa: -25, -39
+Robo: 21, -29
+Santa: -25, -40
+Robo: 21, -28
+Santa: -25, -41 New
+Robo: 20, -28
+Santa: -25, -40
+Robo: 19, -28
+Santa: -25, -39
+Robo: 19, -27
+Santa: -24, -39
+Robo: 18, -27
+Santa: -25, -39
+Robo: 18, -28
+Santa: -26, -39
+Robo: 18, -27
+Santa: -27, -39
+Robo: 18, -26
+Santa: -28, -39
+Robo: 19, -26
+Santa: -28, -38
+Robo: 18, -26
+Santa: -27, -38
+Robo: 19, -26
+Santa: -28, -38
+Robo: 18, -26
+Santa: -27, -38
+Robo: 18, -25
+Santa: -26, -38
+Robo: 19, -25
+Santa: -26, -37
+Robo: 20, -25 New
+Santa: -26, -36 New
+Robo: 20, -24
+Santa: -25, -36 New
+Robo: 19, -24
+Santa: -25, -37
+Robo: 20, -24
+Santa: -26, -37
+Robo: 21, -24
+Santa: -26, -38
+Robo: 20, -24
+Santa: -25, -38
+Robo: 19, -24
+Santa: -24, -38
+Robo: 20, -24
+Santa: -25, -38
+Robo: 19, -24
+Santa: -26, -38
+Robo: 20, -24
+Santa: -25, -38
+Robo: 21, -24
+Santa: -24, -38
+Robo: 21, -25
+Santa: -24, -39
+Robo: 22, -25
+Santa: -23, -39
+Robo: 23, -25
+Santa: -23, -38
+Robo: 24, -25
+Santa: -22, -38
+Robo: 24, -24
+Santa: -22, -39
+Robo: 23, -24
+Santa: -22, -38
+Robo: 24, -24
+Santa: -22, -39
+Robo: 24, -23 New
+Santa: -22, -38
+Robo: 24, -22
+Santa: -22, -39
+Robo: 23, -22
+Santa: -23, -39
+Robo: 23, -23 New
+Santa: -23, -40
+Robo: 24, -23
+Santa: -22, -40
+Robo: 23, -23
+Santa: -23, -40
+Robo: 22, -23 New
+Santa: -23, -39
+Robo: 21, -23
+Santa: -24, -39
+Robo: 20, -23
+Santa: -23, -39
+Robo: 21, -23
+Santa: -22, -39
+Robo: 22, -23
+Santa: -21, -39
+Robo: 22, -22 New
+Santa: -20, -39
+Robo: 22, -23
+Santa: -20, -40
+Robo: 21, -23
+Santa: -20, -39
+Robo: 21, -24
+Santa: -20, -38
+Robo: 20, -24
+Santa: -19, -38
+Robo: 20, -23
+Santa: -20, -38
+Robo: 20, -24
+Santa: -20, -37
+Robo: 21, -24
+Santa: -20, -36
+Robo: 21, -25
+Santa: -19, -36
+Robo: 20, -25
+Santa: -19, -37
+Robo: 21, -25
+Santa: -19, -38
+Robo: 21, -26
+Santa: -19, -39
+Robo: 20, -26
+Santa: -18, -39
+Robo: 21, -26
+Santa: -17, -39
+Robo: 21, -25
+Santa: -17, -40
+Robo: 21, -24
+Santa: -17, -39
+Robo: 21, -23
+Santa: -17, -40
+Robo: 20, -23
+Santa: -18, -40
+Robo: 19, -23 New
+Santa: -19, -40
+Robo: 20, -23
+Santa: -18, -40
+Robo: 20, -22
+Santa: -18, -39
+Robo: 19, -22 New
+Santa: -18, -40
+Robo: 19, -23
+Santa: -19, -40
+Robo: 19, -22
+Santa: -20, -40
+Robo: 19, -21 New
+Santa: -20, -39
+Robo: 20, -21 New
+Santa: -20, -38
+Robo: 19, -21
+Santa: -19, -38
+Robo: 19, -22
+Santa: -20, -38
+Robo: 19, -21
+Santa: -21, -38
+Robo: 18, -21 New
+Santa: -22, -38
+Robo: 19, -21
+Santa: -21, -38
+Robo: 18, -21
+Santa: -20, -38
+Robo: 19, -21
+Santa: -20, -39
+Robo: 18, -21
+Santa: -20, -38
+Robo: 17, -21 New
+Santa: -19, -38
+Robo: 17, -20 New
+Santa: -20, -38
+Robo: 17, -21
+Santa: -20, -39
+Robo: 17, -22 New
+Santa: -21, -39
+Robo: 17, -21
+Santa: -22, -39
+Robo: 18, -21
+Santa: -21, -39
+Robo: 17, -21
+Santa: -20, -39
+Robo: 16, -21 New
+Santa: -21, -39
+Robo: 16, -22
+Santa: -20, -39
+Robo: 16, -21
+Santa: -20, -38
+Robo: 16, -20 New
+Santa: -19, -38
+Robo: 16, -19 New
+Santa: -19, -37
+Robo: 15, -19 New
+Santa: -20, -37
+Robo: 15, -20 New
+Santa: -21, -37 New
+Robo: 15, -21 New
+Santa: -21, -36
+Robo: 16, -21
+Santa: -21, -35
+Robo: 16, -20
+Santa: -21, -36
+Robo: 16, -19
+Santa: -20, -36
+Robo: 17, -19 New
+Santa: -21, -36
+Robo: 16, -19
+Santa: -21, -35
+Robo: 16, -20
+Santa: -21, -36
+Robo: 17, -20
+Santa: -22, -36 New
+Robo: 17, -21
+Santa: -21, -36
+Robo: 17, -20
+Santa: -21, -37
+Robo: 18, -20 New
+Santa: -20, -37
+Robo: 18, -19 New
+Santa: -21, -37
+Robo: 18, -20
+Santa: -20, -37
+Robo: 18, -21
+Santa: -19, -37
+Robo: 18, -20
+Santa: -19, -36
+Robo: 19, -20 New
+Santa: -19, -35
+Robo: 19, -21
+Santa: -18, -35
+Robo: 19, -20
+Santa: -18, -36
+Robo: 19, -21
+Santa: -18, -37 New
+Robo: 18, -21
+Santa: -17, -37 New
+Robo: 18, -22 New
+Santa: -17, -36
+Robo: 18, -23 New
+Santa: -17, -35
+Robo: 18, -22
+Santa: -18, -35
+Robo: 19, -22
+Santa: -19, -35
+Robo: 19, -23
+Santa: -19, -36
+Robo: 20, -23
+Santa: -19, -37
+Robo: 20, -24
+Santa: -19, -36
+Robo: 21, -24
+Santa: -18, -36
+Robo: 22, -24 New
+Santa: -19, -36
+Robo: 23, -24
+Santa: -19, -37
+Robo: 22, -24
+Santa: -19, -36
+Robo: 23, -24
+Santa: -20, -36
+Robo: 23, -25
+Santa: -21, -36
+Robo: 23, -26
+Santa: -21, -35
+Robo: 22, -26
+Santa: -20, -35
+Robo: 21, -26
+Santa: -21, -35
+Robo: 20, -26
+Santa: -20, -35
+Robo: 20, -25
+Santa: -20, -36
+Robo: 21, -25
+Santa: -20, -35
+Robo: 21, -26
+Santa: -21, -35
+Robo: 20, -26
+Santa: -22, -35 New
+Robo: 20, -25
+Santa: -21, -35
+Robo: 20, -24
+Santa: -20, -35
+Robo: 20, -23
+Santa: -19, -35
+Robo: 20, -24
+Santa: -19, -34
+Robo: 20, -25
+Santa: -20, -34
+Robo: 19, -25
+Santa: -19, -34
+Robo: 18, -25
+Santa: -19, -35
+Robo: 18, -26
+Santa: -19, -36
+Robo: 17, -26
+Santa: -20, -36
+Robo: 17, -27
+Santa: -20, -35
+Robo: 17, -26
+Santa: -21, -35
+Robo: 18, -26
+Santa: -22, -35
+Robo: 18, -27
+Santa: -21, -35
+Robo: 18, -26
+Santa: -20, -35
+Robo: 19, -26
+Santa: -19, -35
+Robo: 18, -26
+Santa: -19, -36
+Robo: 18, -27
+Santa: -18, -36
+Robo: 19, -27
+Santa: -19, -36
+Robo: 19, -28
+Santa: -18, -36
+Robo: 20, -28
+Santa: -18, -37
+Robo: 20, -27
+Santa: -19, -37
+Robo: 20, -28
+Santa: -19, -38
+Robo: 21, -28
+Santa: -18, -38
+Robo: 21, -29
+Santa: -18, -39
+Robo: 20, -29
+Santa: -19, -39
+Robo: 20, -28
+Santa: -19, -40
+Robo: 20, -27
+Santa: -19, -41
+Robo: 19, -27
+Santa: -20, -41
+Robo: 20, -27
+Santa: -21, -41
+Robo: 20, -26
+Santa: -21, -42
+Robo: 19, -26
+Santa: -21, -43
+Robo: 19, -27
+Santa: -20, -43
+Robo: 20, -27
+Santa: -19, -43
+Robo: 20, -28
+Santa: -19, -44
+Robo: 19, -28
+Santa: -18, -44 New
+Robo: 20, -28
+Santa: -17, -44
+Robo: 21, -28
+Santa: -17, -43
+Robo: 21, -29
+Santa: -17, -44
+Robo: 22, -29
+Santa: -17, -45 New
+Robo: 22, -28
+Santa: -18, -45 New
+Robo: 23, -28
+Santa: -18, -46 New
+Robo: 23, -29
+Santa: -17, -46 New
+Robo: 23, -30
+Santa: -17, -45
+Robo: 23, -31
+Santa: -18, -45
+Robo: 23, -32
+Santa: -18, -44
+Robo: 24, -32 New
+Santa: -19, -44
+Robo: 24, -33 New
+Santa: -20, -44
+Robo: 24, -32
+Santa: -20, -43
+Robo: 24, -31
+Santa: -20, -42
+Robo: 24, -30
+Santa: -19, -42
+Robo: 24, -31
+Santa: -19, -43
+Robo: 23, -31
+Santa: -18, -43
+Robo: 22, -31
+Santa: -19, -43
+Robo: 22, -32
+Santa: -19, -44
+Robo: 22, -33
+Santa: -19, -43
+Robo: 21, -33
+Santa: -19, -44
+Robo: 22, -33
+Santa: -20, -44
+Robo: 22, -32
+Santa: -21, -44
+Robo: 22, -33
+Santa: -21, -45
+Robo: 23, -33 New
+Santa: -22, -45
+Robo: 23, -32
+Santa: -22, -44
+Robo: 23, -31
+Santa: -22, -45
+Robo: 23, -32
+Santa: -22, -44
+Robo: 22, -32
+Santa: -21, -44
+Robo: 22, -31
+Santa: -21, -43
+Robo: 22, -30
+Santa: -21, -42
+Robo: 21, -30
+Santa: -21, -41
+Robo: 22, -30
+Santa: -22, -41
+Robo: 22, -29
+Santa: -23, -41
+Robo: 23, -29
+Santa: -23, -42
+Robo: 23, -28
+Santa: -24, -42
+Robo: 23, -29
+Santa: -24, -41 New
+Robo: 23, -30
+Santa: -25, -41
+Robo: 22, -30
+Santa: -25, -40
+Robo: 22, -31
+Santa: -26, -40
+Robo: 21, -31
+Santa: -26, -39
+Robo: 21, -30
+Santa: -27, -39
+Robo: 22, -30
+Santa: -26, -39
+Robo: 22, -29
+Santa: -27, -39
+Robo: 22, -30
+Santa: -27, -38
+Robo: 22, -29
+Santa: -26, -38
+Robo: 23, -29
+Santa: -25, -38
+Robo: 23, -30
+Santa: -25, -39
+Robo: 22, -30
+Santa: -25, -40
+Robo: 22, -31
+Santa: -25, -41
+Robo: 21, -31
+Santa: -24, -41
+Robo: 21, -32
+Santa: -25, -41
+Robo: 20, -32
+Santa: -24, -41
+Robo: 21, -32
+Santa: -25, -41
+Robo: 21, -31
+Santa: -25, -42
+Robo: 21, -32
+Santa: -25, -43
+Robo: 21, -31
+Santa: -26, -43
+Robo: 20, -31
+Santa: -26, -42
+Robo: 20, -30
+Santa: -27, -42
+Robo: 19, -30
+Santa: -26, -42
+Robo: 20, -30
+Santa: -25, -42
+Robo: 20, -29
+Santa: -26, -42
+Robo: 21, -29
+Santa: -25, -42
+Robo: 22, -29
+Santa: -25, -43
+Robo: 22, -28
+Santa: -25, -42
+Robo: 23, -28
+Santa: -26, -42
+Robo: 24, -28
+Santa: -25, -42
+Robo: 23, -28
+Santa: -26, -42
+Robo: 24, -28
+Santa: -25, -42
+Robo: 23, -28
+Santa: -25, -43
+Robo: 23, -27
+Santa: -25, -44
+Robo: 24, -27
+Santa: -24, -44
+Robo: 25, -27
+Santa: -23, -44
+Robo: 26, -27
+Santa: -22, -44
+Robo: 25, -27
+Santa: -21, -44
+Robo: 26, -27
+Santa: -20, -44
+Robo: 25, -27
+Santa: -20, -45
+Robo: 25, -26
+Santa: -21, -45
+Robo: 24, -26
+Santa: -21, -46
+Robo: 24, -27
+Santa: -21, -47
+Robo: 24, -26
+Santa: -20, -47
+Robo: 24, -27
+Santa: -21, -47
+Robo: 25, -27
+Santa: -20, -47
+Robo: 25, -28
+Santa: -20, -46
+Robo: 24, -28
+Santa: -19, -46
+Robo: 24, -29
+Santa: -19, -47 New
+Robo: 23, -29
+Santa: -18, -47 New
+Robo: 22, -29
+Santa: -18, -46
+Robo: 22, -28
+Santa: -18, -45
+Robo: 22, -27
+Santa: -18, -46
+Robo: 22, -26
+Santa: -19, -46
+Robo: 21, -26
+Santa: -19, -45
+Robo: 20, -26
+Santa: -19, -46
+Robo: 20, -25
+Santa: -19, -47
+Robo: 20, -26
+Santa: -18, -47
+Robo: 19, -26
+Santa: -19, -47
+Robo: 19, -25
+Santa: -19, -46
+Robo: 20, -25
+Santa: -19, -47
+Robo: 19, -25
+Santa: -19, -46
+Robo: 19, -26
+Santa: -19, -47
+Robo: 19, -27
+Santa: -19, -46
+Robo: 19, -28
+Santa: -18, -46
+Robo: 20, -28
+Santa: -18, -47
+Robo: 21, -28
+Santa: -18, -46
+Robo: 22, -28
+Santa: -17, -46
+Robo: 22, -29
+Santa: -16, -46 New
+Robo: 22, -28
+Santa: -16, -45 New
+Robo: 23, -28
+Santa: -17, -45
+Robo: 22, -28
+Santa: -17, -46
+Robo: 22, -27
+Santa: -18, -46
+Robo: 23, -27
+Santa: -18, -47
+Robo: 22, -27
+Santa: -17, -47 New
+Robo: 22, -28
+Santa: -17, -48 New
+Robo: 21, -28
+Santa: -17, -47
+Robo: 21, -29
+Santa: -17, -46
+Robo: 21, -30
+Santa: -17, -47
+Robo: 22, -30
+Santa: -18, -47
+Robo: 22, -31
+Santa: -17, -47
+Robo: 21, -31
+Santa: -18, -47
+Robo: 21, -32
+Santa: -18, -48 New
+Robo: 21, -31
+Santa: -18, -49 New
+Robo: 22, -31
+Santa: -17, -49 New
+Robo: 22, -32
+Santa: -17, -48
+Robo: 23, -32
+Santa: -16, -48 New
+Robo: 23, -33
+Santa: -17, -48
+Robo: 23, -32
+Santa: -17, -47
+Robo: 23, -31
+Santa: -16, -47 New
+Robo: 23, -30
+Santa: -15, -47 New
+Robo: 22, -30
+Santa: -16, -47
+Robo: 22, -31
+Santa: -17, -47
+Robo: 23, -31
+Santa: -17, -46
+Robo: 24, -31
+Santa: -18, -46
+Robo: 25, -31
+Santa: -18, -47
+Robo: 26, -31
+Santa: -17, -47
+Robo: 27, -31
+Santa: -17, -48
+Robo: 27, -32 New
+Santa: -17, -49
+Robo: 26, -32 New
+Santa: -17, -50 New
+Robo: 25, -32 New
+Santa: -17, -51 New
+Robo: 25, -33 New
+Santa: -18, -51 New
+Robo: 25, -32
+Santa: -17, -51
+Robo: 26, -32
+Santa: -17, -50
+Robo: 26, -33 New
+Santa: -18, -50 New
+Robo: 26, -34 New
+Santa: -17, -50
+Robo: 26, -33
+Santa: -18, -50
+Robo: 26, -32
+Santa: -18, -49
+Robo: 26, -31
+Santa: -18, -48
+Robo: 26, -30
+Santa: -18, -49
+Robo: 27, -30 New
+Santa: -19, -49 New
+Robo: 28, -30
+Santa: -19, -50 New
+Robo: 29, -30
+Santa: -20, -50 New
+Robo: 30, -30 New
+Santa: -20, -51 New
+Robo: 30, -29 New
+Santa: -20, -52 New
+Robo: 30, -28 New
+Santa: -20, -53 New
+Robo: 29, -28
+Santa: -20, -54 New
+Robo: 29, -27
+Santa: -20, -55 New
+Robo: 29, -28
+Santa: -20, -54
+Robo: 29, -29
+Santa: -19, -54 New
+Robo: 29, -30
+Santa: -19, -55 New
+Robo: 29, -31 New
+Santa: -19, -56 New
+Robo: 28, -31
+Santa: -18, -56 New
+Robo: 28, -32 New
+Santa: -18, -57 New
+Robo: 27, -32
+Santa: -19, -57 New
+Robo: 26, -32
+Santa: -19, -58 New
+Robo: 26, -33
+Santa: -20, -58 New
+Robo: 26, -34
+Santa: -21, -58 New
+Robo: 25, -34 New
+Santa: -20, -58
+Robo: 25, -33
+Santa: -21, -58
+Robo: 25, -32
+Santa: -20, -58
+Robo: 25, -31
+Santa: -20, -57 New
+Robo: 25, -32
+Santa: -20, -56 New
+Robo: 24, -32
+Santa: -21, -56 New
+Robo: 25, -32
+Santa: -21, -55 New
+Robo: 24, -32
+Santa: -21, -56
+Robo: 25, -32
+Santa: -22, -56 New
+Robo: 25, -31
+Santa: -21, -56
+Robo: 24, -31
+Santa: -21, -57 New
+Robo: 23, -31
+Santa: -21, -58
+Robo: 22, -31
+Santa: -20, -58
+Robo: 21, -31
+Santa: -21, -58
+Robo: 22, -31
+Santa: -21, -59 New
+Robo: 22, -30
+Santa: -22, -59 New
+Robo: 21, -30
+Santa: -22, -58 New
+Robo: 20, -30
+Santa: -21, -58
+Robo: 19, -30
+Santa: -21, -59
+Robo: 19, -31
+Santa: -20, -59 New
+Robo: 19, -32
+Santa: -21, -59
+Robo: 18, -32
+Santa: -21, -58
+Robo: 18, -33
+Santa: -20, -58
+Robo: 19, -33
+Santa: -20, -57
+Robo: 19, -34
+Santa: -21, -57
+Robo: 20, -34
+Santa: -22, -57 New
+Robo: 20, -35
+Santa: -21, -57
+Robo: 20, -34
+Santa: -20, -57
+Robo: 21, -34
+Santa: -20, -56
+Robo: 21, -33
+Santa: -19, -56
+Robo: 20, -33
+Santa: -18, -56
+Robo: 20, -34
+Santa: -18, -55 New
+Robo: 19, -34
+Santa: -18, -54 New
+Robo: 18, -34
+Santa: -18, -55
+Robo: 18, -35
+Santa: -18, -56
+Robo: 18, -34
+Santa: -17, -56 New
+Robo: 18, -33
+Santa: -16, -56 New
+Robo: 18, -32
+Santa: -17, -56
+Robo: 17, -32 New
+Santa: -18, -56
+Robo: 16, -32 New
+Santa: -17, -56
+Robo: 16, -33
+Santa: -17, -57 New
+Robo: 17, -33
+Santa: -17, -56
+Robo: 17, -34 New
+Santa: -17, -55 New
+Robo: 17, -35 New
+Santa: -18, -55
+Robo: 17, -34
+Santa: -18, -54
+Robo: 17, -33
+Santa: -19, -54
+Robo: 17, -34
+Santa: -19, -55
+Robo: 18, -34
+Santa: -18, -55
+Robo: 17, -34
+Santa: -17, -55
+Robo: 17, -33
+Santa: -17, -54 New
+Robo: 16, -33
+Santa: -18, -54
+Robo: 16, -34 New
+Santa: -19, -54
+Robo: 16, -33
+Santa: -20, -54
+Robo: 16, -32
+Santa: -20, -53
+Robo: 17, -32
+Santa: -19, -53 New
+Robo: 18, -32
+Santa: -19, -54
+Robo: 18, -31
+Santa: -19, -55
+Robo: 17, -31
+Santa: -20, -55
+Robo: 17, -30
+Santa: -20, -54
+Robo: 17, -29
+Santa: -21, -54 New
+Robo: 17, -30
+Santa: -22, -54 New
+Robo: 17, -31
+Santa: -23, -54 New
+Robo: 17, -30
+Santa: -24, -54 New
+Robo: 18, -30
+Santa: -24, -53 New
+Robo: 18, -31
+Santa: -25, -53 New
+Robo: 18, -32
+Santa: -24, -53
+Robo: 17, -32
+Santa: -24, -54
+Robo: 17, -31
+Santa: -24, -55 New
+Robo: 17, -32
+Santa: -24, -54
+Robo: 17, -31
+Santa: -24, -55
+Robo: 17, -30
+Santa: -24, -54
+Robo: 17, -31
+Santa: -24, -53
+Robo: 17, -30
+Santa: -25, -53
+Robo: 17, -31
+Santa: -25, -54 New
+Robo: 16, -31
+Santa: -24, -54
+Robo: 16, -30
+Santa: -25, -54
+Robo: 17, -30
+Santa: -26, -54 New
+Robo: 17, -31
+Santa: -26, -55 New
+Robo: 17, -30
+Santa: -27, -55 New
+Robo: 17, -29
+Santa: -27, -56 New
+Robo: 17, -28
+Santa: -28, -56 New
+Robo: 16, -28
+Santa: -28, -55 New
+Robo: 17, -28
+Santa: -29, -55 New
+Robo: 16, -28
+Santa: -29, -56 New
+Robo: 16, -29 New
+Santa: -29, -57 New
+Robo: 17, -29
+Santa: -29, -56
+Robo: 17, -28
+Santa: -30, -56 New
+Robo: 17, -27
+Santa: -30, -55 New
+Robo: 17, -26
+Santa: -31, -55 New
+Robo: 17, -25 New
+Santa: -31, -56 New
+Robo: 18, -25
+Santa: -31, -55
+Robo: 19, -25
+Santa: -31, -54 New
+Robo: 19, -26
+Santa: -31, -55
+Robo: 20, -26
+Santa: -32, -55 New
+Robo: 19, -26
+Santa: -33, -55 New
+Robo: 19, -25
+Santa: -33, -56 New
+Robo: 18, -25
+Santa: -33, -57 New
+Robo: 19, -25
+Santa: -33, -58 New
+Robo: 19, -26
+Santa: -32, -58 New
+Robo: 19, -27
+Santa: -33, -58
+Robo: 20, -27
+Santa: -33, -59 New
+Robo: 20, -26
+Santa: -33, -60 New
+Robo: 19, -26
+Santa: -33, -61 New
+Robo: 19, -25
+Santa: -32, -61 New
+Robo: 19, -26
+Santa: -32, -60 New
+Robo: 20, -26
+Santa: -31, -60 New
+Robo: 21, -26
+Santa: -31, -61 New
+Robo: 21, -25
+Santa: -31, -62 New
+Robo: 20, -25
+Santa: -30, -62 New
+Robo: 20, -24
+Santa: -30, -63 New
+Robo: 19, -24
+Santa: -31, -63 New
+Robo: 20, -24
+Santa: -31, -62
+Robo: 20, -25
+Santa: -31, -63
+Robo: 21, -25
+Santa: -31, -64 New
+Robo: 22, -25
+Santa: -31, -65 New
+Robo: 23, -25
+Santa: -31, -66 New
+Robo: 23, -24
+Santa: -32, -66 New
+Robo: 23, -23
+Santa: -31, -66
+Robo: 23, -24
+Santa: -31, -65
+Robo: 23, -23
+Santa: -32, -65 New
+Robo: 23, -22
+Santa: -31, -65
+Robo: 23, -21 New
+Santa: -31, -64
+Robo: 23, -20 New
+Santa: -31, -63
+Robo: 23, -21
+Santa: -31, -64
+Robo: 24, -21 New
+Santa: -31, -63
+Robo: 24, -20 New
+Santa: -30, -63
+Robo: 23, -20
+Santa: -30, -62
+Robo: 24, -20
+Santa: -30, -63
+Robo: 24, -21
+Santa: -30, -62
+Robo: 25, -21
+Santa: -29, -62 New
+Robo: 25, -20 New
+Santa: -29, -61 New
+Robo: 25, -21
+Santa: -28, -61 New
+Robo: 26, -21 New
+Santa: -29, -61
+Robo: 25, -21
+Santa: -30, -61 New
+Robo: 24, -21
+Santa: -30, -60 New
+Robo: 25, -21
+Santa: -31, -60
+Robo: 26, -21
+Santa: -31, -61
+Robo: 25, -21
+Santa: -30, -61
+Robo: 25, -20
+Santa: -31, -61
+Robo: 25, -21
+Santa: -32, -61
+Robo: 25, -22
+Santa: -32, -62 New
+Robo: 25, -21
+Santa: -31, -62
+Robo: 25, -20
+Santa: -31, -61
+Robo: 26, -20 New
+Santa: -32, -61
+Robo: 25, -20
+Santa: -32, -60
+Robo: 26, -20
+Santa: -33, -60
+Robo: 26, -21
+Santa: -32, -60
+Robo: 26, -22
+Santa: -32, -59 New
+Robo: 27, -22 New
+Santa: -32, -58
+Robo: 27, -21 New
+Santa: -33, -58
+Robo: 27, -20 New
+Santa: -32, -58
+Robo: 28, -20 New
+Santa: -31, -58 New
+Robo: 27, -20
+Santa: -30, -58 New
+Robo: 28, -20
+Santa: -31, -58
+Robo: 28, -21 New
+Santa: -31, -57 New
+Robo: 28, -22 New
+Santa: -32, -57 New
+Robo: 28, -23 New
+Santa: -32, -56 New
+Robo: 27, -23
+Santa: -32, -57
+Robo: 26, -23
+Santa: -32, -58
+Robo: 26, -24 New
+Santa: -32, -57
+Robo: 26, -25
+Santa: -32, -56
+Robo: 25, -25
+Santa: -33, -56
+Robo: 25, -24
+Santa: -34, -56 New
+Robo: 25, -25
+Santa: -34, -57 New
+Robo: 25, -26
+Santa: -33, -57
+Robo: 26, -26
+Santa: -32, -57
+Robo: 25, -26
+Santa: -32, -58
+Robo: 25, -27
+Santa: -33, -58
+Robo: 25, -26
+Santa: -33, -57
+Robo: 26, -26
+Santa: -32, -57
+Robo: 26, -25
+Santa: -31, -57
+Robo: 26, -24
+Santa: -30, -57 New
+Robo: 25, -24
+Santa: -31, -57
+Robo: 25, -25
+Santa: -31, -56
+Robo: 24, -25
+Santa: -30, -56
+Robo: 25, -25
+Santa: -30, -57
+Robo: 26, -25
+Santa: -30, -58
+Robo: 26, -24
+Santa: -30, -59 New
+Robo: 26, -23
+Santa: -30, -58
+Robo: 27, -23
+Santa: -31, -58
+Robo: 26, -23
+Santa: -30, -58
+Robo: 26, -24
+Santa: -30, -59
+Robo: 26, -23
+Santa: -30, -60
+Robo: 27, -23
+Santa: -30, -61
+Robo: 27, -22
+Santa: -31, -61
+Robo: 27, -23
+Santa: -30, -61
+Robo: 26, -23
+Santa: -30, -60
+Robo: 25, -23
+Santa: -29, -60 New
+Robo: 25, -22
+Santa: -29, -59 New
+Robo: 24, -22
+Santa: -29, -58 New
+Robo: 25, -22
+Santa: -29, -59
+Robo: 26, -22
+Santa: -29, -58
+Robo: 25, -22
+Santa: -28, -58 New
+Robo: 24, -22
+Santa: -29, -58
+Robo: 23, -22
+Santa: -29, -59
+Robo: 24, -22
+Santa: -29, -58
+Robo: 23, -22
+Santa: -29, -57
+Robo: 22, -22
+Santa: -29, -56
+Robo: 23, -22
+Santa: -29, -55
+Robo: 24, -22
+Santa: -29, -54 New
+Robo: 25, -22
+Santa: -29, -53 New
+Robo: 25, -21
+Santa: -29, -54
+Robo: 25, -20
+Santa: -30, -54 New
+Robo: 24, -20
+Santa: -30, -53 New
+Robo: 24, -19 New
+Santa: -30, -54
+Robo: 24, -18 New
+Santa: -30, -53
+Robo: 23, -18 New
+Santa: -30, -52 New
+Robo: 22, -18 New
+Santa: -29, -52 New
+Robo: 23, -18
+Santa: -30, -52
+Robo: 23, -17 New
+Santa: -29, -52
+Robo: 23, -18
+Santa: -28, -52 New
+Robo: 24, -18
+Santa: -28, -51 New
+Robo: 24, -17 New
+Santa: -29, -51 New
+Robo: 25, -17 New
+Santa: -29, -50 New
+Robo: 25, -16 New
+Santa: -29, -49 New
+Robo: 24, -16 New
+Santa: -30, -49 New
+Robo: 23, -16 New
+Santa: -31, -49 New
+Robo: 23, -17
+Santa: -31, -48 New
+Robo: 24, -17
+Santa: -31, -47 New
+Robo: 24, -18
+Santa: -32, -47 New
+Robo: 24, -17
+Santa: -32, -48 New
+Robo: 24, -18
+Santa: -31, -48
+Robo: 24, -17
+Santa: -32, -48
+Robo: 23, -17
+Santa: -33, -48 New
+Robo: 23, -18
+Santa: -34, -48 New
+Robo: 24, -18
+Santa: -35, -48 New
+Robo: 23, -18
+Santa: -35, -49 New
+Robo: 22, -18
+Santa: -34, -49 New
+Robo: 22, -19 New
+Santa: -34, -50 New
+Robo: 23, -19 New
+Santa: -33, -50 New
+Robo: 24, -19
+Santa: -33, -51 New
+Robo: 25, -19 New
+Santa: -34, -51 New
+Robo: 26, -19 New
+Santa: -33, -51
+Robo: 27, -19 New
+Santa: -34, -51
+Robo: 28, -19 New
+Santa: -33, -51
+Robo: 28, -20
+Santa: -34, -51
+Robo: 27, -20
+Santa: -35, -51 New
+Robo: 27, -21
+Santa: -35, -52 New
+Robo: 28, -21
+Santa: -36, -52 New
+Robo: 29, -21 New
+Santa: -36, -51 New
+Robo: 29, -22 New
+Santa: -35, -51
+Robo: 29, -23 New
+Santa: -36, -51
+Robo: 29, -22
+Santa: -35, -51
+Robo: 30, -22 New
+Santa: -36, -51
+Robo: 30, -21 New
+Santa: -35, -51
+Robo: 29, -21
+Santa: -34, -51
+Robo: 28, -21
+Santa: -34, -52 New
+Robo: 27, -21
+Santa: -33, -52 New
+Robo: 27, -20
+Santa: -33, -53 New
+Robo: 27, -19
+Santa: -32, -53 New
+Robo: 27, -18 New
+Santa: -32, -54 New
+Robo: 28, -18 New
+Santa: -32, -53
+Robo: 28, -19
+Santa: -33, -53
+Robo: 27, -19
+Santa: -32, -53
+Robo: 26, -19
+Santa: -33, -53
+Robo: 26, -18 New
+Santa: -34, -53 New
+Robo: 27, -18
+Santa: -33, -53
+Robo: 27, -19
+Santa: -32, -53
+Robo: 27, -18
+Santa: -31, -53 New
+Robo: 26, -18
+Santa: -30, -53
+Robo: 26, -17 New
+Santa: -29, -53
+Robo: 27, -17 New
+Santa: -30, -53
+Robo: 28, -17 New
+Santa: -29, -53
+Robo: 27, -17
+Santa: -29, -52
+Robo: 26, -17
+Santa: -29, -53
+Robo: 26, -16 New
+Santa: -28, -53 New
+Robo: 25, -16
+Santa: -28, -54 New
+Robo: 25, -15 New
+Santa: -28, -53
+Robo: 24, -15 New
+Santa: -27, -53 New
+Robo: 23, -15 New
+Santa: -27, -54 New
+Robo: 24, -15
+Santa: -28, -54
+Robo: 24, -14 New
+Santa: -28, -53
+Robo: 25, -14 New
+Santa: -28, -52
+Robo: 25, -15
+Santa: -28, -51
+Robo: 25, -14
+Santa: -29, -51
+Robo: 26, -14 New
+Santa: -29, -52
+Robo: 26, -13 New
+Santa: -30, -52
+Robo: 26, -14
+Santa: -30, -51 New
+Robo: 25, -14
+Santa: -30, -50 New
+Robo: 25, -15
+Santa: -31, -50 New
+Robo: 25, -16
+Santa: -31, -49
+Robo: 25, -15
+Santa: -31, -48
+Robo: 25, -14
+Santa: -31, -47
+Robo: 25, -15
+Santa: -31, -46 New
+Robo: 24, -15
+Santa: -32, -46 New
+Robo: 24, -14
+Santa: -31, -46
+Robo: 24, -13 New
+Santa: -31, -45 New
+Robo: 24, -12 New
+Santa: -32, -45 New
+Robo: 24, -11 New
+Santa: -32, -46
+Robo: 25, -11 New
+Santa: -33, -46 New
+Robo: 26, -11 New
+Santa: -33, -45 New
+Robo: 26, -10 New
+Santa: -34, -45 New
+Robo: 25, -10 New
+Santa: -35, -45 New
+Robo: 26, -10
+Santa: -36, -45 New
+Robo: 25, -10
+Santa: -37, -45 New
+Robo: 24, -10 New
+Santa: -38, -45 New
+Robo: 24, -9 New
+Santa: -38, -44 New
+Robo: 25, -9 New
+Santa: -38, -45
+Robo: 25, -8 New
+Santa: -38, -46 New
+Robo: 25, -9
+Santa: -38, -47 New
+Robo: 25, -10
+Santa: -37, -47 New
+Robo: 25, -11
+Santa: -38, -47
+Robo: 26, -11
+Santa: -37, -47
+Robo: 26, -12 New
+Santa: -37, -48 New
+Robo: 25, -12 New
+Santa: -37, -47
+Robo: 26, -12
+Santa: -37, -46 New
+Robo: 26, -13
+Santa: -37, -45
+Robo: 27, -13 New
+Santa: -37, -46
+Robo: 26, -13
+Santa: -37, -45
+Robo: 26, -14
+Santa: -37, -46
+Robo: 26, -13
+Santa: -37, -47
+Robo: 25, -13 New
+Santa: -38, -47
+Robo: 26, -13
+Santa: -39, -47 New
+Robo: 25, -13
+Santa: -39, -48 New
+Robo: 26, -13
+Santa: -39, -49 New
+Robo: 26, -12
+Santa: -39, -50 New
+Robo: 27, -12 New
+Santa: -39, -49
+Robo: 27, -11 New
+Santa: -38, -49 New
+Robo: 26, -11
+Santa: -37, -49 New
+Robo: 25, -11
+Santa: -37, -48
+Robo: 24, -11
+Santa: -37, -49
+Robo: 24, -10
+Santa: -36, -49 New
+Robo: 24, -11
+Santa: -35, -49
+Robo: 23, -11 New
+Santa: -35, -50 New
+Robo: 23, -12 New
+Santa: -34, -50
+Robo: 22, -12 New
+Santa: -33, -50
+Robo: 23, -12
+Santa: -32, -50 New
+Robo: 22, -12
+Santa: -33, -50
+Robo: 23, -12
+Santa: -33, -49 New
+Robo: 23, -13 New
+Santa: -33, -50
+Robo: 22, -13 New
+Santa: -32, -50
+Robo: 22, -14 New
+Santa: -31, -50
+Robo: 23, -14 New
+Santa: -31, -51 New
+Robo: 22, -14
+Santa: -31, -50
+Robo: 22, -15 New
+Santa: -30, -50
+Robo: 23, -15
+Santa: -29, -50
+Robo: 23, -16
+Santa: -30, -50
+Robo: 23, -17
+Santa: -29, -50
+Robo: 23, -18
+Santa: -28, -50 New
+Robo: 23, -19
+Santa: -27, -50 New
+Robo: 23, -18
+Santa: -27, -51 New
+Robo: 23, -19
+Santa: -28, -51
+Robo: 22, -19
+Santa: -27, -51
+Robo: 22, -18
+Santa: -27, -50
+Robo: 22, -19
+Santa: -27, -51
+Robo: 21, -19 New
+Santa: -27, -52 New
+Robo: 20, -19 New
+Santa: -27, -51
+Robo: 20, -20 New
+Santa: -27, -50
+Robo: 19, -20
+Santa: -27, -51
+Robo: 18, -20
+Santa: -27, -52
+Robo: 19, -20
+Santa: -27, -53
+Robo: 19, -21
+Santa: -28, -53
+Robo: 20, -21
+Santa: -28, -52
+Robo: 19, -21
+Santa: -28, -51
+Robo: 18, -21
+Santa: -28, -52
+Robo: 18, -22
+Santa: -29, -52
+Robo: 18, -23
+Santa: -29, -51
+Robo: 17, -23 New
+Santa: -29, -50
+Robo: 17, -24 New
+Santa: -29, -49
+Robo: 17, -23
+Santa: -28, -49 New
+Robo: 16, -23
+Santa: -29, -49
+Robo: 17, -23
+Santa: -29, -48 New
+Robo: 18, -23
+Santa: -28, -48 New
+Robo: 17, -23
+Santa: -28, -47 New
+Robo: 17, -24
+Santa: -27, -47 New
+Robo: 17, -25
+Santa: -27, -48 New
+Robo: 17, -24
+Santa: -27, -47
+Robo: 17, -25
+Santa: -28, -47
+Robo: 16, -25
+Santa: -28, -46 New
+Robo: 16, -24
+Santa: -27, -46 New
+Robo: 15, -24
+Santa: -28, -46
+Robo: 16, -24
+Santa: -28, -47
+Robo: 16, -23
+Santa: -28, -46
+Robo: 15, -23
+Santa: -27, -46
+Robo: 14, -23
+Santa: -26, -46
+Robo: 13, -23
+Santa: -26, -47 New
+Robo: 13, -22
+Santa: -26, -46
+Robo: 12, -22 New
+Santa: -26, -47
+Robo: 12, -21
+Santa: -26, -48 New
+Robo: 13, -21
+Santa: -26, -47
+Robo: 14, -21
+Santa: -26, -46
+Robo: 15, -21
+Santa: -26, -45
+Robo: 16, -21
+Santa: -26, -46
+Robo: 15, -21
+Santa: -26, -45
+Robo: 14, -21
+Santa: -26, -46
+Robo: 15, -21
+Santa: -26, -45
+Robo: 15, -22
+Santa: -26, -44
+Robo: 15, -21
+Santa: -25, -44
+Robo: 15, -22
+Santa: -26, -44
+Robo: 16, -22
+Santa: -26, -45
+Robo: 16, -23
+Santa: -26, -46
+Robo: 15, -23
+Santa: -26, -45
+Robo: 15, -24
+Santa: -27, -45
+Robo: 15, -25
+Santa: -27, -44
+Robo: 15, -26
+Santa: -26, -44
+Robo: 14, -26
+Santa: -27, -44
+Robo: 14, -27
+Santa: -27, -43
+Robo: 15, -27
+Santa: -28, -43 New
+Robo: 14, -27
+Santa: -28, -42
+Robo: 14, -26
+Santa: -27, -42
+Robo: 13, -26
+Santa: -27, -41
+Robo: 12, -26
+Santa: -28, -41
+Robo: 12, -27
+Santa: -28, -40
+Robo: 12, -28
+Santa: -28, -39
+Robo: 13, -28
+Santa: -28, -40
+Robo: 12, -28
+Santa: -27, -40
+Robo: 12, -27
+Santa: -26, -40
+Robo: 12, -28
+Santa: -25, -40
+Robo: 11, -28
+Santa: -24, -40 New
+Robo: 10, -28
+Santa: -24, -41
+Robo: 11, -28
+Santa: -24, -40
+Robo: 10, -28
+Santa: -24, -41
+Robo: 9, -28
+Santa: -24, -42
+Robo: 10, -28
+Santa: -24, -41
+Robo: 9, -28
+Santa: -24, -40
+Robo: 9, -27
+Santa: -24, -39
+Robo: 10, -27
+Santa: -24, -38
+Robo: 10, -28
+Santa: -25, -38
+Robo: 9, -28
+Santa: -24, -38
+Robo: 8, -28
+Santa: -25, -38
+Robo: 9, -28
+Santa: -26, -38
+Robo: 10, -28
+Santa: -26, -39
+Robo: 10, -29
+Santa: -25, -39
+Robo: 10, -30
+Santa: -25, -38
+Robo: 9, -30
+Santa: -24, -38
+Robo: 9, -31
+Santa: -24, -37 New
+Robo: 10, -31
+Santa: -25, -37
+Robo: 10, -32
+Santa: -25, -36
+Robo: 10, -33
+Santa: -26, -36
+Robo: 10, -34 New
+Santa: -25, -36
+Robo: 9, -34 New
+Santa: -24, -36 New
+Robo: 8, -34 New
+Santa: -25, -36
+Robo: 8, -35 New
+Santa: -24, -36
+Robo: 8, -36 New
+Santa: -25, -36
+Robo: 8, -37 New
+Santa: -25, -37
+Robo: 9, -37 New
+Santa: -26, -37
+Robo: 8, -37
+Santa: -26, -38
+Robo: 9, -37
+Santa: -25, -38
+Robo: 9, -38 New
+Santa: -24, -38
+Robo: 9, -37
+Santa: -25, -38
+Robo: 8, -37
+Santa: -26, -38
+Robo: 9, -37
+Santa: -26, -39
+Robo: 9, -38
+Santa: -25, -39
+Robo: 10, -38 New
+Santa: -25, -40
+Robo: 10, -39 New
+Santa: -25, -41
+Robo: 11, -39 New
+Santa: -25, -40
+Robo: 11, -38 New
+Santa: -25, -41
+Robo: 11, -39
+Santa: -25, -40
+Robo: 11, -40 New
+Santa: -25, -39
+Robo: 11, -39
+Santa: -26, -39
+Robo: 11, -38
+Santa: -26, -38
+Robo: 10, -38
+Santa: -25, -38
+Robo: 10, -39
+Santa: -25, -37
+Robo: 10, -38
+Santa: -26, -37
+Robo: 11, -38
+Santa: -26, -38
+Robo: 12, -38 New
+Santa: -25, -38
+Robo: 12, -37 New
+Santa: -25, -37
+Robo: 13, -37 New
+Santa: -25, -36
+Robo: 14, -37 New
+Santa: -25, -35 New
+Robo: 15, -37 New
+Santa: -25, -36
+Robo: 16, -37 New
+Santa: -24, -36
+Robo: 15, -37
+Santa: -24, -35 New
+Robo: 16, -37
+Santa: -23, -35 New
+Robo: 15, -37
+Santa: -22, -35
+Robo: 16, -37
+Santa: -22, -34 New
+Robo: 15, -37
+Santa: -23, -34 New
+Robo: 16, -37
+Santa: -22, -34
+Robo: 15, -37
+Santa: -22, -33 New
+Robo: 16, -37
+Santa: -22, -34
+Robo: 15, -37
+Santa: -23, -34
+Robo: 14, -37
+Santa: -24, -34 New
+Robo: 13, -37
+Santa: -25, -34 New
+Robo: 12, -37
+Santa: -25, -33 New
+Robo: 12, -38
+Santa: -25, -32 New
+Robo: 12, -39 New
+Santa: -26, -32 New
+Robo: 12, -40 New
+Santa: -26, -31 New
+Robo: 11, -40
+Santa: -26, -32
+Robo: 11, -39
+Santa: -26, -31
+Robo: 12, -39
+Santa: -26, -30 New
+Robo: 11, -39
+Santa: -25, -30 New
+Robo: 10, -39
+Santa: -26, -30
+Robo: 10, -40 New
+Santa: -27, -30 New
+Robo: 10, -39
+Santa: -26, -30
+Robo: 10, -40
+Santa: -26, -29 New
+Robo: 11, -40
+Santa: -26, -30
+Robo: 11, -39
+Santa: -26, -31
+Robo: 11, -40
+Santa: -27, -31 New
+Robo: 10, -40
+Santa: -27, -30
+Robo: 10, -39
+Santa: -27, -31
+Robo: 10, -40
+Santa: -27, -30
+Robo: 11, -40
+Santa: -26, -30
+Robo: 12, -40
+Santa: -25, -30
+Robo: 12, -39
+Santa: -26, -30
+Robo: 13, -39 New
+Santa: -26, -31
+Robo: 12, -39
+Santa: -26, -30
+Robo: 12, -40
+Santa: -27, -30
+Robo: 13, -40 New
+Santa: -27, -31
+Robo: 12, -40
+Santa: -27, -32 New
+Robo: 12, -41 New
+Santa: -28, -32 New
+Robo: 12, -40
+Santa: -27, -32
+Robo: 13, -40
+Santa: -27, -33 New
+Robo: 13, -39
+Santa: -27, -34 New
+Robo: 13, -40
+Santa: -26, -34 New
+Robo: 13, -41 New
+Santa: -26, -35 New
+Robo: 14, -41 New
+Santa: -27, -35 New
+Robo: 14, -42 New
+Santa: -27, -36
+Robo: 13, -42 New
+Santa: -28, -36
+Robo: 13, -41
+Santa: -27, -36
+Robo: 13, -42
+Santa: -26, -36
+Robo: 14, -42
+Santa: -27, -36
+Robo: 14, -43 New
+Santa: -27, -37
+Robo: 15, -43 New
+Santa: -26, -37
+Robo: 16, -43 New
+Santa: -26, -38
+Robo: 16, -44 New
+Santa: -26, -37
+Robo: 15, -44 New
+Santa: -27, -37
+Robo: 14, -44 New
+Santa: -28, -37
+Robo: 14, -45 New
+Santa: -28, -38
+Robo: 14, -44
+Santa: -27, -38
+Robo: 14, -45
+Santa: -28, -38
+Robo: 13, -45 New
+Santa: -29, -38
+Robo: 12, -45 New
+Santa: -29, -37
+Robo: 12, -44 New
+Santa: -28, -37
+Robo: 12, -43 New
+Santa: -28, -36
+Robo: 12, -44
+Santa: -28, -35 New
+Robo: 13, -44 New
+Santa: -29, -35 New
+Robo: 12, -44
+Santa: -29, -34 New
+Robo: 11, -44 New
+Santa: -29, -35
+Robo: 11, -43 New
+Santa: -28, -35
+Robo: 11, -44
+Santa: -28, -34 New
+Robo: 12, -44
+Santa: -28, -33 New
+Robo: 12, -43
+Santa: -29, -33 New
+Robo: 12, -44
+Santa: -30, -33 New
+Robo: 13, -44
+Santa: -30, -34 New
+Robo: 13, -45
+Santa: -30, -35 New
+Robo: 13, -44
+Santa: -29, -35
+Robo: 13, -43 New
+Santa: -30, -35
+Robo: 14, -43
+Santa: -30, -36 New
+Robo: 14, -44
+Santa: -30, -37 New
+Robo: 13, -44
+Santa: -30, -38 New
+Robo: 12, -44
+Santa: -30, -37
+Robo: 12, -43
+Santa: -29, -37
+Robo: 12, -44
+Santa: -29, -36 New
+Robo: 11, -44
+Santa: -30, -36
+Robo: 11, -45 New
+Santa: -29, -36
+Robo: 12, -45
+Santa: -30, -36
+Robo: 13, -45
+Santa: -30, -37
+Robo: 12, -45
+Santa: -30, -38
+Robo: 11, -45
+Santa: -29, -38
+Robo: 11, -44
+Santa: -29, -37
+Robo: 10, -44 New
+Santa: -29, -38
+Robo: 10, -45 New
+Santa: -29, -39
+Robo: 11, -45
+Santa: -29, -38
+Robo: 12, -45
+Santa: -29, -39
+Robo: 12, -46 New
+Santa: -28, -39
+Robo: 11, -46 New
+Santa: -27, -39
+Robo: 10, -46 New
+Santa: -28, -39
+Robo: 9, -46 New
+Santa: -28, -38
+Robo: 9, -45 New
+Santa: -28, -39
+Robo: 9, -46
+Santa: -29, -39
+Robo: 9, -47 New
+Santa: -29, -38
+Robo: 8, -47 New
+Santa: -29, -39
+Robo: 7, -47 New
+Santa: -28, -39
+Robo: 7, -48 New
+Santa: -29, -39
+Robo: 8, -48 New
+Santa: -28, -39
+Robo: 7, -48
+Santa: -29, -39
+Robo: 7, -49 New
+Santa: -28, -39
+Robo: 6, -49 New
+Santa: -28, -38
+Robo: 6, -50 New
+Santa: -28, -39
+Robo: 6, -49
+Santa: -27, -39
+Robo: 6, -48 New
+Santa: -28, -39
+Robo: 6, -47 New
+Santa: -27, -39
+Robo: 6, -46 New
+Santa: -27, -38
+Robo: 6, -45 New
+Santa: -28, -38
+Robo: 5, -45 New
+Santa: -29, -38
+Robo: 5, -46 New
+Santa: -28, -38
+Robo: 5, -47 New
+Santa: -28, -39
+Robo: 5, -46
+Santa: -29, -39
+Robo: 5, -45
+Santa: -30, -39 New
+Robo: 4, -45 New
+Santa: -29, -39
+Robo: 4, -44 New
+Santa: -28, -39
+Robo: 4, -43 New
+Santa: -29, -39
+Robo: 4, -44
+Santa: -29, -40
+Robo: 5, -44 New
+Santa: -29, -41
+Robo: 6, -44 New
+Santa: -30, -41 New
+Robo: 6, -45
+Santa: -31, -41 New
+Robo: 5, -45
+Santa: -31, -40 New
+Robo: 6, -45
+Santa: -32, -40 New
+Robo: 6, -44
+Santa: -31, -40
+Robo: 6, -43 New
+Santa: -31, -39 New
+Robo: 5, -43 New
+Santa: -31, -40
+Robo: 5, -44
+Santa: -31, -39
+Robo: 5, -45
+Santa: -31, -38 New
+Robo: 5, -44
+Santa: -30, -38
+Robo: 6, -44
+Santa: -29, -38
+Robo: 7, -44 New
+Santa: -29, -39
+Robo: 7, -45 New
+Santa: -29, -38
+Robo: 8, -45 New
+Santa: -30, -38
+Robo: 8, -44 New
+Santa: -30, -37
+Robo: 8, -45
+Santa: -30, -38
+Robo: 9, -45
+Santa: -31, -38
+Robo: 10, -45
+Santa: -31, -37 New
+Robo: 9, -45
+Santa: -31, -38
+Robo: 9, -44 New
+Santa: -31, -39
+Robo: 10, -44
+Santa: -31, -40
+Robo: 9, -44
+Santa: -31, -41
+Robo: 9, -45
+Santa: -30, -41
+Robo: 9, -46
+Santa: -29, -41
+Robo: 8, -46 New
+Santa: -30, -41
+Robo: 7, -46 New
+Santa: -30, -42 New
+Robo: 8, -46
+Santa: -30, -43 New
+Robo: 7, -46
+Santa: -30, -44 New
+Robo: 8, -46
+Santa: -30, -43
+Robo: 9, -46
+Santa: -31, -43 New
+Robo: 9, -47
+Santa: -31, -42 New
+Robo: 9, -46
+Santa: -30, -42
+Robo: 8, -46
+Santa: -30, -43
+Robo: 9, -46
+Santa: -30, -44
+Robo: 8, -46
+Santa: -30, -43
+Robo: 8, -47
+Santa: -30, -42
+Robo: 9, -47
+Santa: -29, -42 New
+Robo: 9, -46
+Santa: -29, -41
+Robo: 8, -46
+Santa: -29, -42
+Robo: 8, -45
+Santa: -28, -42
+Robo: 8, -44
+Santa: -28, -41
+Robo: 9, -44
+Santa: -28, -42
+Robo: 9, -45
+Santa: -27, -42
+Robo: 10, -45
+Santa: -27, -43
+Robo: 10, -46
+Santa: -27, -42
+Robo: 11, -46
+Santa: -28, -42
+Robo: 11, -45
+Santa: -28, -43
+Robo: 11, -46
+Santa: -28, -42
+Robo: 11, -47 New
+Santa: -28, -43
+Robo: 10, -47 New
+Santa: -29, -43 New
+Robo: 10, -46
+Santa: -28, -43
+Robo: 10, -47
+Santa: -28, -44 New
+Robo: 11, -47
+Santa: -28, -43
+Robo: 11, -48 New
+Santa: -29, -43
+Robo: 11, -49 New
+Santa: -28, -43
+Robo: 10, -49 New
+Santa: -28, -44
+Robo: 10, -50 New
+Santa: -27, -44
+Robo: 9, -50 New
+Santa: -27, -45
+Robo: 8, -50 New
+Santa: -27, -46
+Robo: 8, -51 New
+Santa: -27, -47
+Robo: 8, -52 New
+Santa: -27, -48
+Robo: 9, -52 New
+Santa: -27, -47
+Robo: 9, -51 New
+Santa: -27, -48
+Robo: 9, -50
+Santa: -27, -49 New
+Robo: 10, -50
+Santa: -28, -49
+Robo: 10, -51 New
+Santa: -27, -49
+Robo: 11, -51 New
+Santa: -26, -49 New
+Robo: 11, -50 New
+Santa: -26, -50 New
+Robo: 11, -51
+Santa: -27, -50
+Robo: 12, -51 New
+Santa: -27, -51
+Robo: 13, -51 New
+Santa: -27, -50
+Robo: 13, -50 New
+Santa: -27, -49
+Robo: 13, -49 New
+Santa: -28, -49
+Robo: 13, -48 New
+Santa: -27, -49
+Robo: 14, -48 New
+Santa: -28, -49
+Robo: 15, -48 New
+Santa: -28, -48
+Robo: 15, -49 New
+Santa: -28, -47
+Robo: 15, -48
+Santa: -28, -46
+Robo: 16, -48 New
+Santa: -28, -47
+Robo: 15, -48
+Santa: -28, -46
+Robo: 15, -47 New
+Santa: -29, -46 New
+Robo: 14, -47 New
+Santa: -29, -45 New
+Robo: 14, -46 New
+Santa: -29, -46
+Robo: 13, -46 New
+Santa: -29, -47 New
+Robo: 13, -47 New
+Santa: -30, -47 New
+Robo: 14, -47
+Santa: -30, -48 New
+Robo: 14, -48
+Santa: -30, -49
+Robo: 13, -48
+Santa: -30, -48
+Robo: 14, -48
+Santa: -29, -48
+Robo: 13, -48
+Santa: -28, -48
+Robo: 12, -48 New
+Santa: -28, -47
+Robo: 13, -48
+Santa: -27, -47
+Robo: 13, -47
+Santa: -26, -47
+Robo: 12, -47 New
+Santa: -26, -46
+Robo: 11, -47
+Santa: -25, -46
+Robo: 11, -48
+Santa: -26, -46
+Robo: 11, -49
+Santa: -27, -46
+Robo: 10, -49
+Santa: -26, -46
+Robo: 9, -49 New
+Santa: -27, -46
+Robo: 9, -50
+Santa: -26, -46
+Robo: 8, -50
+Santa: -26, -47
+Robo: 8, -49 New
+Santa: -26, -48
+Robo: 7, -49
+Santa: -25, -48 New
+Robo: 8, -49
+Santa: -26, -48
+Robo: 8, -48
+Santa: -25, -48
+Robo: 8, -49
+Santa: -24, -48 New
+Robo: 7, -49
+Santa: -25, -48
+Robo: 7, -50 New
+Santa: -25, -47 New
+Robo: 6, -50
+Santa: -25, -48
+Robo: 7, -50
+Santa: -25, -49 New
+Robo: 6, -50
+Santa: -25, -48
+Robo: 5, -50 New
+Santa: -25, -49
+Robo: 5, -51 New
+Santa: -25, -48
+Robo: 5, -52 New
+Santa: -25, -47
+Robo: 5, -53 New
+Santa: -25, -46
+Robo: 6, -53 New
+Santa: -25, -47
+Robo: 6, -54 New
+Santa: -25, -48
+Robo: 6, -53
+Santa: -25, -47
+Robo: 7, -53 New
+Santa: -25, -48
+Robo: 8, -53 New
+Santa: -25, -47
+Robo: 7, -53
+Santa: -25, -48
+Robo: 7, -54 New
+Santa: -25, -47
+Robo: 8, -54 New
+Santa: -25, -48
+Robo: 8, -53
+Santa: -25, -49
+Robo: 8, -52
+Santa: -26, -49
+Robo: 9, -52
+Santa: -26, -50
+Robo: 10, -52 New
+Santa: -26, -49
+Robo: 11, -52 New
+Santa: -25, -49
+Robo: 11, -53 New
+Santa: -25, -50 New
+Robo: 12, -53 New
+Santa: -24, -50 New
+Robo: 11, -53
+Santa: -24, -49 New
+Robo: 11, -52
+Santa: -25, -49
+Robo: 11, -53
+Santa: -26, -49
+Robo: 10, -53 New
+Santa: -25, -49
+Robo: 10, -52
+Santa: -25, -50
+Robo: 10, -53
+Santa: -26, -50
+Robo: 11, -53
+Santa: -27, -50
+Robo: 12, -53
+Santa: -28, -50
+Robo: 11, -53
+Santa: -28, -49
+Robo: 11, -54 New
+Santa: -29, -49
+Robo: 11, -55 New
+Santa: -28, -49
+Robo: 11, -56 New
+Santa: -29, -49
+Robo: 10, -56 New
+Santa: -29, -50
+Robo: 10, -57 New
+Santa: -28, -50
+Robo: 9, -57 New
+Santa: -27, -50
+Robo: 10, -57
+Santa: -28, -50
+Robo: 10, -56
+Santa: -28, -51
+Robo: 9, -56 New
+Santa: -28, -52
+Robo: 10, -56
+Santa: -27, -52
+Robo: 10, -57
+Santa: -27, -51
+Robo: 11, -57 New
+Santa: -27, -52
+Robo: 11, -58 New
+Santa: -27, -53
+Robo: 11, -57
+Santa: -27, -54
+Robo: 11, -56
+Santa: -28, -54
+Robo: 10, -56
+Santa: -28, -53
+Robo: 11, -56
+Santa: -29, -53
+Robo: 11, -57
+Santa: -30, -53
+Robo: 12, -57 New
+Santa: -30, -52
+Robo: 12, -58 New
+Santa: -30, -53
+Robo: 12, -57
+Santa: -29, -53
+Robo: 12, -58
+Santa: -29, -52
+Robo: 11, -58
+Santa: -29, -53
+Robo: 10, -58 New
+Santa: -29, -52
+Robo: 11, -58
+Santa: -28, -52
+Robo: 11, -59 New
+Santa: -29, -52
+Robo: 11, -60 New
+Santa: -28, -52
+Robo: 10, -60 New
+Santa: -28, -53
+Robo: 11, -60
+Santa: -29, -53
+Robo: 11, -61 New
+Santa: -28, -53
+Robo: 12, -61 New
+Santa: -28, -52
+Robo: 11, -61
+Santa: -29, -52
+Robo: 10, -61 New
+Santa: -29, -53
+Robo: 10, -60
+Santa: -30, -53
+Robo: 11, -60
+Santa: -31, -53
+Robo: 10, -60
+Santa: -30, -53
+Robo: 10, -61
+Santa: -29, -53
+Robo: 10, -60
+Santa: -28, -53
+Robo: 10, -59 New
+Santa: -28, -52
+Robo: 9, -59 New
+Santa: -28, -53
+Robo: 8, -59 New
+Santa: -27, -53
+Robo: 9, -59
+Santa: -27, -52
+Robo: 8, -59
+Santa: -26, -52 New
+Robo: 8, -58 New
+Santa: -25, -52 New
+Robo: 8, -57 New
+Santa: -24, -52 New
+Robo: 7, -57 New
+Santa: -25, -52
+Robo: 6, -57 New
+Santa: -25, -51 New
+Robo: 5, -57 New
+Santa: -26, -51 New
+Robo: 5, -56 New
+Santa: -27, -51
+Robo: 4, -56 New
+Santa: -27, -50
+Robo: 5, -56
+Santa: -27, -49
+Robo: 5, -57
+Santa: -26, -49
+Robo: 6, -57
+Santa: -25, -49
+Robo: 5, -57
+Santa: -25, -50
+Robo: 5, -58 New
+Santa: -25, -51
+Robo: 6, -58 New
+Santa: -24, -51 New
+Robo: 5, -58
+Santa: -25, -51
+Robo: 4, -58 New
+Santa: -26, -51
+Robo: 4, -59 New
+Santa: -25, -51
+Robo: 5, -59 New
+Santa: -24, -51
+Robo: 6, -59 New
+Santa: -23, -51 New
+Robo: 7, -59 New
+Santa: -22, -51 New
+Robo: 7, -58 New
+Santa: -23, -51
+Robo: 7, -57
+Santa: -23, -52 New
+Robo: 6, -57
+Santa: -23, -51
+Robo: 7, -57
+Santa: -23, -52
+Robo: 6, -57
+Santa: -22, -52 New
+Robo: 6, -58
+Santa: -22, -53 New
+Robo: 5, -58
+Santa: -21, -53 New
+Robo: 4, -58
+Santa: -20, -53
+Robo: 4, -59
+Santa: -19, -53
+Robo: 5, -59
+Santa: -19, -52 New
+Robo: 6, -59
+Santa: -18, -52 New
+Robo: 6, -58
+Santa: -17, -52 New
+Robo: 6, -59
+Santa: -17, -53 New
+Robo: 6, -58
+Santa: -17, -52
+Robo: 7, -58
+Santa: -18, -52
+Robo: 6, -58
+Santa: -18, -51
+Robo: 5, -58
+Santa: -18, -52
+Robo: 4, -58
+Santa: -18, -53 New
+Robo: 5, -58
+Santa: -17, -53
+Robo: 5, -57
+Santa: -17, -52
+Robo: 4, -57 New
+Santa: -18, -52
+Robo: 4, -56
+Santa: -17, -52
+Robo: 4, -57
+Santa: -18, -52
+Robo: 4, -56
+Santa: -17, -52
+Robo: 5, -56
+Santa: -17, -53
+Robo: 5, -57
+Santa: -16, -53 New
+Robo: 5, -56
+Santa: -17, -53
+Robo: 6, -56 New
+Santa: -17, -54
+Robo: 7, -56 New
+Santa: -18, -54
+Robo: 7, -55 New
+Santa: -17, -54
+Robo: 7, -56
+Santa: -18, -54
+Robo: 7, -57
+Santa: -18, -55
+Robo: 8, -57
+Santa: -17, -55
+Robo: 9, -57
+Santa: -16, -55 New
+Robo: 10, -57
+Santa: -15, -55 New
+Robo: 10, -56
+Santa: -15, -56 New
+Robo: 9, -56
+Santa: -15, -55
+Robo: 8, -56 New
+Santa: -16, -55
+Robo: 7, -56
+Santa: -16, -56
+Robo: 7, -55
+Santa: -15, -56
+Robo: 6, -55 New
+Santa: -15, -57 New
+Robo: 6, -56
+Santa: -16, -57 New
+Robo: 5, -56
+Santa: -15, -57
+Robo: 6, -56
+Santa: -15, -58 New
+Robo: 6, -57
+Santa: -16, -58 New
+Robo: 5, -57
+Santa: -15, -58
+Robo: 4, -57
+Santa: -15, -59 New
+Robo: 3, -57 New
+Santa: -14, -59 New
+Robo: 2, -57 New
+Santa: -15, -59
+Robo: 1, -57 New
+Santa: -15, -60 New
+Robo: 0, -57 New
+Santa: -15, -59
+Robo: -1, -57 New
+Santa: -15, -60
+Robo: -2, -57 New
+Santa: -14, -60 New
+Robo: -1, -57
+Santa: -14, -61 New
+Robo: -2, -57
+Santa: -14, -60
+Robo: -2, -56 New
+Santa: -14, -59
+Robo: -2, -55 New
+Santa: -14, -60
+Robo: -2, -54 New
+Santa: -14, -59
+Robo: -3, -54 New
+Santa: -14, -58 New
+Robo: -3, -53 New
+Santa: -14, -57 New
+Robo: -4, -53 New
+Santa: -14, -56 New
+Robo: -5, -53 New
+Santa: -14, -57
+Robo: -5, -54 New
+Santa: -13, -57 New
+Robo: -6, -54 New
+Santa: -14, -57
+Robo: -6, -53 New
+Santa: -13, -57
+Robo: -5, -53
+Santa: -14, -57
+Robo: -4, -53
+Santa: -14, -58
+Robo: -5, -53
+Santa: -15, -58
+Robo: -4, -53
+Santa: -15, -59
+Robo: -5, -53
+Santa: -15, -60
+Robo: -6, -53
+Santa: -14, -60
+Robo: -5, -53
+Santa: -13, -60 New
+Robo: -4, -53
+Santa: -14, -60
+Robo: -3, -53
+Santa: -14, -61
+Robo: -3, -52 New
+Santa: -14, -62 New
+Robo: -3, -53
+Santa: -13, -62 New
+Robo: -3, -52
+Santa: -12, -62 New
+Robo: -3, -51 New
+Santa: -11, -62 New
+Robo: -2, -51 New
+Santa: -11, -63 New
+Robo: -2, -52 New
+Santa: -11, -62
+Robo: -2, -53 New
+Santa: -12, -62
+Robo: -2, -54
+Santa: -13, -62
+Robo: -3, -54
+Santa: -12, -62
+Robo: -4, -54 New
+Santa: -12, -61 New
+Robo: -4, -55 New
+Santa: -11, -61 New
+Robo: -4, -56 New
+Santa: -11, -62
+Robo: -4, -55
+Santa: -10, -62 New
+Robo: -5, -55 New
+Santa: -10, -63 New
+Robo: -6, -55 New
+Santa: -11, -63
+Robo: -5, -55
+Santa: -11, -64 New
+Robo: -5, -54
+Santa: -11, -65 New
+Robo: -6, -54
+Santa: -11, -64
+Robo: -5, -54
+Santa: -11, -65
+Robo: -5, -55
+Santa: -12, -65 New
+Robo: -6, -55
+Santa: -12, -64 New
+Robo: -6, -54
+Santa: -12, -65
+Robo: -5, -54
+Santa: -13, -65 New
+Robo: -5, -53
+Santa: -12, -65
+Robo: -4, -53
+Santa: -12, -64
+Robo: -4, -52 New
+Santa: -12, -65
+Robo: -4, -53
+Santa: -13, -65
+Robo: -4, -52
+Santa: -14, -65 New
+Robo: -3, -52
+Santa: -13, -65
+Robo: -3, -53
+Santa: -13, -64 New
+Robo: -3, -52
+Santa: -12, -64
+Robo: -2, -52
+Santa: -13, -64
+Robo: -2, -53
+Santa: -12, -64
+Robo: -2, -52
+Santa: -12, -65
+Robo: -1, -52 New
+Santa: -11, -65
+Robo: 0, -52 New
+Santa: -11, -64
+Robo: 1, -52 New
+Santa: -10, -64 New
+Robo: 1, -53 New
+Santa: -9, -64 New
+Robo: 1, -54 New
+Santa: -10, -64
+Robo: 2, -54 New
+Santa: -10, -65 New
+Robo: 1, -54
+Santa: -10, -64
+Robo: 1, -55 New
+Santa: -10, -65
+Robo: 2, -55 New
+Santa: -11, -65
+Robo: 3, -55 New
+Santa: -11, -64
+Robo: 2, -55
+Santa: -12, -64
+Robo: 2, -54
+Santa: -11, -64
+Robo: 2, -55
+Santa: -11, -65
+Robo: 3, -55
+Santa: -10, -65
+Robo: 4, -55 New
+Santa: -11, -65
+Robo: 5, -55 New
+Santa: -12, -65
+Robo: 6, -55
+Santa: -12, -66 New
+Robo: 6, -54
+Santa: -11, -66 New
+Robo: 5, -54 New
+Santa: -10, -66 New
+Robo: 5, -55
+Santa: -10, -65
+Robo: 6, -55
+Santa: -10, -66
+Robo: 7, -55
+Santa: -10, -67 New
+Robo: 8, -55 New
+Santa: -11, -67 New
+Robo: 8, -54
+Santa: -11, -68 New
+Robo: 7, -54
+Santa: -10, -68 New
+Robo: 6, -54
+Santa: -10, -69 New
+Robo: 5, -54
+Santa: -10, -70 New
+Robo: 6, -54
+Santa: -10, -69
+Robo: 6, -55
+Santa: -11, -69 New
+Robo: 5, -55
+Santa: -11, -68
+Robo: 5, -56
+Santa: -11, -69
+Robo: 5, -55
+Santa: -10, -69
+Robo: 4, -55
+Santa: -10, -68
+Robo: 4, -54 New
+Santa: -9, -68 New
+Robo: 5, -54
+Santa: -10, -68
+Robo: 5, -53
+Santa: -10, -67
+Robo: 5, -52
+Santa: -11, -67
+Robo: 4, -52 New
+Santa: -12, -67 New
+Robo: 4, -51 New
+Santa: -11, -67
+Robo: 4, -52
+Santa: -10, -67
+Robo: 4, -51
+Santa: -10, -68
+Robo: 5, -51
+Santa: -9, -68
+Robo: 6, -51 New
+Santa: -10, -68
+Robo: 6, -50
+Santa: -9, -68
+Robo: 7, -50
+Santa: -10, -68
+Robo: 7, -49
+Santa: -9, -68
+Robo: 8, -49
+Santa: -8, -68 New
+Robo: 8, -48
+Santa: -8, -67 New
+Robo: 8, -47
+Santa: -9, -67 New
+Robo: 8, -46
+Santa: -8, -67
+Robo: 8, -47
+Santa: -8, -68
+Robo: 7, -47
+Santa: -7, -68 New
+Robo: 6, -47
+Santa: -8, -68
+Robo: 5, -47
+Santa: -8, -69 New
+Robo: 5, -46
+Santa: -7, -69 New
+Robo: 5, -45
+Santa: -8, -69
+Robo: 5, -44
+Santa: -8, -68
+Robo: 6, -44
+Santa: -7, -68
+Robo: 6, -43
+Santa: -7, -67 New
+Robo: 6, -42 New
+Santa: -7, -68
+Robo: 6, -41 New
+Santa: -7, -69
+Robo: 6, -40 New
+Santa: -7, -70 New
+Robo: 7, -40 New
+Santa: -7, -71 New
+Robo: 6, -40
+Santa: -7, -72 New
+Robo: 7, -40
+Santa: -6, -72 New
+Robo: 8, -40 New
+Santa: -5, -72 New
+Robo: 7, -40
+Santa: -5, -71 New
+Robo: 8, -40
+Santa: -4, -71 New
+Robo: 9, -40 New
+Santa: -4, -72 New
+Robo: 10, -40
+Santa: -4, -71
+Robo: 10, -41 New
+Santa: -4, -72
+Robo: 9, -41 New
+Santa: -5, -72
+Robo: 9, -40
+Santa: -5, -71
+Robo: 9, -39 New
+Santa: -6, -71 New
+Robo: 9, -38
+Santa: -6, -70 New
+Robo: 9, -39
+Santa: -6, -71
+Robo: 10, -39
+Santa: -6, -72
+Robo: 9, -39
+Santa: -7, -72
+Robo: 10, -39
+Santa: -8, -72 New
+Robo: 10, -40
+Santa: -9, -72 New
+Robo: 9, -40
+Santa: -9, -71 New
+Robo: 9, -39
+Santa: -8, -71 New
+Robo: 9, -40
+Santa: -7, -71
+Robo: 10, -40
+Santa: -8, -71
+Robo: 9, -40
+Santa: -8, -72
+Robo: 9, -39
+Santa: -8, -71
+Robo: 10, -39
+Santa: -9, -71
+Robo: 10, -38
+Santa: -8, -71
+Robo: 10, -37 New
+Santa: -9, -71
+Robo: 10, -36 New
+Santa: -8, -71
+Robo: 10, -35 New
+Santa: -8, -72
+Robo: 10, -34
+Santa: -7, -72
+Robo: 10, -35
+Santa: -6, -72
+Robo: 9, -35 New
+Santa: -6, -71
+Robo: 8, -35
+Santa: -6, -70
+Robo: 8, -36
+Santa: -6, -71
+Robo: 9, -36 New
+Santa: -6, -72
+Robo: 10, -36
+Santa: -5, -72
+Robo: 9, -36
+Santa: -4, -72
+Robo: 9, -35
+Santa: -5, -72
+Robo: 8, -35
+Santa: -5, -73 New
+Robo: 8, -36
+Santa: -6, -73 New
+Robo: 7, -36 New
+Santa: -6, -74 New
+Robo: 8, -36
+Santa: -6, -75 New
+Robo: 7, -36
+Santa: -6, -76 New
+Robo: 7, -37 New
+Santa: -7, -76 New
+Robo: 7, -38 New
+Santa: -6, -76
+Robo: 7, -37
+Santa: -5, -76 New
+Robo: 7, -36
+Santa: -4, -76 New
+Robo: 8, -36
+Santa: -5, -76
+Robo: 8, -35
+Santa: -5, -75 New
+Robo: 7, -35 New
+Santa: -5, -76
+Robo: 8, -35
+Santa: -5, -75
+Robo: 8, -36
+Santa: -5, -74 New
+Robo: 8, -37
+Santa: -6, -74
+Robo: 9, -37
+Santa: -7, -74 New
+Robo: 8, -37
+Santa: -6, -74
+Robo: 8, -38 New
+Santa: -6, -75
+Robo: 8, -39 New
+Santa: -7, -75 New
+Robo: 8, -38
+Santa: -8, -75 New
+Robo: 8, -39
+Santa: -7, -75
+Robo: 8, -38
+Santa: -6, -75
+Robo: 7, -38
+Santa: -5, -75
+Robo: 7, -37
+Santa: -4, -75 New
+Robo: 7, -38
+Santa: -4, -76
+Robo: 7, -39 New
+Santa: -3, -76 New
+Robo: 8, -39
+Santa: -2, -76 New
+Robo: 8, -38
+Santa: -1, -76 New
+Robo: 7, -38
+Santa: -2, -76
+Robo: 8, -38
+Santa: -1, -76
+Robo: 7, -38
+Santa: -1, -77 New
+Robo: 7, -37
+Santa: -1, -76
+Robo: 6, -37 New
+Santa: -1, -75 New
+Robo: 5, -37 New
+Santa: -2, -75 New
+Robo: 5, -36 New
+Santa: -2, -76
+Robo: 6, -36 New
+Santa: -1, -76
+Robo: 6, -35 New
+Santa: -1, -77
+Robo: 5, -35 New
+Santa: -1, -78 New
+Robo: 4, -35 New
+Santa: -1, -79 New
+Robo: 4, -36 New
+Santa: 0, -79 New
+Robo: 4, -37 New
+Santa: 0, -80 New
+Robo: 4, -36
+Santa: 0, -81 New
+Robo: 4, -35
+Santa: 1, -81 New
+Robo: 4, -36
+Santa: 0, -81
+Robo: 3, -36 New
+Santa: 0, -82 New
+Robo: 3, -37 New
+Santa: 0, -83 New
+Robo: 2, -37 New
+Santa: 0, -82
+Robo: 2, -36 New
+Santa: 0, -83
+Robo: 2, -35 New
+Santa: 0, -84 New
+Robo: 3, -35 New
+Santa: 0, -83
+Robo: 2, -35
+Santa: 0, -82
+Robo: 3, -35
+Santa: 1, -82 New
+Robo: 3, -34 New
+Santa: 2, -82 New
+Robo: 3, -35
+Santa: 1, -82
+Robo: 3, -34
+Santa: 2, -82
+Robo: 3, -33 New
+Santa: 2, -83 New
+Robo: 2, -33 New
+Santa: 1, -83 New
+Robo: 3, -33
+Santa: 0, -83
+Robo: 2, -33
+Santa: -1, -83 New
+Robo: 2, -32 New
+Santa: 0, -83
+Robo: 2, -31 New
+Santa: -1, -83
+Robo: 2, -30 New
+Santa: -1, -82 New
+Robo: 2, -29 New
+Santa: 0, -82
+Robo: 2, -30
+Santa: 0, -83
+Robo: 1, -30 New
+Santa: 0, -82
+Robo: 1, -29 New
+Santa: 0, -81
+Robo: 1, -28 New
+Santa: 0, -82
+Robo: 1, -29
+Santa: -1, -82
+Robo: 1, -30
+Santa: -2, -82 New
+Robo: 1, -29
+Santa: -2, -81 New
+Robo: 1, -30
+Santa: -3, -81 New
+Robo: 0, -30 New
+Santa: -4, -81 New
+Robo: -1, -30 New
+Santa: -4, -82 New
+Robo: -2, -30 New
+Santa: -4, -81
+Robo: -2, -31 New
+Santa: -4, -80 New
+Robo: -3, -31 New
+Santa: -3, -80 New
+Robo: -4, -31 New
+Santa: -3, -81
+Robo: -5, -31
+Santa: -4, -81
+Robo: -5, -30 New
+Santa: -3, -81
+Robo: -6, -30 New
+Santa: -4, -81
+Robo: -5, -30
+Santa: -4, -82
+Robo: -5, -31
+Santa: -3, -82 New
+Robo: -4, -31
+Santa: -2, -82
+Robo: -5, -31
+Santa: -2, -81
+Robo: -6, -31
+Santa: -2, -80 New
+Robo: -7, -31
+Santa: -1, -80 New
+Robo: -6, -31
+Santa: 0, -80
+Robo: -6, -30
+Santa: 1, -80 New
+Robo: -6, -29
+Santa: 2, -80 New
+Robo: -5, -29
+Santa: 2, -79 New
+Robo: -6, -29
+Santa: 1, -79 New
+Robo: -7, -29
+Santa: 0, -79
+Robo: -8, -29
+Santa: 0, -78 New
+Robo: -8, -28
+Santa: 0, -79
+Robo: -7, -28
+Santa: 0, -78
+Robo: -6, -28
+Santa: 0, -77 New
+Robo: -7, -28
+Santa: 1, -77 New
+Robo: -7, -29
+Santa: 1, -78 New
+Robo: -7, -30 New
+Santa: 1, -77
+Robo: -7, -29
+Santa: 0, -77
+Robo: -7, -28
+Santa: 1, -77
+Robo: -8, -28
+Santa: 1, -76 New
+Robo: -7, -28
+Santa: 1, -75 New
+Robo: -7, -27
+Santa: 1, -76
+Robo: -6, -27
+Santa: 1, -75
+Robo: -6, -28
+Santa: 1, -76
+Robo: -6, -27
+Santa: 2, -76 New
+Robo: -7, -27
+Santa: 2, -77 New
+Robo: -7, -26
+Santa: 1, -77
+Robo: -7, -25
+Santa: 0, -77
+Robo: -8, -25
+Santa: 0, -78
+Robo: -8, -24
+Santa: -1, -78
+Robo: -8, -25
+Santa: -1, -79
+Robo: -8, -26
+Santa: -2, -79 New
+Robo: -9, -26 New
+Santa: -2, -78 New
+Robo: -9, -27
+Santa: -3, -78 New
+Robo: -8, -27
+Santa: -4, -78 New
+Robo: -8, -26
+Santa: -3, -78
+Robo: -9, -26
+Santa: -3, -77 New
+Robo: -8, -26
+Santa: -2, -77 New
+Robo: -7, -26
+Santa: -2, -78
+Robo: -6, -26
+Santa: -2, -77
+Robo: -6, -27
+Santa: -1, -77
+Robo: -6, -26
+Santa: 0, -77
+Robo: -6, -25
+Santa: 0, -78
+Robo: -7, -25
+Santa: 0, -79
+Robo: -7, -26
+Santa: 0, -78
+Robo: -7, -27
+Santa: 1, -78
+Robo: -6, -27
+Santa: 0, -78
+Robo: -6, -28
+Santa: 1, -78
+Robo: -7, -28
+Santa: 1, -77
+Robo: -6, -28
+Santa: 0, -77
+Robo: -6, -29
+Santa: 0, -76 New
+Robo: -6, -28
+Santa: 1, -76
+Robo: -6, -29
+Santa: 1, -75
+Robo: -5, -29
+Santa: 1, -74 New
+Robo: -6, -29
+Santa: 2, -74 New
+Robo: -7, -29
+Santa: 1, -74
+Robo: -6, -29
+Santa: 0, -74 New
+Robo: -5, -29
+Santa: 0, -75 New
+Robo: -6, -29
+Santa: 0, -76
+Robo: -6, -28
+Santa: 1, -76
+Robo: -6, -29
+Santa: 1, -77
+Robo: -6, -30
+Santa: 1, -76
+Robo: -5, -30
+Santa: 1, -75
+Robo: -4, -30
+Santa: 2, -75 New
+Robo: -4, -31
+Santa: 1, -75
+Robo: -3, -31
+Santa: 1, -74
+Robo: -2, -31
+Santa: 0, -74
+Robo: -2, -30
+Santa: 1, -74
+Robo: -2, -29
+Santa: 2, -74
+Robo: -3, -29
+Santa: 2, -75
+Robo: -3, -30
+Santa: 2, -76
+Robo: -2, -30
+Santa: 2, -75
+Robo: -2, -29
+Santa: 2, -76
+Robo: -2, -28
+Santa: 2, -77
+Robo: -1, -28 New
+Santa: 2, -78 New
+Robo: -2, -28
+Santa: 3, -78 New
+Robo: -2, -27
+Santa: 3, -79 New
+Robo: -2, -26 New
+Santa: 4, -79 New
+Robo: -3, -26
+Santa: 4, -78 New
+Robo: -2, -26
+Santa: 5, -78 New
+Robo: -2, -27
+Santa: 6, -78 New
+Robo: -2, -28
+Santa: 6, -77 New
+Robo: -1, -28
+Santa: 5, -77 New
+Robo: -2, -28
+Santa: 4, -77 New
+Robo: -2, -27
+Santa: 5, -77
+Robo: -1, -27 New
+Santa: 5, -76 New
+Robo: -2, -27
+Santa: 6, -76 New
+Robo: -2, -26
+Santa: 5, -76
+Robo: -1, -26 New
+Santa: 6, -76
+Robo: -1, -27
+Santa: 7, -76 New
+Robo: -2, -27
+Santa: 8, -76 New
+Robo: -1, -27
+Santa: 8, -77 New
+Robo: -1, -26
+Santa: 9, -77 New
+Robo: -1, -25
+Santa: 10, -77 New
+Robo: -1, -24
+Santa: 10, -76 New
+Robo: -2, -24
+Santa: 11, -76 New
+Robo: -1, -24
+Santa: 11, -77 New
+Robo: -1, -23 New
+Santa: 12, -77 New
+Robo: -1, -22
+Santa: 11, -77
+Robo: -1, -23
+Santa: 11, -78 New
+Robo: -1, -24
+Santa: 11, -79 New
+Robo: -2, -24
+Santa: 11, -78
+Robo: -2, -25
+Santa: 11, -79
+Robo: -2, -26
+Santa: 11, -80 New
+Robo: -2, -25
+Santa: 12, -80 New
+Robo: -1, -25
+Santa: 12, -81 New
+Robo: -1, -26
+Santa: 12, -80
+Robo: -2, -26
+Santa: 12, -81
+Robo: -2, -25
+Santa: 12, -82 New
+Robo: -1, -25
+Santa: 12, -81
+Robo: -1, -26
+Santa: 12, -82
+Robo: -2, -26
+Santa: 13, -82 New
+Robo: -2, -27
+Santa: 12, -82
+Robo: -1, -27
+Santa: 12, -81
+Robo: -2, -27
+Santa: 12, -82
+Robo: -3, -27
+Santa: 12, -83 New
+Robo: -2, -27
+Santa: 12, -84 New
+Robo: -1, -27
+Santa: 12, -83
+Robo: -1, -26
+Santa: 13, -83 New
+Robo: -2, -26
+Santa: 13, -82
+Robo: -1, -26
+Santa: 13, -83
+Robo: -1, -27
+Santa: 13, -82
+Robo: -2, -27
+Santa: 13, -81 New
+Robo: -2, -28
+Santa: 13, -80 New
+Robo: -3, -28
+Santa: 12, -80
+Robo: -3, -27
+Santa: 11, -80
+Robo: -3, -26
+Santa: 10, -80 New
+Robo: -2, -26
+Santa: 9, -80 New
+Robo: -2, -27
+Santa: 9, -81 New
+Robo: -3, -27
+Santa: 9, -80
+Robo: -3, -28
+Santa: 8, -80 New
+Robo: -3, -27
+Santa: 8, -81 New
+Robo: -2, -27
+Santa: 7, -81 New
+Robo: -1, -27
+Santa: 8, -81
+Robo: 0, -27 New
+Santa: 8, -80
+Robo: 0, -28 New
+Santa: 8, -79 New
+Robo: -1, -28
+Santa: 7, -79 New
+Robo: -1, -27
+Santa: 8, -79
+Robo: -2, -27
+Santa: 8, -78 New
+Robo: -1, -27
+Santa: 8, -79
+Robo: -1, -28
+Santa: 7, -79
+Robo: -1, -29
+Santa: 8, -79
+Robo: -1, -30
+Santa: 7, -79
+Robo: -1, -29
+Santa: 8, -79
+Robo: -1, -30
+Santa: 8, -80
+Robo: -1, -29
+Santa: 9, -80
+Robo: -1, -30
+Santa: 8, -80
+Robo: -2, -30
+Santa: 7, -80 New
+Robo: -1, -30
+Santa: 7, -79
+Robo: -2, -30
+Santa: 8, -79
+Robo: -3, -30
+Santa: 8, -80
+Robo: -4, -30
+Santa: 8, -79
+Robo: -4, -29
+Santa: 8, -78
+Robo: -3, -29
+Santa: 8, -79
+Robo: -2, -29
+Santa: 7, -79
+Robo: -2, -28
+Santa: 7, -78 New
+Robo: -3, -28
+Santa: 8, -78
+Robo: -3, -27
+Santa: 7, -78
+Robo: -3, -26
+Santa: 6, -78
+Robo: -3, -27
+Santa: 6, -77
+Robo: -3, -28
+Santa: 6, -78
+Robo: -3, -27
+Santa: 5, -78
+Robo: -4, -27
+Santa: 5, -77
+Robo: -3, -27
+Santa: 6, -77
+Robo: -4, -27
+Santa: 5, -77
+Robo: -4, -28
+Santa: 5, -76
+Robo: -4, -29
+Santa: 4, -76 New
+Robo: -4, -28
+Santa: 4, -77
+Robo: -4, -29
+Santa: 4, -78
+Robo: -5, -29
+Santa: 3, -78
+Robo: -6, -29
+Santa: 4, -78
+Robo: -5, -29
+Santa: 4, -79
+Robo: -5, -30
+Santa: 4, -80 New
+Robo: -5, -31
+Santa: 4, -79
+Robo: -5, -32 New
+Santa: 4, -78
+Robo: -5, -31
+Santa: 4, -77
+Robo: -4, -31
+Santa: 4, -78
+Robo: -5, -31
+Santa: 5, -78
+Robo: -4, -31
+Santa: 6, -78
+Robo: -5, -31
+Santa: 5, -78
+Robo: -4, -31
+Santa: 5, -79 New
+Robo: -4, -32 New
+Santa: 5, -80 New
+Robo: -5, -32
+Santa: 4, -80
+Robo: -5, -31
+Santa: 4, -79
+Robo: -5, -30
+Santa: 5, -79
+Robo: -5, -31
+Santa: 6, -79 New
+Robo: -5, -32
+Santa: 7, -79
+Robo: -4, -32
+Santa: 7, -80
+Robo: -5, -32
+Santa: 6, -80 New
+Robo: -5, -33 New
+Santa: 5, -80
+Robo: -5, -34 New
+Santa: 5, -79
+Robo: -5, -35 New
+Santa: 5, -78
+Robo: -4, -35 New
+Santa: 5, -77
+Robo: -4, -34 New
+Santa: 5, -78
+Robo: -3, -34 New
+Santa: 5, -77
+Robo: -2, -34 New
+Santa: 4, -77
+Robo: -2, -33 New
+Santa: 3, -77 New
+Robo: -1, -33 New
+Santa: 2, -77
+Robo: -2, -33
+Santa: 2, -78
+Robo: -2, -32 New
+Santa: 1, -78
+Robo: -2, -33
+Santa: 0, -78
+Robo: -2, -34
+Santa: 0, -77
+Robo: -2, -33
+Santa: 0, -76
+Robo: -1, -33
+Santa: -1, -76
+Robo: 0, -33 New
+Santa: -1, -77
+Robo: 0, -32 New
+Santa: -1, -76
+Robo: 0, -31 New
+Santa: -2, -76
+Robo: 0, -32
+Santa: -1, -76
+Robo: 0, -33
+Santa: -1, -77
+Robo: -1, -33
+Santa: 0, -77
+Robo: -1, -32 New
+Santa: 1, -77
+Robo: -1, -31 New
+Santa: 1, -76
+Robo: -1, -32
+Santa: 1, -77
+Robo: 0, -32
+Santa: 1, -76
+Robo: -1, -32
+Santa: 0, -76
+Robo: -1, -31
+Santa: 0, -77
+Robo: -2, -31
+Santa: 0, -76
+Robo: -2, -32
+Santa: 1, -76
+Robo: -3, -32 New
+Santa: 1, -77
+Robo: -2, -32
+Santa: 2, -77
+Robo: -1, -32
+Santa: 2, -76
+Robo: 0, -32
+Santa: 3, -76 New
+Robo: 1, -32 New
+Santa: 2, -76
+Robo: 1, -31 New
+Santa: 1, -76
+Robo: 0, -31
+Santa: 2, -76
+Robo: 0, -30
+Santa: 2, -77
+Robo: 1, -30
+Santa: 3, -77
+Robo: 1, -29
+Santa: 4, -77
+Robo: 1, -30
+Santa: 4, -78
+Robo: 0, -30
+Santa: 3, -78
+Robo: -1, -30
+Santa: 3, -79
+Robo: -2, -30
+Santa: 4, -79
+Robo: -2, -29
+Santa: 3, -79
+Robo: -2, -30
+Santa: 4, -79
+Robo: -3, -30
+Santa: 4, -80
+Robo: -3, -29
+Santa: 3, -80 New
+Robo: -3, -28
+Santa: 2, -80
+Robo: -2, -28
+Santa: 2, -81 New
+Robo: -1, -28
+Santa: 2, -82
+Robo: -1, -27
+Santa: 2, -81
+Robo: -1, -28
+Santa: 2, -80
+Robo: 0, -28
+Santa: 3, -80
+Robo: -1, -28
+Santa: 2, -80
+Robo: -1, -27
+Santa: 2, -81
+Robo: -2, -27
+Santa: 1, -81
+Robo: -3, -27
+Santa: 0, -81
+Robo: -2, -27
+Santa: 0, -82
+Robo: -1, -27
+Santa: 0, -83
+Robo: 0, -27
+Santa: 0, -84
+Robo: 0, -26 New
+Santa: 0, -83
+Robo: -1, -26
+Santa: 0, -82
+Robo: 0, -26
+Santa: -1, -82
+Robo: 1, -26 New
+Santa: -1, -81 New
+Robo: 1, -25 New
+Santa: -2, -81
+Robo: 0, -25 New
+Santa: -3, -81
+Robo: 0, -26
+Santa: -2, -81
+Robo: 0, -27
+Santa: -2, -82
+Robo: -1, -27
+Santa: -1, -82
+Robo: 0, -27
+Santa: 0, -82
+Robo: 0, -26
+Santa: 1, -82
+Robo: 1, -26
+Santa: 1, -83
+Robo: 0, -26
+Santa: 2, -83
+Robo: -1, -26
+Santa: 2, -84 New
+Robo: -1, -25
+Santa: 3, -84 New
+Robo: -1, -24
+Santa: 2, -84
+Robo: 0, -24 New
+Santa: 1, -84 New
+Robo: 0, -25
+Santa: 1, -85 New
+Robo: 1, -25
+Santa: 1, -86 New
+Robo: 2, -25 New
+Santa: 1, -87 New
+Robo: 2, -24 New
+Santa: 1, -88 New
+Robo: 1, -24 New
+Santa: 1, -89 New
+Robo: 1, -23 New
+Santa: 0, -89 New
+Robo: 1, -22 New
+Santa: 1, -89
+Robo: 2, -22 New
+Santa: 1, -88
+Robo: 3, -22 New
+Santa: 2, -88 New
+Robo: 2, -22
+Santa: 1, -88
+Robo: 2, -21 New
+Santa: 1, -87
+Robo: 1, -21 New
+Santa: 1, -86
+Robo: 1, -20 New
+Santa: 1, -87
+Robo: 0, -20 New
+Santa: 1, -88
+Robo: 0, -21 New
+Santa: 0, -88 New
+Robo: 1, -21
+Santa: 1, -88
+Robo: 0, -21
+Santa: 0, -88
+Robo: -1, -21
+Santa: 0, -89
+Robo: -2, -21
+Santa: 0, -88
+Robo: -3, -21
+Santa: -1, -88 New
+Robo: -3, -20
+Santa: -1, -87 New
+Robo: -3, -19
+Santa: 0, -87 New
+Robo: -3, -20
+Santa: 0, -88
+Robo: -3, -21
+Santa: 0, -87
+Robo: -4, -21
+Santa: 0, -88
+Robo: -4, -22
+Santa: 0, -89
+Robo: -5, -22
+Santa: 0, -88
+Robo: -4, -22
+Santa: 0, -89
+Robo: -4, -23
+Santa: 1, -89
+Robo: -5, -23
+Santa: 2, -89 New
+Robo: -4, -23
+Santa: 1, -89
+Robo: -5, -23
+Santa: 0, -89
+Robo: -5, -22
+Santa: -1, -89 New
+Robo: -5, -23
+Santa: -1, -88
+Robo: -5, -24
+Santa: -1, -87
+Robo: -5, -23
+Santa: -2, -87 New
+Robo: -6, -23
+Santa: -2, -86 New
+Robo: -6, -24
+Santa: -2, -87
+Robo: -6, -25
+Santa: -2, -86
+Robo: -6, -24
+Santa: -3, -86 New
+Robo: -6, -23
+Santa: -4, -86 New
+Robo: -5, -23
+Santa: -5, -86 New
+Robo: -6, -23
+Santa: -4, -86
+Robo: -6, -22 New
+Santa: -5, -86
+Robo: -6, -21 New
+Santa: -6, -86 New
+Robo: -5, -21
+Santa: -5, -86
+Robo: -5, -22
+Santa: -5, -87 New
+Robo: -5, -23
+Santa: -6, -87 New
+Robo: -4, -23
+Santa: -6, -86
+Robo: -5, -23
+Santa: -5, -86
+Robo: -5, -24
+Santa: -5, -85 New
+Robo: -5, -25
+Santa: -6, -85 New
+Robo: -4, -25
+Santa: -7, -85 New
+Robo: -3, -25
+Santa: -6, -85
+Robo: -3, -26
+Santa: -6, -84 New
+Robo: -3, -27
+Santa: -5, -84 New
+Robo: -4, -27
+Santa: -6, -84
+Robo: -3, -27
+Santa: -5, -84
+Robo: -2, -27
+Santa: -5, -85
+Robo: -2, -28
+Santa: -5, -86
+Robo: -1, -28
+Santa: -5, -87
+Robo: -2, -28
+Santa: -4, -87 New
+Robo: -2, -27
+Santa: -3, -87 New
+Robo: -1, -27
+Santa: -3, -86
+Robo: 0, -27
+Santa: -4, -86
+Robo: 0, -26
+Santa: -3, -86
+Robo: 0, -27
+Santa: -3, -87
+Robo: -1, -27
+Santa: -4, -87
+Robo: 0, -27
+Santa: -3, -87
+Robo: 0, -28
+Santa: -4, -87
+Robo: -1, -28
+Santa: -4, -86
+Robo: 0, -28
+Santa: -5, -86
+Robo: 1, -28
+Santa: -5, -87
+Robo: 2, -28 New
+Santa: -4, -87
+Robo: 2, -27 New
+Santa: -4, -86
+Robo: 1, -27 New
+Santa: -4, -87
+Robo: 2, -27
+Santa: -4, -86
+Robo: 3, -27 New
+Santa: -4, -85 New
+Robo: 2, -27
+Santa: -5, -85
+Robo: 3, -27
+Santa: -4, -85
+Robo: 2, -27
+Santa: -4, -84 New
+Robo: 1, -27
+Santa: -5, -84
+Robo: 1, -28
+Santa: -5, -85
+Robo: 0, -28
+Santa: -5, -84
+Robo: -1, -28
+Santa: -5, -85
+Robo: -1, -29
+Santa: -5, -84
+Robo: -1, -30
+Santa: -5, -85
+Robo: 0, -30
+Santa: -6, -85
+Robo: 1, -30
+Santa: -5, -85
+Robo: 2, -30
+Santa: -4, -85
+Robo: 1, -30
+Santa: -4, -84
+Robo: 0, -30
+Santa: -4, -85
+Robo: 1, -30
+Santa: -4, -84
+Robo: 2, -30
+Santa: -4, -85
+Robo: 2, -31
+Santa: -5, -85
+Robo: 2, -32
+Santa: -4, -85
+Robo: 1, -32
+Santa: -3, -85 New
+Robo: 1, -31
+Santa: -4, -85
+Robo: 2, -31
+Santa: -4, -86
+Robo: 2, -32
+Santa: -4, -87
+Robo: 2, -33
+Santa: -4, -88 New
+Robo: 2, -32
+Santa: -4, -89 New
+Robo: 2, -33
+Santa: -5, -89 New
+Robo: 1, -33 New
+Santa: -5, -90 New
+Robo: 0, -33
+Santa: -4, -90 New
+Robo: 1, -33
+Santa: -3, -90 New
+Robo: 1, -32
+Santa: -4, -90
+Robo: 0, -32
+Santa: -3, -90
+Robo: -1, -32
+Santa: -2, -90 New
+Robo: -1, -31
+Santa: -2, -89 New
+Robo: -1, -32
+Santa: -2, -90
+Robo: -1, -33
+Santa: -1, -90 New
+Robo: 0, -33
+Santa: 0, -90 New
+Robo: 0, -34 New
+Santa: 0, -91 New
+Robo: -1, -34 New
+Santa: -1, -91 New
+Robo: -1, -33
+Santa: -1, -90
+Robo: 0, -33
+Santa: -2, -90
+Robo: 0, -32
+Santa: -2, -91 New
+Robo: 0, -31
+Santa: -2, -90
+Robo: 0, -32
+Santa: -3, -90
+Robo: 1, -32
+Santa: -3, -89 New
+Robo: 1, -31
+Santa: -2, -89
+Robo: 1, -30
+Santa: -1, -89
+Robo: 0, -30
+Santa: -1, -88
+Robo: 1, -30
+Santa: -1, -89
+Robo: 1, -29
+Santa: -1, -88
+Robo: 1, -28
+Santa: -1, -87
+Robo: 1, -29
+Santa: -2, -87
+Robo: 1, -28
+Santa: -3, -87
+Robo: 0, -28
+Santa: -3, -88 New
+Robo: 0, -29 New
+Santa: -4, -88
+Robo: 0, -30
+Santa: -4, -89
+Robo: -1, -30
+Santa: -3, -89
+Robo: -1, -31
+Santa: -3, -90
+Robo: -1, -30
+Santa: -3, -89
+Robo: 0, -30
+Santa: -3, -90
+Robo: 0, -29
+Santa: -3, -91 New
+Robo: 0, -30
+Santa: -2, -91
+Robo: 0, -31
+Santa: -1, -91
+Robo: -1, -31
+Santa: 0, -91
+Robo: 0, -31
+Santa: 0, -92 New
+Robo: 0, -32
+Santa: 1, -92 New
+Robo: 0, -31
+Santa: 0, -92
+Robo: 0, -30
+Santa: -1, -92 New
+Robo: 0, -31
+Santa: -1, -91
+Robo: 0, -32
+Santa: -1, -90
+Robo: 1, -32
+Santa: 0, -90
+Robo: 1, -33
+Santa: 0, -89
+Robo: 1, -34 New
+Santa: 0, -88
+Robo: 1, -33
+Santa: 0, -89
+Robo: 2, -33
+Santa: 0, -88
+Robo: 3, -33
+Santa: 0, -89
+Robo: 3, -34
+Santa: 0, -88
+Robo: 4, -34 New
+Santa: 0, -89
+Robo: 3, -34
+Santa: 0, -90
+Robo: 3, -35
+Santa: 0, -91
+Robo: 3, -36
+Santa: -1, -91
+Robo: 3, -35
+Santa: -1, -92
+Robo: 2, -35
+Santa: -1, -91
+Robo: 2, -36
+Santa: 0, -91
+Robo: 2, -35
+Santa: 0, -92
+Robo: 3, -35
+Santa: 0, -91
+Robo: 3, -34
+Santa: 0, -92
+Robo: 2, -34 New
+Santa: -1, -92
+Robo: 2, -33
+Santa: 0, -92
+Robo: 2, -32
+Santa: 0, -91
+Robo: 1, -32
+Santa: -1, -91
+Robo: 2, -32
+Santa: -1, -90
+Robo: 3, -32 New
+Santa: -2, -90
+Robo: 3, -31 New
+Santa: -2, -91
+Robo: 4, -31
+Santa: -1, -91
+Robo: 5, -31
+Santa: -1, -92
+Robo: 5, -32 New
+Santa: -1, -91
+Robo: 6, -32
+Santa: -1, -90
+Robo: 6, -31
+Santa: 0, -90
+Robo: 6, -32
+Santa: 0, -91
+Robo: 6, -33 New
+Santa: 0, -92
+Robo: 7, -33
+Santa: 1, -92
+Robo: 7, -34 New
+Santa: 0, -92
+Robo: 7, -33
+Santa: -1, -92
+Robo: 7, -34
+Santa: 0, -92
+Robo: 7, -33
+Santa: 1, -92
+Robo: 8, -33
+Santa: 2, -92 New
+Robo: 8, -34
+Santa: 2, -91 New
+Robo: 7, -34
+Santa: 3, -91 New
+Robo: 6, -34 New
+Santa: 3, -90 New
+Robo: 5, -34 New
+Santa: 3, -89 New
+Robo: 5, -33 New
+Santa: 2, -89
+Robo: 5, -34
+Santa: 3, -89
+Robo: 5, -35
+Santa: 3, -90
+Robo: 5, -34
+Santa: 3, -89
+Robo: 6, -34
+Santa: 2, -89
+Robo: 6, -35
+Santa: 3, -89
+Robo: 6, -36
+Santa: 3, -88 New
+Robo: 5, -36
+Santa: 4, -88 New
+Robo: 5, -35
+Santa: 4, -87 New
+Robo: 5, -34
+Santa: 5, -87 New
+Robo: 6, -34
+Santa: 6, -87 New
+Robo: 5, -34
+Santa: 6, -86 New
+Robo: 5, -33
+Santa: 6, -87
+Robo: 6, -33
+Santa: 6, -88 New
+Robo: 7, -33
+Santa: 6, -87
+Robo: 6, -33
+Santa: 5, -87
+Robo: 7, -33
+Santa: 5, -86 New
+Robo: 6, -33
+Santa: 5, -87
+Robo: 6, -32
+Santa: 6, -87
+Robo: 6, -33
+Santa: 6, -88
+Robo: 6, -34
+Santa: 6, -87
+Robo: 7, -34
+Santa: 6, -86
+Robo: 7, -33
+Santa: 6, -85 New
+Robo: 8, -33
+Santa: 5, -85 New
+Robo: 8, -34
+Santa: 4, -85 New
+Robo: 8, -33
+Santa: 5, -85
+Robo: 9, -33 New
+Santa: 5, -86
+Robo: 8, -33
+Santa: 5, -87
+Robo: 9, -33
+Santa: 6, -87
+Robo: 9, -32
+Santa: 6, -88
+Robo: 10, -32
+Santa: 5, -88 New
+Robo: 9, -32
+Santa: 6, -88
+Robo: 8, -32
+Santa: 5, -88
+Robo: 9, -32
+Santa: 5, -89 New
+Robo: 8, -32
+Santa: 5, -88
+Robo: 7, -32
+Santa: 4, -88
+Robo: 8, -32
+Santa: 4, -87
+Robo: 9, -32
+Santa: 3, -87 New
+Robo: 10, -32
+Santa: 3, -86 New
+Robo: 11, -32
+Santa: 3, -87
+Robo: 11, -33
+Santa: 4, -87
+Robo: 11, -32
+Santa: 3, -87
+Robo: 11, -33
+Santa: 4, -87
+Robo: 11, -32
+Santa: 4, -86 New
+Robo: 11, -33
+Santa: 3, -86
+Robo: 10, -33
+Santa: 3, -85 New
+Robo: 10, -34
+Santa: 3, -84
+Robo: 10, -35
+Santa: 3, -85
+Robo: 10, -36
+Santa: 3, -84
+Robo: 10, -35
+Santa: 4, -84 New
+Robo: 10, -34
+Santa: 4, -85
+Robo: 10, -35
+Santa: 4, -84
+Robo: 9, -35
+Santa: 4, -83 New
+Robo: 10, -35
+Santa: 4, -82 New
+Robo: 11, -35 New
+Santa: 4, -81 New
+Robo: 11, -34 New
+Santa: 4, -82
+Robo: 12, -34 New
+Santa: 4, -83
+Robo: 12, -33
+Santa: 5, -83 New
+Robo: 12, -32 New
+Santa: 4, -83
+Robo: 11, -32
+Santa: 5, -83
+Robo: 10, -32
+Santa: 4, -83
+Robo: 10, -31
+Santa: 5, -83
+Robo: 10, -32
+Santa: 6, -83 New
+Robo: 11, -32
+Santa: 6, -84 New
+Robo: 11, -33
+Santa: 6, -83
+Robo: 11, -34
+Santa: 6, -84
+Robo: 12, -34
+Santa: 5, -84 New
+Robo: 12, -35 New
+Santa: 6, -84
+Robo: 13, -35 New
+Santa: 6, -83
+Robo: 12, -35
+Santa: 5, -83
+Robo: 12, -34
+Santa: 4, -83
+Robo: 12, -35
+Santa: 4, -82
+Robo: 12, -34
+Santa: 3, -82 New
+Robo: 12, -33
+Santa: 2, -82
+Robo: 12, -34
+Santa: 2, -81
+Robo: 12, -33
+Santa: 2, -82
+Robo: 12, -34
+Santa: 2, -81
+Robo: 13, -34 New
+Santa: 1, -81
+Robo: 13, -33
+Santa: 1, -80
+Robo: 12, -33
+Santa: 1, -79
+Robo: 12, -32
+Santa: 2, -79
+Robo: 11, -32
+Santa: 2, -80
+Robo: 11, -31
+Santa: 2, -79
+Robo: 12, -31 New
+Santa: 2, -80
+Robo: 12, -30
+Santa: 2, -79
+Robo: 12, -29
+Santa: 1, -79
+Robo: 12, -28
+Santa: 0, -79
+Robo: 13, -28
+Santa: 0, -78
+Robo: 12, -28
+Santa: 1, -78
+Robo: 13, -28
+Santa: 1, -77
+Robo: 13, -29
+Santa: 0, -77
+Robo: 13, -28
+Santa: 0, -78
+Robo: 13, -29
+Santa: 0, -79
+Robo: 13, -28
+Santa: 0, -78
+Robo: 13, -29
+Santa: 0, -77
+Robo: 12, -29
+Santa: 1, -77
+Robo: 11, -29
+Santa: 1, -76
+Robo: 12, -29
+Santa: 2, -76
+Robo: 13, -29
+Santa: 3, -76
+Robo: 14, -29
+Santa: 3, -77
+Robo: 15, -29
+Santa: 2, -77
+Robo: 16, -29
+Santa: 1, -77
+Robo: 15, -29
+Santa: 0, -77
+Robo: 16, -29
+Santa: 0, -78
+Robo: 16, -30
+Santa: -1, -78
+Robo: 16, -29
+Santa: -1, -79
+Robo: 17, -29
+Santa: 0, -79
+Robo: 16, -29
+Santa: -1, -79
+Robo: 17, -29
+Santa: -1, -80
+Robo: 17, -30
+Santa: -1, -81
+Robo: 16, -30
+Santa: 0, -81
+Robo: 15, -30
+Santa: -1, -81
+Robo: 15, -31 New
+Santa: -1, -82
+Robo: 14, -31 New
+Santa: -2, -82
+Robo: 13, -31 New
+Santa: -2, -81
+Robo: 14, -31
+Santa: -2, -82
+Robo: 14, -30
+Santa: -2, -81
+Robo: 15, -30
+Santa: -1, -81
+Robo: 15, -29
+Santa: 0, -81
+Robo: 15, -28
+Santa: 0, -82
+Robo: 16, -28
+Santa: 1, -82
+Robo: 15, -28
+Santa: 2, -82
+Robo: 14, -28
+Santa: 2, -81
+Robo: 14, -27
+Santa: 2, -82
+Robo: 13, -27
+Santa: 3, -82
+Robo: 14, -27
+Santa: 2, -82
+Robo: 15, -27
+Santa: 3, -82
+Robo: 15, -28
+Santa: 3, -81 New
+Robo: 16, -28
+Santa: 3, -80
+Robo: 15, -28
+Santa: 3, -81
+Robo: 15, -29
+Santa: 4, -81
+Robo: 14, -29
+Santa: 3, -81
+Robo: 13, -29
+Santa: 4, -81
+Robo: 14, -29
+Santa: 3, -81
+Robo: 15, -29
+Santa: 2, -81
+Robo: 14, -29
+Santa: 2, -82
+Robo: 15, -29
+Santa: 2, -81
+Robo: 15, -28
+Santa: 1, -81
+Robo: 16, -28
+Santa: 2, -81
+Robo: 16, -29
+Santa: 1, -81
+Robo: 17, -29
+Santa: 0, -81
+Robo: 17, -28
+Santa: -1, -81
+Robo: 17, -29
+Santa: -1, -82
+Robo: 18, -29
+Santa: -1, -83
+Robo: 18, -30
+Santa: -2, -83 New
+Robo: 18, -29
+Santa: -2, -84 New
+Robo: 19, -29
+Santa: -2, -83
+Robo: 18, -29
+Santa: -3, -83 New
+Robo: 17, -29
+Santa: -4, -83 New
+Robo: 17, -30
+Santa: -5, -83 New
+Robo: 17, -29
+Santa: -6, -83 New
+Robo: 16, -29
+Santa: -6, -82 New
+Robo: 16, -28
+Santa: -5, -82 New
+Robo: 17, -28
+Santa: -5, -81 New
+Robo: 16, -28
+Santa: -4, -81
+Robo: 15, -28
+Santa: -4, -80
+Robo: 16, -28
+Santa: -3, -80
+Robo: 15, -28
+Santa: -4, -80
+Robo: 16, -28
+Santa: -4, -79 New
+Robo: 17, -28
+Santa: -4, -80
+Robo: 18, -28
+Santa: -4, -79
+Robo: 18, -27
+Santa: -4, -78
+Robo: 18, -28
+Santa: -3, -78
+Robo: 19, -28
+Santa: -3, -77
+Robo: 18, -28
+Santa: -3, -76
+Robo: 18, -27
+Santa: -3, -77
+Robo: 19, -27
+Santa: -4, -77 New
+Robo: 19, -28
+Santa: -4, -76
+Robo: 19, -29
+Santa: -3, -76
+Robo: 19, -28
+Santa: -2, -76
+Robo: 18, -28
+Santa: -3, -76
+Robo: 19, -28
+Santa: -4, -76
+Robo: 20, -28
+Santa: -3, -76
+Robo: 20, -27
+Santa: -2, -76
+Robo: 21, -27
+Santa: -2, -75
+Robo: 20, -27
+Santa: -3, -75 New
+Robo: 20, -28
+Santa: -4, -75
+Robo: 21, -28
+Santa: -4, -74 New
+Robo: 21, -29
+Santa: -5, -74
+Robo: 22, -29
+Santa: -5, -73
+Robo: 23, -29
+Santa: -5, -72
+Robo: 22, -29
+Santa: -5, -73
+Robo: 23, -29
+Santa: -4, -73 New
+Robo: 23, -30
+Santa: -4, -74
+Robo: 24, -30
+Santa: -4, -73
+Robo: 24, -31
+Santa: -4, -74
+Robo: 24, -32
+Santa: -5, -74
+Robo: 23, -32
+Santa: -5, -75
+Robo: 22, -32
+Santa: -6, -75
+Robo: 22, -31
+Santa: -5, -75
+Robo: 22, -30
+Santa: -4, -75
+Robo: 22, -29
+Santa: -5, -75
+Robo: 21, -29
+Santa: -5, -74
+Robo: 21, -28
+Santa: -6, -74
+Robo: 22, -28
+Santa: -6, -73
+Robo: 22, -27
+Santa: -6, -72
+Robo: 22, -26
+Santa: -6, -73
+Robo: 22, -27
+Santa: -6, -74
+Robo: 21, -27
+Santa: -5, -74
+Robo: 21, -26
+Santa: -5, -75
+Robo: 21, -27
+Santa: -6, -75
+Robo: 21, -28
+Santa: -6, -76
+Robo: 21, -29
+Santa: -6, -77 New
+Robo: 21, -30
+Santa: -6, -76
+Robo: 21, -29
+Santa: -5, -76
+Robo: 21, -28
+Santa: -5, -75
+Robo: 20, -28
+Santa: -5, -74
+Robo: 21, -28
+Santa: -4, -74
+Robo: 22, -28
+Santa: -5, -74
+Robo: 23, -28
+Santa: -5, -75
+Robo: 23, -27
+Santa: -6, -75
+Robo: 24, -27
+Santa: -7, -75
+Robo: 24, -26
+Santa: -8, -75
+Robo: 23, -26
+Santa: -8, -74 New
+Robo: 24, -26
+Santa: -8, -75
+Robo: 24, -25
+Santa: -8, -74
+Robo: 24, -26
+Santa: -9, -74 New
+Robo: 25, -26
+Santa: -8, -74
+Robo: 25, -25
+Santa: -8, -75
+Robo: 25, -26
+Santa: -9, -75 New
+Robo: 26, -26
+Santa: -9, -76 New
+Robo: 26, -25
+Santa: -9, -75
+Robo: 25, -25
+Santa: -8, -75
+Robo: 26, -25
+Santa: -8, -76 New
+Robo: 26, -24
+Santa: -8, -77 New
+Robo: 26, -25
+Santa: -8, -78 New
+Robo: 26, -26
+Santa: -8, -79 New
+Robo: 25, -26
+Santa: -9, -79 New
+Robo: 25, -27
+Santa: -9, -78 New
+Robo: 24, -27
+Santa: -9, -79
+Robo: 24, -26
+Santa: -9, -78
+Robo: 25, -26
+Santa: -8, -78
+Robo: 26, -26
+Santa: -9, -78
+Robo: 26, -27
+Santa: -9, -79
+Robo: 26, -28
+Santa: -9, -80 New
+Robo: 26, -29
+Santa: -8, -80 New
+Robo: 27, -29 New
+Santa: -9, -80
+Robo: 27, -28 New
+Santa: -8, -80
+Robo: 27, -29
+Santa: -8, -81 New
+Robo: 28, -29 New
+Santa: -8, -82 New
+Robo: 28, -28 New
+Santa: -8, -83 New
+Robo: 28, -27
+Santa: -9, -83 New
+Robo: 28, -28
+Santa: -10, -83 New
+Robo: 28, -27
+Santa: -9, -83
+Robo: 28, -26
+Santa: -9, -82 New
+Robo: 29, -26
+Santa: -10, -82 New
+Robo: 29, -25 New
+Santa: -9, -82
+Robo: 29, -24 New
+Santa: -9, -81 New
+Robo: 29, -23
+Santa: -9, -80
+Robo: 29, -24
+Santa: -10, -80 New
+Robo: 30, -24 New
+Santa: -11, -80 New
+Robo: 30, -23 New
+Santa: -11, -81 New
+Robo: 29, -23
+Santa: -12, -81 New
+Robo: 30, -23
+Santa: -12, -82 New
+Robo: 30, -22
+Santa: -11, -82 New
+Robo: 30, -23
+Santa: -10, -82
+Robo: 31, -23 New
+Santa: -10, -83
+Robo: 31, -24 New
+Santa: -11, -83 New
+Robo: 30, -24
+Santa: -10, -83
+Robo: 30, -23
+Santa: -11, -83
+Robo: 30, -24
+Santa: -11, -82
+Robo: 30, -23
+Santa: -10, -82
+Robo: 30, -24
+Santa: -10, -83
+Robo: 30, -25 New
+Santa: -9, -83
+Robo: 30, -24
+Santa: -9, -82
+Robo: 29, -24
+Santa: -9, -83
+Robo: 29, -23
+Santa: -10, -83
+Robo: 30, -23
+Santa: -10, -84 New
+Robo: 30, -24
+Santa: -10, -83
+Robo: 31, -24
+Santa: -11, -83
+Robo: 32, -24 New
+Santa: -10, -83
+Robo: 31, -24
+Santa: -10, -84
+Robo: 31, -23
+Santa: -10, -83
+Robo: 31, -24
+Santa: -11, -83
+Robo: 32, -24
+Santa: -11, -82
+Robo: 33, -24 New
+Santa: -10, -82
+Robo: 33, -23 New
+Santa: -9, -82
+Robo: 33, -24
+Santa: -8, -82
+Robo: 32, -24
+Santa: -7, -82 New
+Robo: 33, -24
+Santa: -7, -81 New
+Robo: 33, -23
+Santa: -7, -82
+Robo: 34, -23 New
+Santa: -7, -81
+Robo: 35, -23 New
+Santa: -7, -80 New
+Robo: 36, -23 New
+Santa: -6, -80 New
+Robo: 37, -23 New
+Santa: -6, -79 New
+Robo: 38, -23 New
+Santa: -6, -80
+Robo: 37, -23
+Santa: -6, -79
+Robo: 37, -24 New
+Santa: -5, -79 New
+Robo: 37, -25 New
+Santa: -4, -79
+Robo: 37, -24
+Santa: -5, -79
+Robo: 37, -23
+Santa: -5, -78 New
+Robo: 37, -22 New
+Santa: -5, -77 New
+Robo: 37, -21 New
+Santa: -4, -77
+Robo: 38, -21 New
+Santa: -4, -78
+Robo: 37, -21
+Santa: -4, -79
+Robo: 36, -21 New
+Santa: -3, -79 New
+Robo: 37, -21
+Santa: -3, -80
+Robo: 36, -21
+Santa: -4, -80
+Robo: 36, -20 New
+Santa: -3, -80
+Robo: 36, -19 New
+Santa: -4, -80
+Robo: 36, -20
+Santa: -5, -80 New
+Robo: 35, -20 New
+Santa: -4, -80
+Robo: 35, -19 New
+Santa: -4, -79
+Robo: 36, -19
+Santa: -3, -79
+Robo: 35, -19
+Santa: -4, -79
+Robo: 35, -18 New
+Santa: -3, -79
+Robo: 34, -18 New
+Santa: -2, -79
+Robo: 34, -19 New
+Santa: -3, -79
+Robo: 35, -19
+Santa: -3, -78
+Robo: 35, -18
+Santa: -3, -77
+Robo: 35, -19
+Santa: -3, -78
+Robo: 34, -19
+Santa: -2, -78
+Robo: 34, -18
+Santa: -2, -77
+Robo: 35, -18
+Santa: -1, -77
+Robo: 34, -18
+Santa: -2, -77
+Robo: 34, -17 New
+Santa: -2, -76
+Robo: 35, -17 New
+Santa: -2, -77
+Robo: 36, -17 New
+Santa: -2, -78
+Robo: 36, -18 New
+Santa: -1, -78
+Robo: 36, -19
+Santa: -1, -79
+Robo: 37, -19 New
+Santa: -1, -80
+Robo: 37, -18 New
+Santa: 0, -80
+Robo: 37, -17 New
+Santa: 0, -81
+Robo: 38, -17 New
+Santa: 0, -82
+Robo: 38, -16 New
+Santa: 0, -81
+Robo: 37, -16 New
+Santa: 1, -81
+Robo: 38, -16
+Santa: 2, -81
+Robo: 37, -16
+Santa: 1, -81
+Robo: 37, -17
+Santa: 2, -81
+Robo: 36, -17
+Santa: 2, -82
+Robo: 35, -17
+Santa: 1, -82
+Robo: 36, -17
+Santa: 2, -82
+Robo: 36, -18
+Santa: 3, -82
+Robo: 35, -18
+Santa: 4, -82
+Robo: 35, -19
+Santa: 4, -83
+Robo: 35, -20
+Santa: 4, -82
+Robo: 35, -19
+Santa: 4, -83
+Robo: 36, -19
+Santa: 4, -82
+Robo: 36, -18
+Santa: 5, -82 New
+Robo: 36, -17
+Santa: 5, -83
+Robo: 36, -18
+Santa: 5, -84
+Robo: 36, -19
+Santa: 5, -83
+Robo: 37, -19
+Santa: 5, -82
+Robo: 36, -19
+Santa: 6, -82 New
+Robo: 36, -18
+Santa: 6, -83
+Robo: 36, -19
+Santa: 6, -84
+Robo: 36, -20
+Santa: 7, -84 New
+Robo: 35, -20
+Santa: 7, -85 New
+Robo: 36, -20
+Santa: 6, -85
+Robo: 36, -21
+Santa: 5, -85
+Robo: 37, -21
+Santa: 6, -85
+Robo: 38, -21
+Santa: 5, -85
+Robo: 39, -21 New
+Santa: 5, -84
+Robo: 38, -21
+Santa: 5, -83
+Robo: 38, -22 New
+Santa: 5, -84
+Robo: 37, -22
+Santa: 6, -84
+Robo: 37, -21
+Santa: 6, -85
+Robo: 36, -21
+Santa: 6, -84
+Robo: 36, -22 New
+Santa: 5, -84
+Robo: 37, -22
+Santa: 5, -83
+Robo: 37, -23
+Santa: 5, -84
+Robo: 37, -24
+Santa: 4, -84
+Robo: 36, -24 New
+Santa: 5, -84
+Robo: 37, -24
+Santa: 4, -84
+Robo: 37, -25
+Santa: 4, -85
+Robo: 37, -26 New
+Santa: 4, -84
+Robo: 38, -26 New
+Santa: 5, -84
+Robo: 38, -25 New
+Santa: 6, -84
+Robo: 37, -25
+Santa: 5, -84
+Robo: 37, -26
+Santa: 5, -85
+Robo: 37, -25
+Santa: 4, -85
+Robo: 37, -26
+Santa: 4, -84
+Robo: 38, -26
+Santa: 4, -83
+Robo: 37, -26
+Santa: 4, -84
+Robo: 36, -26 New
+Santa: 3, -84
+Robo: 36, -25 New
+Santa: 3, -83 New
+Robo: 37, -25
+Santa: 3, -82
+Robo: 37, -24
+Santa: 2, -82
+Robo: 37, -23
+Santa: 2, -81
+Robo: 37, -24
+Santa: 2, -80
+Robo: 38, -24 New
+Santa: 2, -81
+Robo: 37, -24
+Santa: 3, -81
+Robo: 37, -25
+Santa: 3, -80
+Robo: 37, -26
+Santa: 4, -80
+Robo: 36, -26
+Santa: 5, -80
+Robo: 37, -26
+Santa: 4, -80
+Robo: 37, -27 New
+Santa: 4, -79
+Robo: 37, -26
+Santa: 5, -79
+Robo: 38, -26
+Santa: 5, -78
+Robo: 38, -27 New
+Santa: 5, -79
+Robo: 38, -28 New
+Santa: 6, -79
+Robo: 37, -28 New
+Santa: 6, -78
+Robo: 37, -29 New
+Santa: 6, -79
+Robo: 38, -29 New
+Santa: 6, -80
+Robo: 38, -28
+Santa: 5, -80
+Robo: 38, -27
+Santa: 4, -80
+Robo: 38, -26
+Santa: 4, -81
+Robo: 39, -26 New
+Santa: 5, -81 New
+Robo: 39, -27 New
+Santa: 5, -80
+Robo: 39, -26
+Santa: 6, -80
+Robo: 39, -25 New
+Santa: 6, -81 New
+Robo: 39, -26
+Santa: 6, -82
+Robo: 39, -25
+Santa: 5, -82
+Robo: 39, -26
+Santa: 5, -81
+Robo: 39, -25
+Santa: 5, -82
+Robo: 39, -24 New
+Santa: 5, -81
+Robo: 40, -24 New
+Santa: 5, -82
+Robo: 39, -24
+Santa: 5, -81
+Robo: 38, -24
+Santa: 6, -81
+Robo: 39, -24
+Santa: 6, -80
+Robo: 38, -24
+Santa: 7, -80
+Robo: 39, -24
+Santa: 8, -80
+Robo: 39, -23 New
+Santa: 8, -79
+Robo: 38, -23
+Santa: 9, -79 New
+Robo: 37, -23
+Santa: 9, -78 New
+Robo: 37, -22
+Santa: 9, -79
+Robo: 37, -23
+Santa: 8, -79
+Robo: 38, -23
+Santa: 8, -78
+Robo: 38, -24
+Santa: 8, -79
+Robo: 38, -23
+Santa: 7, -79
+Robo: 39, -23
+Santa: 8, -79
+Robo: 40, -23 New
+Santa: 9, -79
+Robo: 40, -22 New
+Santa: 9, -78
+Robo: 39, -22 New
+Santa: 8, -78
+Robo: 39, -21
+Santa: 8, -77
+Robo: 38, -21
+Santa: 9, -77
+Robo: 38, -22
+Santa: 9, -78
+Robo: 38, -21
+Santa: 9, -77
+Robo: 39, -21
+Santa: 8, -77
+Robo: 40, -21 New
+Santa: 8, -76
+Robo: 40, -20 New
+Santa: 7, -76
+Robo: 40, -21
+Santa: 6, -76
+Robo: 39, -21
+Santa: 6, -77
+Robo: 40, -21
+Santa: 6, -76
+Robo: 39, -21
+Santa: 6, -77
+Robo: 39, -20 New
+Santa: 6, -76
+Robo: 40, -20
+Santa: 6, -75 New
+Robo: 40, -21
+Santa: 5, -75 New
+Robo: 41, -21 New
+Santa: 4, -75 New
+Robo: 42, -21 New
+Santa: 3, -75 New
+Robo: 43, -21 New
+Santa: 3, -76
+Robo: 43, -22 New
+Santa: 3, -77
+Robo: 44, -22 New
+Santa: 3, -76
+Robo: 44, -23 New
+Santa: 3, -75
+Robo: 45, -23 New
+Santa: 4, -75
+Robo: 45, -24 New
+Santa: 4, -76
+Robo: 44, -24 New
+Santa: 3, -76
+Robo: 44, -23
+Santa: 3, -77
+Robo: 43, -23 New
+Santa: 2, -77
+Robo: 44, -23
+Santa: 3, -77
+Robo: 43, -23
+Santa: 3, -78
+Robo: 44, -23
+Santa: 3, -77
+Robo: 45, -23
+Santa: 2, -77
+Robo: 45, -22 New
+Santa: 3, -77
+Robo: 46, -22 New
+Santa: 4, -77
+Robo: 46, -21 New
+Santa: 3, -77
+Robo: 46, -20 New
+Santa: 2, -77
+Robo: 46, -19 New
+Santa: 2, -76
+Robo: 47, -19 New
+Santa: 2, -77
+Robo: 47, -20 New
+Santa: 2, -76
+Robo: 46, -20
+Santa: 1, -76
+Robo: 46, -19
+Santa: 0, -76
+Robo: 47, -19
+Santa: 1, -76
+Robo: 47, -18 New
+Santa: 1, -75
+Robo: 48, -18 New
+Santa: 0, -75
+Robo: 49, -18 New
+Santa: -1, -75
+Robo: 48, -18
+Santa: -1, -76
+Robo: 49, -18
+Santa: -1, -75
+Robo: 49, -17 New
+Santa: -2, -75
+Robo: 49, -18
+Santa: -1, -75
+Robo: 50, -18 New
+Santa: -1, -76
+Robo: 49, -18
+Santa: -2, -76
+Robo: 49, -19 New
+Santa: -2, -77
+Robo: 49, -20 New
+Santa: -2, -78
+Robo: 50, -20 New
+Santa: -2, -77
+Robo: 50, -21 New
+Santa: -2, -76
+Robo: 50, -22 New
+Santa: -2, -77
+Robo: 51, -22 New
+Santa: -1, -77
+Robo: 50, -22
+Santa: -1, -76
+Robo: 50, -21
+Santa: -2, -76
+Robo: 49, -21 New
+Santa: -2, -75
+Robo: 50, -21
+Santa: -1, -75
+Robo: 50, -22
+Santa: 0, -75
+Robo: 50, -23 New
+Santa: -1, -75
+Robo: 50, -22
+Santa: -1, -74 New
+Robo: 50, -21
+Santa: -2, -74 New
+Robo: 50, -20
+Santa: -1, -74
+Robo: 49, -20
+Santa: -1, -73 New
+Robo: 49, -19
+Santa: -1, -74
+Robo: 49, -20
+Santa: 0, -74
+Robo: 49, -19
+Santa: 0, -75
+Robo: 49, -20
+Santa: -1, -75
+Robo: 49, -19
+Santa: -2, -75
+Robo: 49, -20
+Santa: -2, -76
+Robo: 48, -20 New
+Santa: -1, -76
+Robo: 48, -21 New
+Santa: 0, -76
+Robo: 47, -21 New
+Santa: 0, -75
+Robo: 46, -21
+Santa: 1, -75
+Robo: 45, -21 New
+Santa: 1, -76
+Robo: 46, -21
+Santa: 0, -76
+Robo: 46, -20
+Santa: 0, -75
+Robo: 46, -19
+Santa: 1, -75
+Robo: 47, -19
+Santa: 1, -74
+Robo: 46, -19
+Santa: 2, -74
+Robo: 45, -19 New
+Santa: 2, -73 New
+Robo: 44, -19 New
+Santa: 2, -74
+Robo: 45, -19
+Santa: 3, -74 New
+Robo: 46, -19
+Santa: 4, -74 New
+Robo: 46, -20
+Santa: 4, -73 New
+Robo: 45, -20 New
+Santa: 4, -74
+Robo: 46, -20
+Santa: 5, -74 New
+Robo: 47, -20
+Santa: 6, -74 New
+Robo: 48, -20
+Santa: 6, -75
+Robo: 47, -20
+Santa: 7, -75 New
+Robo: 46, -20
+Santa: 7, -74 New
+Robo: 46, -19
+Santa: 8, -74 New
+Robo: 46, -20
+Santa: 7, -74
+Robo: 46, -19
+Santa: 6, -74
+Robo: 46, -18 New
+Santa: 7, -74
+Robo: 47, -18
+Santa: 6, -74
+Robo: 47, -19
+Santa: 5, -74
+Robo: 48, -19 New
+Santa: 5, -73 New
+Robo: 49, -19
+Santa: 5, -74
+Robo: 49, -20
+Santa: 6, -74
+Robo: 49, -19
+Santa: 6, -73 New
+Robo: 49, -20
+Santa: 6, -72 New
+Robo: 49, -21
+Santa: 6, -71 New
+Robo: 48, -21
+Santa: 5, -71 New
+Robo: 48, -22 New
+Santa: 4, -71 New
+Robo: 49, -22 New
+Santa: 3, -71 New
+Robo: 48, -22
+Santa: 2, -71 New
+Robo: 48, -21
+Santa: 2, -72 New
+Robo: 48, -20
+Santa: 3, -72 New
+Robo: 47, -20
+Santa: 2, -72
+Robo: 47, -19
+Santa: 1, -72 New
+Robo: 48, -19
+Santa: 0, -72 New
+Robo: 47, -19
+Santa: -1, -72 New
+Robo: 46, -19
+Santa: -1, -73
+Robo: 45, -19
+Santa: -1, -72
+Robo: 46, -19
+Santa: 0, -72
+Robo: 45, -19
+Santa: -1, -72
+Robo: 44, -19
+Santa: 0, -72
+Robo: 44, -20 New
+Santa: 1, -72
+Robo: 45, -20
+Santa: 1, -73 New
+Robo: 45, -21
+Santa: 2, -73
+Robo: 44, -21 New
+Santa: 2, -74
+Robo: 44, -22
+Santa: 1, -74
+Robo: 45, -22
+Santa: 0, -74
+Robo: 44, -22
+Santa: 0, -73 New
+Robo: 43, -22
+Santa: 0, -72
+Robo: 42, -22 New
+Santa: 1, -72
+Robo: 41, -22 New
+Santa: 1, -73
+Robo: 41, -23 New
+Santa: 2, -73
+Robo: 41, -22
+Santa: 2, -72
+Robo: 41, -21
+Santa: 2, -71
+Robo: 40, -21
+Santa: 3, -71
+Robo: 40, -22
+Santa: 2, -71
+Robo: 39, -22
+Santa: 1, -71 New
+Robo: 38, -22
+Santa: 1, -72
+Robo: 39, -22
+Santa: 1, -73
+Robo: 39, -23
+Santa: 0, -73
+Robo: 40, -23
+Santa: 0, -74
+Robo: 40, -24
+Santa: 0, -73
+Robo: 40, -23
+Santa: 0, -72
+Robo: 41, -23
+Santa: 1, -72
+Robo: 40, -23
+Santa: 2, -72
+Robo: 40, -24
+Santa: 2, -73
+Robo: 40, -23
+Santa: 3, -73 New
+Robo: 39, -23
+Santa: 4, -73
+Robo: 40, -23
+Santa: 4, -72 New
+Robo: 40, -24
+Santa: 4, -73
+Robo: 39, -24
+Santa: 3, -73
+Robo: 40, -24
+Santa: 2, -73
+Robo: 40, -23
+Santa: 2, -72
+Robo: 40, -24
+Santa: 2, -73
+Robo: 39, -24
+Santa: 3, -73
+Robo: 39, -25
+Santa: 3, -72
+Robo: 40, -25 New
+Santa: 4, -72
+Robo: 40, -24
+Santa: 3, -72
+Robo: 39, -24
+Santa: 4, -72
+Robo: 39, -23
+Santa: 3, -72
+Robo: 39, -24
+Santa: 3, -71
+Robo: 38, -24
+Santa: 3, -70 New
+Robo: 39, -24
+Santa: 3, -71
+Robo: 38, -24
+Santa: 3, -71
+Houses visited at least once: 2362

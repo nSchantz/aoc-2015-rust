@@ -1,0 +1,69 @@
+use std::{io::Read, fs::File};
+use std::collections::HashMap;
+
+struct Point {
+    x : i32,
+    y : i32,
+}
+
+impl Point {
+    fn new(x: i32, y: i32) -> Point {
+        Point { x, y }
+    }
+
+    fn mv_up(&mut self) {
+        self.y = self.y + 1;
+    }
+
+    fn mv_left(&mut self) {
+        self.x = self.x - 1;
+    }
+
+    fn mv_right(&mut self) {
+        self.x = self.x + 1;
+    }
+
+    fn mv_down(&mut self) {
+        self.y = self.y - 1;
+    }
+}
+
+fn main() -> std::io::Result<()> {
+    let mut file = File::open("../input")?;
+    let mut input = String::new();
+    file.read_to_string(&mut input)?;
+
+    let mut map : HashMap<(i32, i32), bool> = HashMap::new(); 
+    let mut coords : Point = Point::new(0, 0);
+    let mut count : i32 = 0;
+
+    for dir in input.chars() {
+        match dir {
+            '^' => coords.mv_up(),
+            '<' => coords.mv_left(),
+            '>' => coords.mv_right(),
+            'v' => coords.mv_down(),
+            _ => ()
+        };
+
+        print!("x: {}, y: {}", coords.x, coords.y);
+        match map.get(&(coords.x, coords.y)) {
+            Some(true) => { 
+                //println!(" Already Visited");
+                ()
+            },
+            None => { 
+                map.insert((coords.x, coords.y), true);
+                count = count + 1;
+                //println!("");
+                ()
+            },
+            _ => ()
+        };
+    }
+    
+    // Adding one for the starting location.
+    println!("Houses visited at least once: {}", count + 1);
+
+    Ok(())
+}
